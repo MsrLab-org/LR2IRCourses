@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>OXPMS段位認定　Overjoy</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e33bc40eea6874c66664d1d4d993433315e6941f7db0608573c0ead5b87c0d16ef176ef691012fc748ebb2f2649502e29ae5c472be89a8ea2718fceee9825f21b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　皆伝</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e23a532fe7950d47db5288a7c761b0468ff886ebb62fac5f06216c74a183638e10a7372791b6cbf33a6db40e3fe726a0a594d52a121f690dc2deaef8b5454aa02</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　十段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e3f2b2a9829307eb0c4d2b45d4daedfedfba8c75cf11194743a07c1504fbd278eb4d0b1b7c07c8919cf988c8ff39bd34e0454642082162963945c201ed4e7f1f5</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　九段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981ecb3ec73eb60e0ce3b338abb9e0facba467bf4db10a0f5a25518113ff0c0ef15b02ae620d2e0bb551586859e624ae0784e4b3268da777de79f95ef0165de149e6</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　八段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e7591ce497d9f5aed4d0e180390b9bc1b244ed55de5bde365723ff330d06901062977555ee4ea2f2adc79b5ff58a626bd8a8bde0feb1328b15735d7d3feae52ca</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　七段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981ea66c87010fcc511eb5f4c58ae053852ed131529ed927c4c8f648f0e64e5f6e8a448cc5ea1d287501c6c788a23586202d6b5713d2482ac9a2caca764428a370bf</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　六段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e5793b10777b7e0ca45502298017f968ed568525fbfb9ca5e76c268d1b77c9258a03a9e92bdd3db31d21bf2be2702911f5e30464154933269fca3dc8d7d60e49a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　五段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e9a0fec6248b2e6e319237d2dfcd1d7daeebd96cac57d36c100df3e3308e6247f70963347610bdb3e8fd985768245888d4227fb7e8d80e06048dd4bd23b675d3c</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　四段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e42f6d9d6fc8bd7990c29035c5efe2c670483ad53674cbf23edee13368fcee5725db82530216546db015d6d06b5b43bce0d06bd2a2356892335ce6478bbe54c48</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　三段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981ecd2ff813f94fcc3fba898697b664a4a7f3f88a1ee41151fe6174f364f7e23dd9db54df839e0d8f084695bf07b29ae5a6d58a151be6a76f3639eb8d6102cbf022</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　二段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e317ffc905a2223e27745c10068a5183001cdacdbf5f1746fc8d81837e79a642b15dabe7115c7134d7e283d750e1da9aa7417e9ea34442df43d12789d64311f6b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　初段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e4b63785b5ef610dbb31c856fb06176d62365ee39a315ce8185d2d25dd184ae1eb835b5a1e8d51c23063bb222ab789fa5d563ed4de3f50cd7353171e8fea3a78a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　一級</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e6a50874cae41139c923291b2f6dbdb8e9748f01a04a3e7c904a36df32274c670b60a4be1160f37f635412e40713212a3ee4af63d822a52a1233b7a07bc739e32</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　二級</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e1e2461172c41bc14837e0d11a3099b3edfed5b3f96c11c94a5a67474a46ea9a0f5c9b5f6dfc0c05a606ee7047471e21a846f72f4e2d7e543fa8a2a70aed11605</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　三級</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981ebef0b5d455dd6b49d20ea67afadcac137b5b89bdb72922e186193c65a054e8b246d9354ca169ed87e014a80524c4689420d46ecf863b0b07a6b5b47d2eb00a3d</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　四級</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981ed41fe58416178e51ccd2411aa6d0bad22cade8754ee2a9fc9601605145cef4cec4db33bb608abfb0eb749d15486170fa454a34e9ca0fb219f3e13e4bbde69c32</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　五級</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e835fb515297f7eb5f0028ece92819731ebd035ea2f33ad8cca782e98cd6f267425e7314137699104e8250eb82d6544998640a0dcc4b46700127d1e74db23823e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　六級</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e27bfbd54fbb4dff5ffacd6c4dc0506829d23118e873efeb0f43a593688be37cc3675fe9a967f23a9cd7d36d1bade98619475848c0b4bb50863690cdb9b9f659e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　七級</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e4331863bf9c724a19bcef77469cc63dc7966bac249161fd7af441fc0057568db27490d96f614403eb263b863d13c4336e93e231460987285e6d7ed35fa59a07b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>OXPMS段位認定　初級</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000981e55658ed4f731e07011d0fb8704da60adf021ae08516c6fa00e658f6d822849275f2fe039cc0d0d98fb8db0cf73a290b862fe12dd199338aed582498797311ce3</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

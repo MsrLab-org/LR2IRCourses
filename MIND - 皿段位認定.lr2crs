@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>皿段位認定 皆伝</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de6ec4aecf88cceb2ee78de24e91c2a1eedee27129da98529c7da263c6d402ee5569e405d21be04baaa331443cbf7360d496cbe9f3a35e54d0c13719a09a6b73aae</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 十段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de6767ad39417a9ceddddc864b5aa19df1126783a6be320734f50cdb920b98e581d180d8babdfd3ef6f0066d27ab09b92b341418f90b426431c94754098e74e2c0a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 九段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de6169dc9f915a9e43b8488a20e2fb6df51241c901a28f42fd56519cfb46d408907cfc5bd58a751dae8c60e916929997975336b6155717ce1841028482f6470d4df</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 八段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de66bd2f03d509e62e20a3d301771b0de88189b677f1d3c310243d4586388e21497f346c17c76b5a5b3457d33cc462a9925542deee89f1a28547616df83db89630b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 七段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de6bd30b68a6e647ce1541a96ec48070d5178a9cdaf70047109cd4681fce9f1e1fcca4fa55e4683e47af0dbea86d5302d89214a827b1bb4833f2ead6102fb4d93f4</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 六段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de622383f1daf9d15cef0c9aaf4a147047ad047727ac1e04f53c2611a7383123403b4f3b5130aaf5e7b0a4c53cb2ae3dd9711ca0610aeb3b564ea77d95959ac6888</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 五段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de6e59750788bf19e038e6713aa47356ca0b167bdff7cd01cceefb54429fe49ac82d36e27c5895caa1d3647ad1454e0dd2920aa5595799a029ebdcc6c677b90752b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 四段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de60b8b306e7382891bf4575ba241e3ef20f673be3bfc5f71faf001502d82c0bc7a440a2fca92a26e5a4544f0079cf3a37ccda3343fd00d31998b74fe74f664b941</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 三段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de6d429bcae4cd466e3817acf222718e45f79f559b50cf5202615899b001f22da036142164a823cf50a6441c5cc1eae45dfbb1fa3257f8a9105a2ac46e7862b10b9</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 二段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de68aeb0258abdd79ccb82bc1769e32a1a45562ae617dab922865c6f7dcac3602f0294d12a0845de32522e1b512278c0c08c2256e621f37b35c078c7842e1e56b78</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 初段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de678819f897cfb1fb1eba73204b6dc196674812c2567a70d299fabeb7a00e741081f4b1f2aa70e3640566e632a9188e66452c60cf7e8bbb32ed46e9e199546b510</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 一級</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de6f9dcd36d5327a9d0718ec13d0aad995e147d6eb47470f46dad9a91f56d9d723ab5186e39ab28d7e7427c5d70acdfc33d5029238368458f706b2bfe94b4f2ef1e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 二級</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de612543034ba0bef6444e9c7c76d27fa4fc11d7113814358197d5eb483dde5bf6ec4b6f2dc4a18fd66c41d440a7957cc0b5eeec05f0a44b58251c2dcaf244adcac</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 三級</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de610186b3bb12221df8fb9885b8f39e8b48f2a6f7e81b926e6f95167005d916403ca953818eb240e763a13fabeaab448e662e9c6b85111b86b5ac68ce3a2ff6728</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 四級</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de680160081003f86c1a812711aa1cb0936775d8c61c0d6852c3cfc0db53b983d4c66455dbc9484c185c946814ac272e366cc2f28a9ebf06e9328b4f85367401012</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 五級</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de6f4312f06f330ae034dce21c594f85c7d61bf1eb9df32dbf05833194b911134a2de11613763c1aa998b9d85e2f63b64b2a69ef5923ed5a8b1b30b5df32de26f13</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 六級</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de6b035df0c53253efb99087a1e645491b0b557ab6e4188b548bdd607f8a477b598eae910d99b4c9ddc847bf6ed681af84eb8489b1cf5469a8daf4d7fb272f02855</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>皿段位認定 七級</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009de6c2fd1a7ce41ffb509160208986fd8672d49d1a220c1be93ac3dda1ed24c117284673a7c3936f69401856a4a337f10b667ba0265ae4cb49b36dc3126f9da2dc70</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

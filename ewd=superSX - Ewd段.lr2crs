@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>Ewd段 Lv.10</title>
+		<line>7</line>
+		<hash>00000000002000000000000000006a454a3d7c33d0265b3371ac7dfcf6bb8f433e6112302cce327b879df2f95773d91826c296c5b9d2f13f6fdc92263572e05c845a17536dee577f7a0afa067fa53621</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Ewd段 Lv.09</title>
+		<line>7</line>
+		<hash>00000000002000000000000000006a45fd2154a3618eac430db0564f0552c9a3ff5d7235ba643bc85b804a3df2778590d1857c880459078f3b7d6523795f40ba7fd8a87559a14d4a8d5867aae06e8864</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Ewd段 Lv.08</title>
+		<line>7</line>
+		<hash>00000000002000000000000000006a458a602e66b159a4095dca17a4cf9a774d5aa0517a13933707497024a8bb54100ccf872b2c69d451e5c31b59ee49b3866118c6674e6ddf4e341d6ad6e6d9936365</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Ewd段 Lv.07</title>
+		<line>7</line>
+		<hash>00000000002000000000000000006a4598322682f4ab426dd42f1681b362b8009ce56cd8806895c676a002022b6ae325a0f48e96286e0ce275a33fd8cb851ff07f41c24b1b0cc3e8b2916cbf1d06cf96</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Ewd段 Lv.06</title>
+		<line>7</line>
+		<hash>00000000002000000000000000006a45f4d9c32c720c8c91f5c76b0de17d434f3ea487a913e09ffac12b2ccf6609ce5a8841ecde594f990c6731e6a1d6b898e53f3bed485c074401ef4bcfb6781786ee</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Ewd段 Lv.05</title>
+		<line>7</line>
+		<hash>00000000002000000000000000006a453fadf2467a7fc1dff367fec4cf93dd890b88deed7006d3db9ad1e9196f6852acdcd0480608ce691581c21e07f4fbebced69d4f8b5183ede4c383d57241f16ba8</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Ewd段 Lv.04</title>
+		<line>7</line>
+		<hash>00000000002000000000000000006a45d55e006869726798b8ac06723c9c3f6b2eb095ecb1d1fe0342b83ff753df360e5f30b80a5cea33c2756cdbed08490735d4e2c4132b93b6bc1048c0cbf29cd318</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Ewd段 Lv.03</title>
+		<line>7</line>
+		<hash>00000000002000000000000000006a45da57a6057b33da462d3037708341a9979b265e43a7667f024559287c43eda86555c96ddf8ff57268a85709bd917f0159076514c9ea2f3338667b6629e482bce0</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Ewd段 Lv.02</title>
+		<line>7</line>
+		<hash>00000000002000000000000000006a4540fd51732eda5299c74b484343e13cf73eadb05993693daac7839b3f4f7fd4a150b6f903b6cbeb0487414003f486c7a496b73a3e654e56bccfbe31a9ba6c6c2b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Ewd段 Lv.01</title>
+		<line>7</line>
+		<hash>00000000002000000000000000006a45afc2ca303065298c51f43f249e26ebfff6d65bda271e1a6cf50fde151b479c97c27de5c753fcd90b1d471f589e027399b252c955763ccc430d7b085977e72cdd</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

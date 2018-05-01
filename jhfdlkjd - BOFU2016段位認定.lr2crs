@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>BOFU2016段位認定 十段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8cbcb68007ccb4673cd9afbd25f349ad1027e77a55c1d7beb8393ebd31abb827d6c0b08bf41182fb9a9d238da127017d5ba271bc1cdeb8ad938f24082c9a130272</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>BOFU2016段位認定 九段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c996138b96c97f80e540bae1c01f0131fbede4b0f47bef474f411f7c2d676b4d225d0732b5bb594cbb8bc8f7256333fee3f6ac4b2ea584c19b9372b7f850e8727</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>BOFU2016段位認定 八段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8ccd83c0c90a30e27096207133a88026d7a62b7c5e679aa0ec0db329f29bad7b50ef5203cd6c8bf6983c57fc80ddf2bf0e28937e760cb266983af20d0dfc17200d</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>BOFU2016段位認定 七段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c26802297b56bb24eccef95045fd5bff0fca0f4d49fb002f62985459142f011362e554236f8138c50fb157974e12e77f2b9e7e3c1d0f9e72f195bfe2e6f730616</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>BOFU2016段位認定 六段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c5eac43aa3e88f17351568e5b6884e58c6bca1b9a0811b52b6bb97480d6c7fbe99867bf6b21962b755aacbe208845bc42ebc3c8f9ae8d64a15e1e99c00a2d9c1d</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>BOFU2016段位認定 五段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8cc3912d126e1af67d32d236397a7510cb9f97be9c76876162cde46da23c70b96296b9597c37be7e816baf9aafe739417f5e4b7c85f2b13151891d453e84a03936</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>BOFU2016段位認定 四段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c7af5018c42750f0f28f465e3d33445cba9af3602ea82fe73a852fb4eff3e3dc1dc980e833d884f0ba74190dba2c2a60fc3d9762c6c9c028052112da3d2e4cf5a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>BOFU2016段位認定 三段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8cfa857003acf896fd091d1fa049bc70a20dc9fc42b51ad2785c6228ef9353d4d58eefd27b19aad65ee6ae5f62003f43d5472d422946de8fae0f6c2c4feb057400</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>BOFU2016段位認定 二段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c14d7cc5b6971ee6d6c4364ebf529c0f3f3967fd18237d306971e7fb416b09fe0f1dbb5bdae7cd480b061b67d938a490859e5e7ec2c92f63b24cdbf198b57d2db</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>BOFU2016段位認定 初段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8cbdee51acd805d8d57627e5b67f5b058cd4ad6c1aa9a3c402667ae30effb7aef1ef7a5efc71546669d11cb0272d26474cfa4fdc366644a7f386e3967ce701d16e</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

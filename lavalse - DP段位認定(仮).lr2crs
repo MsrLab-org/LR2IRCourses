@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>DP段位認定(仮) 発狂皆伝</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c227429e386755c49f7b496aa29e2c6949e7a50b14f605768b9bc1c086b23d162f19ddf178f37cf11109e5acc130223da</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 発狂十段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c81b67ad1f4a162724864078c7aa656cc3887f8c24bd695be2282554d99ae634dbb22b685976d74704b96bcdd142e93ef</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 発狂九段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c9bc32b60b2661a997c0055627154779651d1c27c841b9a6d3cc97085dec0823e4d010d35f0f096abe790441adb78d83f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 発狂八段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c78172621e153c39aaea544987d4b05a32cad85aca832dc0d841f749acea714a496f24931a1d9588b724f917eb364c90c</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 発狂七段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c167332ae4b7b5c7ed3571866b36c473d8d24ea2eb9a1d96e8aefdb86de668a19d15316fa98cb0a9486a1a2fdf08ea3c5</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 発狂六段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0cd047a2ac206aa35a309a8007c0bc5a363cb6c673b5527807224c1a63437f9fb27555899fa39541d153cee795549e253e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 発狂五段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c231504229f28e02a239e6cb92108f018324e3a3aac4bd4dab950ee3c8db4a3a5b65a8b2c832f453a4da0e264204620c8</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 発狂四段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c68e1698e25f1fc84a71829c3e0301a086b784b6bfe9bc051f03740254567b712d614b376b27aad7bba54aa2eb851a82b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 発狂三段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c3a80f6ffb94124c4468b4c810254e95209b31ac3a66695cc42732c5bf0c3255c85aacc7aacd02a1622099af09947a726</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 発狂二段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c1b78915ef5d1f7aadbfd26e6c91e3075ba5fbe10f5a5cc8af5972d24d02f55837ccfe0d114460030d8be66019bb27c6f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 発狂初段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c299830489120a05ef3d5b2cf284ed2d140ee76cfc5796df8da1beda9dac755ec596e85ed0cf6f68b7600d87d8742f254</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 十段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0cad1b0d12656c9261f1dc93f585c7c28489817c6b3c77109150745b8f431591c861c8b1c64770d1fb4c97acf1897c4635</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 九段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c8151cb79e2e1ad4768ecfa7aa2b0d06b81128273d6aab9ae2d3cf62af1705fa89553c4990e5e3ed9c57e5415ebfab0ba</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 八段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c4bbb734559d15848d1c525cf3ec504f545649cfde1e9cf3ccd3d5fa817ef62d939c4cb7014a75296d49924473cadea14</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 七段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c3d8e33f3268a75570c1e1746adeebfba255c6703c750d9d6c4c8b6e9a920d0f290112db7347e557ab047910da576264e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 六段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c9af2af32a74993a7f8447ea18c0139d56762b3edd993f7ef3a886b570146c33c795f1264d276a35e21609d0338a57c4e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 五段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c6de5e9c775d2dff792e9192e7f61fd69d7fcc17c3f625617463792e753bbe530446d4295d7b997ca7bcb178fa7f9c418</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 四段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c125fadd8136a8970f68282a2b915bbca9c5772158523931472a56681bf2bac0366d4c012e4cacdb9b5df76ecf05cfd31</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 三段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c532a4e435a601aab7c81e094030168491965dc86072e2653241f22ccfbc7d3517b131261b77b0f416babc9316fe3917f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 二段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c9088396b103ceb03ce933e50c5868d63463ee315768ba7b8d6d84c8616f54fabda249e7e128d0dd590a4d9523c18cc0a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP段位認定(仮) 初段</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000f0c10c515b7cff82a91ce8d7350a710dc16674f7563972d718f12d4b46c6b936fcfbbbb8bc5c75d086986226027378a5f7e</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

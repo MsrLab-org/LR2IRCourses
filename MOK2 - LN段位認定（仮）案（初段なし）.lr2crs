@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>LN段位認定（仮）案　皆伝</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000c44a8b8ece98da30b071e531e6b96cda4bb0a04ddd756451ffdc99d98ac2d065da902e89637acf29f90e5a87f6e98e8e6719dacad04139781e3ebe39284b27db06ca</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>LN段位認定（仮）案　十段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000c44a9c634a7e36ff2986435a600f7f0e0424d11367825fd8200f23d379de017fabb1c5134b493811345d82eec90a09ff149f3260eccf67f0ca5a35eac2c2aaf521a8</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>LN段位認定（仮）案　九段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000c44a300ee0752b7841f6e5ffb0a6dd76e8c860dd4834b9a3586fd68ca9025b950c130fd3a31cdb1a745e049d78b94656d46c39fbf70cca5f496b040d88b3554fa0df</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>LN段位認定（仮）案　八段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000c44aa17fd49688f822461240aef68d68395c47a0be2c88c46168d56faad5c9ce2c324487427fd9298453cdcb9e32503789434f617edd75777a7fdd9a91520183ce51</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>LN段位認定（仮）案　七段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000c44a494a829403d0f76371360f1f041da6fed1dfe5210c9ece23bc395cd39c43ddfbd29f3088c2e9ab7f6dcf62390e2a984cd66e01c40290d69b3b9e79e683da09ac</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>LN段位認定（仮）案　六段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000c44a32820c0feab7c5cf68fd03026ae8a7df4d7cb82315726e7ffafca5412e90597df432b21419dbb0bd30f3e69cbeda6b6540a4cd99bc55ca879651c83fe85c7342</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>LN段位認定（仮）案　五段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000c44aa82fd7ab86493a743f064f1756c7ae170e50bee340d6340acbd4d9108c14f0c9a22cb279ce7f795411088b27b2734a217a4875efff8d26cb206f27247eac7300</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>LN段位認定（仮）案　四段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000c44a89c719be7389f784d416e9b5d55852510f78c9658b2cd7c1a340e66664cff983ff3d3ed12b46769b1bbccc72c7ecb892beb4aba557b357a37b761fc33fb0f4f4</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>LN段位認定（仮）案　三段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000c44ab891f294e9bfd1f04108f8436c09c156c40226f39a05112a54a12530e6a16adf8525dd73d1f4ab12c11d6c1eb522c69b4a7d8c13293781dc37bc5741ad22125f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>LN段位認定（仮）案　二段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000c44a4ce6f39e66a3b130cdc722d27ad43018d68cc643f05914fc389223e86281613f99e5d67df53aa9a184d319de6a2d6afbea6dea8999f7b2ba3fb3063f44478283</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

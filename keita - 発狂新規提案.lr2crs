@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>新発狂十段案</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000825a807c26e54c4ed6f2f3f6dc439f159ca5d6fea1389a86fc14eb354fcc5e60e03e30a5cc8b0bfdc784f19fa42155917b6cfb975909eb0f60a9190c7a1007515d4b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>新発狂九段案</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000825a97794d0cb7a2d192655a13cc803e1d16c4ca195acf56e5086bf1f2608af5ac353cc376adecd0e196a34a12eb39311146e7797c1939f3da4be6d6deaa2aaafd87</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>新発狂八段案</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000825aeb961de5b7703657a08fe2dce340e5d6e5b14c4dcd1df58a047ba33caa88663abcd078c49adee918e2cc2260f912be1947b8d57d0a7753ecd62dac4b4263303e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>新発狂七段案</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000825a00b7d72f7ecd3d4f0af4ebdc0ee69f61fed9367fc6e365a1c50d3d9a46a7af8ba87dd6a2b9acdf60ee984e0d7cf5d36ab3d931a4d7772ed7ce84c0c9209e6988</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>新発狂六段案</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000825aaefeebcc960ab406f4695f53d88089dc13718f35c6459778fa4059c8c3f70ef57e5c986253e6e72ba3e2c5235d8a9133c765ac7a42e92e5904d7c6e506a8ffbe</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>新発狂五段案</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000825a34c866b7aa95ac1212b9d88e539b953cc8471dae44331e27470b75cb4be3726198420b39f7fa7bcce6f3bab3096a7de60d4c30a45e381048346cad8c2394e080</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>新発狂四段案</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000825ac19a730224ae0636cd42ebe93b4b1e13decb0c6c112389652bdaa870bc89fba5697e053b94052512093bbaa812de3ae97e690500eea4934ec7e689efa9b5e1a7</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>新発狂三段案</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000825a0fcca00f177808e921078208e4a9452750e42dfba8741b1909d7714ee7cf1846cdd882a55d73c4c6876504b66026f9821d9129225c58c52126e17ca2425f4046</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>新発狂二段案</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000825ac30317b299c71806d8047a83c51a706aecdc82b1ea1c53ddc38845206a9e703dc54c1db625302b890e94a67e1b0ee32d6598afc64d626f7efb90ef6a6d940823</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>新発狂初段案</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000825ab271ed8ceff2e397773c8bda982f2cc9f4c17f83cb7ba7ed6872ed001b5336e6e5d894d9d29c9799eee18ff133d085de465a2b6fef4a6fc42de0d83ba1a43797</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

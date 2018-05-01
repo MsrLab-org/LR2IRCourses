@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>東方段位認定 overjoy</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3da2bcbceaccf8d9642e8b62723940590ed785b69456b6c5836e290cd3613d63a65d1d2af70ea6c62d360fefa8f550141fe296f891f7869d64c95dc8f5fd05dc5c</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂皆伝</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d7aa9437164b505cd4260955c4ce0624f8134e312f232d10c10efa2a1e34387bd623316aec60befd002cf779b99b1b8a20d6d32839801585ef2a1118b952f731c</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂十段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d59b0d1d9d39b615bb7b3b877d0b093bcc036f59b3dbdb2b92f48bdc8b48b72bb30a5cc8b0bfdc784f19fa42155917b6c68e2fd359d98a14adce2259e5d4da270</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂九段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d63947bce9af12ca7f84492b20ca21928901c5435b3a1a3bee3d078f265ed3d48c4ca195acf56e5086bf1f2608af5ac35993b15d873cde2232c04b4f35a100e81</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂八段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d1bce717724c9eac32ffbf53b42164cc3a85c71bfb5fb0b443b68fb66cf2d13687dadc443b149a5f33d8e595dd94b66ec95123d2e1b32efca74c78d718c044bc7</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂七段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3db2093fa35adf39b59d18428d2e322f7df274a8188cfce92ebefc017c2b0adaa7c6599ae9e57756c33d031b4f622324c8606b173bea30e4258c4d465468ea2f91</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂六段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d63c03104c89aff5951b17b9c13bc02ad77d524e329aec47f2e17aff8517671afd1181c178f2c0da8f7809e4c179d75b143fc3e48f4accb2b1e5d265b554b0b55</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂五段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3dcf065a021b5ac6277d32ba6b212901e3cfafd623cd8ba0bf367f64768df0c07ef01c2401b6c6e8e73e9e8a3a6c96e5b9f6a7b2c557bfa467da2d8788cb29f7a0</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂四段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3dc19a730224ae0636cd42ebe93b4b1e136779b53d4690706234e15d5a7a56c41b4f094b61576d4e1df6d1043097b64693ba08b17833c353184fb8c42412985b5b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂三段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d82ea13902495e00333d45eacf18947aff832dea52b1b943d74ea91d466d3cb9c95358b9fd98898732c02f64fb6a763126fec98278b9ee78a367cc5217d1c5726</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂二段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d4c5b85bf86f8158b7b8c246bfb6d4d24e1d65d9f862334976cb1154f86df17b5e30ff61541bc46fea30b81b3f37c60e2f708dc063a6035d46437fb5a7559d683</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 発狂初段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3dff9f25ad005083c6173b565d054405c0d4fc409eb5ec1a131dd8ec489db47d00473171720dc2f14d7414b0ec4769509f7d4fc1dcc7f2672cab64da04ca4966f7</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 皆伝</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d96b73a3e654e56bccfbe31a9ba6c6c2b8fafd5020031c0df6ca54b81c44c888dd07324b6c1271955003e77d578eb6f0ed4e2c4132b93b6bc1048c0cbf29cd318</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 十段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3ddc5094237218e0bcf50bcf0dde1e0681283394e367276f2ab2917a904cfa9b321581a5cdef43485d364af426b088f47dcd2ec8fad5363e2b8a58e13e47992759</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 九段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3dfe74fe12c1574d9f579d2d0cd47adbafa13bfa0b4dc9ab29afe9d9c7a0b72682b11b6893caf074bb95d14057bbe677ed202415f7ea495cb362de1ef45c4a400f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 八段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3df2d13911810dc8a0cb31edb3454aa328e8ace57aa8e65517d74958435a62019ecde2b0be42e33f1984a2c48f054594040d7d1e00442fa9f08028ad6fe13b9d81</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 七段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d622e90ad5d4f1b47ae57b8b368402c4cb3669bb1bee02274fc2dd4ead729f97589af6af2f72ac512f0d43967d01804c6249a1be8be3b1913bf21f4e868ae3f4e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 六段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3df7e20d3691b887a5d3f1783b136b2e753bf795f6dd18bbf01e45f056ec293aa9d1ec4a73d6c1369dccc45b0eb49d3b0e71313e7b8e6b075da3d4c45266382429</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 五段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d6a634866ed0fbe24d6c4dd82ad12e4c869d607dd0e31ba65230da16a483264d180a7d26270b3aafa2730856d3a76d2a10b463b53ca832a491a58c15d50d1f805</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 四段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d21d71dcce313570de7a59a2a5696e877708d3bc375e732d97c19064c248fe591f406ef2aec12008b7fe5c2c53099673d5b6cc7c33905cd802fb2fdfc16db2dda</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 三段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d8539d3e8f9769383b80e30b6d9f30ec3f12f242a94639efb801f253c29f83f96b3a57a604c0b2422b2d58a4ce35ead6e89493b8dadb26a0f94b26e7fbb908766</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 二段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3d7c7bf701506b03eaed844749567e75392f45b5b89ce7ece0112ce23fde81e83248439a90417352210cdb874c572627790720af5d2f367415898437959b7e71cb</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>東方段位認定 初段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000003b3dea9b894c937cd3cb346a70731a8aebd7d0c1b6a860df10daf2aac4f390a8b8b7e1922dbd41caa2af692068f757c22a1f6222086daabc0dcc6a441452642fa076</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

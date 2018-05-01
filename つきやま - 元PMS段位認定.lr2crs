@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>PMS段位認定 Overjoy</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394d71cbb85899e7f27a79540ccaeb13a6955741cf4362cc5d57cc32b123666b3d744d80a511809281fa1c0a34774dcfd14676f130c6c720e35ed29a846d9783ef8e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂皆伝</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394da461448532082a003034c70406af1b374273c58964c2ea0d5efd9a54eb519efbbd6291950cc0a1eafa9005250df5f3aa2437ce304364ae74dd70ec5c1ad04684</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂十段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394d38bf0339d504cf6bf6d560f61b647b103f158c9ba9daa8643c668be8c2b1370248e042796e6c3b065f4084ecc1e3f1f80e3195bc9fae967217e60717d43d5fe5</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂九段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394dafa0384c0829b1bc3ad011097d526ddad29576b97753504837164f78262d7c94f51551f9a0294c4a9b240dc9efa849b6ec5cd2676ed663b42bd81950cc161b2f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂八段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394d9b6e61ff6453bc73986af9fe58583eb493d4f5d3969be5624744b805fecc9090aba95991ccf90ab7b19bd630db8203d34fd819f39b4372939aeb420eb3a3e501</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂七段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394db8628beb7cb2206605ee94b6b12a768653ab5aaebe7b9597bbaf8bc385be0a44fba8c75cf11194743a07c1504fbd278e0d5d3a0245092caee855f94972c35162</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂六段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394d13ece246d6c24bd0860306ae4db680497736144896f2b9d950380267123fc9d00389ad8b9c697ddf30b22927d4f4c106a0ece86aa678fe92faa7d08badbe0b48</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂五段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394d63f92f7a4e1687b68b01622ca567749b318cd763acd5e9a7b09a64a9f3c3d93a6c28f8ff4925053b7f0ffeb28e309079c2531d850f1bb66e0c39e2d7cccca02a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂四段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394da0a5d3e1cf2e7157745ed284c4a720ab7ede05b200b8dc5f22fcaf6d3a572762f452c1fe83cb81ba6808ed620ae7fa225bf5023c013729b62ddba64ac7d30d1e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂三段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394dc31ffa6a3688b9ef3ba24cbede2f5422dee6be9445c3b1243f45c86d4ab360a0cf6ec10b08076439586f1cf28b4dfd28c7bcc8d2f893455e2bbda579ee18c2ad</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂二段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394d80b2dd0756fc5b6c9350dfb977d6a34bba6c62f805624c360723cd09c1cff5012016ddd78b500bd590990c1dd2348fe1aa0705b6e46f5e7a56dcbb60d87c5ec0</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>PMS段位認定 発狂初段</title>
+		<line>9</line>
+		<hash>0000000000200000000000000000394d7a5255b42958846e3911ce6e528b3f4b9cc68e640da062425e54d33d6accedb957e6cf042dd344f5f00dbbc6bed81e5704562809a2c7cceb820a11395191cdc9</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

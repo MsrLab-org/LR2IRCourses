@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>段位認定 Overjoy</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000519096a1536917e1f7f12a85d3dd7eb64932c65d0badebb7738e350022a59a1f0637c5605fc262eb9023b82c14d14cc837f8c46a81cb184f5a804c119930d6eba748</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂皆伝</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190e6af04686aeaf0a0fa2698cb0b0111ad5dc1e3e22e4fc735f010e35f2ae77480093a8d66b89944db9e42aa2321b4f63739d0732ef7fee9ad0c8b044ccbe8a396</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂十段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190323e391cb09c023da7fe439d12bc6defc67ba013af164f2cdec7c8c98c90d8f53c4e5a90478a6a60b430e9816c942ffda8d67366d1e603ff3000af761aef0e53</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂九段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000519096641e3e89ca6c61b1882ebf04ab4ad179dc444b48299814462ff23a2bf3ab79732abafcb87ac588b64a9be39c6deb5c2e1cc5e6bb96bff8a92f2defce49e70a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂八段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190556ed0c159434dd1e7a252086482cfd2cd24fd54b865c744428da2513643dd8d17ee7a35750c8e1b1bdfe3a7ca3a311963947bce9af12ca7f84492b20ca21928</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂七段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000051906de6909c19156221d729b5e965c5cc2adab5146a185e036cb1514b71edf1032a755c4087937b7223c31cd17cedfce7888ae06bf384dbe6956b1fc76c071ff86f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂六段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190bcf7607db2955c8979b54a0981b5eeb6fd493e9ff008dc10636a55dc4f2a081439f78361dc62f7ac355fb73e628bb336bcb640aa649d12c1ba16cd70f94ff0f8</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂五段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190683340fac1d376bea11c0848531ed6dd1f5cf9788ce30603c5ffe261f55d6c3d462c47942b654985da2e94c6e31a238b18a3d4f7f8b1d35277e759e5643a4757</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂四段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190cd78da88201c01afb934bcba55f955cbadec1bcc37806f155cdae08d873c9f770ab22f8cc36b18e6cce19f5f0906d71eee21ce9f5b84794c69e64e6d6d27caed</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂三段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000051901a1ca14aededce99bd136da649fbec7ac0d7baaaeb1b0ba9b17b94b587d2fb7067bc996815b98296a44fe0f802a6115da6738157b2dc1689bea1f6123660d723</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂二段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190032b0582871a07c604d8cba171f9579715e44dfea14cb6812f7fcb56a3a0c409151c0d2bb94ab56dfb753410ae70598e7300591ce85f888fbefe6984dc4938c3</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 発狂初段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190c07125de4ed7fbe7cb066cc41e50e51efc7d46e7bbc9f6afd26d05e3bf2ef555b3887714270e28988ce900e4b9300994d1877ad5dc0134b27eb0238da5721eed</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 十段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190d063d3666b36cc14b176cd4438487dee332caa24984ce2ec3923577fb661ecfa74e04fb5181d49266cc99021e1d40fd6df84cff13642ddc8903fccaeb36c92f9</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 九段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000519032c445313b77c744b21b04c652237154a62e99d0aa7c05efc2b5bcc338c8686b5301a69f47f8fc9bf51c716f5495f6fac37c6a08cfa86e34c6b1faafc9b066d7</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 八段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190ddb75942b02a11da01f571e0d515816eebbe167813f89ba9fcebee36d225310e4e8a25678f6c073e1211a2141d47f38814682c2fb5e1219077b71c54e2d87969</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 七段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000519031b90c08c324dac4936c6ba396edefb1a14bf19e1ea91040cf727de649df99a0e0102b1240d35af80706d8c30a01a0751bad08334c59dc11cde7b1ff211eaa3d</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 六段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190793e20460c1d60d2dca0c10a91890f0ffb66ae626f51007f27a4aad56216d342d6abf6be928aed793f96f1a784bdcd8ed39bbec6ad6008341b1721c7aecd64a1</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 五段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000051904e5ab5e78b19be116da4564b7db8e0b92bef4e5f83d880b0280a4f6581dbc87f5f73a13fb8c21e8b768c9bf579f0a43e242f473ef6b289a358b37b46054845fe</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 四段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000051900f99a06b6207e37aad216eb9efb979ed9656746c8daaeb7c568cced3da769e18faf79de88aec1a39ff3e494a486aeef2c6acd887c4bfc2d0f4014afe390eabe4</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 三段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190c96c27b748e3ac340611213f4b46a1207e0d638837d63b3bbd1e430440346b2a98d0755619efe765c9d540101053e3fac0333b98231bb997b6edc74a4502e316</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 二段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005190bb515279fc2ca77157019a2cf1941241ce0fa00e47d4c8b951bde3bc18a357696035dc4923c5c75040b01c6e174e91c6a68a0b5aa2e6e6eb7130b78c39285d46</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>段位認定 初段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000051905734e689de8e977d58c6fb0f91bcee704af091a343e977c08538f7271e61bad755943d04ad4f66210a728d75a2f429a87c9d3a898dd9f5441600e7efadb33f1e</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

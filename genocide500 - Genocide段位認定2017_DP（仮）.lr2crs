@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>DP_insane_overjoy_kari</title>
+		<line>14</line>
+		<hash>000000000020000000000000000008046fe6ad45f4759fe83787b7aa1da94236344270b1434da215f09d837cf282ca5c1337ece34d90ced31890c67bca9106da864f49fd0ce4b45ad13bb376ae85c95b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_kaiden_kari</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000804ce4b526b809db30a71e9e2be9880f303307012cfa0cdb675d0b1d4021cfd416ae8536d186fe03c2e78a092cdc7c63c9324bb3acf27903f6d1675e2051fb0b2f6</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_jyuudan_kari</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000804a40ee9ce409b7b8ad3a6462843c6950a07ea69b9a864dac1a7e0535e28adccbc5eec61334ada9b17e6f9680283e312d86abd5e8d57c981af7484d9fa25c44e51</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_kudan_kari</title>
+		<line>14</line>
+		<hash>0000000000200000000000000000080453c85bfe5b8705135f9578abe68b7a66876c09843f04168601f52aa4b17522f611ea77e96ba9a1a61447cd35ccecdb77eaa222ebd73eecab6e859820fa540cba</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_hachidan_kari</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000804c8dc214003898e6ace09d3341701fc01438ab055f0d920b181c67687cebf1cd423ad14776bda285fe04640ebdf98e2681e4c60623dbcdec050af73f4260ba029</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_nanadan_kari_fix</title>
+		<line>14</line>
+		<hash>0000000000200000000000000000080477bc22ee60b30a7adafd0ff27f097477706085fc30e345fb202037e2482e91f7498be940feb77f37e638713b07cf737029b709780e5bafad29dd451b94137bf8</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_nanadan_kari</title>
+		<line>14</line>
+		<hash>0000000000200000000000000000080415bc2304858648a64d5b7b325c9421a2706085fc30e345fb202037e2482e91f7498be940feb77f37e638713b07cf737029b709780e5bafad29dd451b94137bf8</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_rokudan_kari</title>
+		<line>14</line>
+		<hash>000000000020000000000000000008047480de49b770f6852898bf8b6ab51cbca6f82198424691c199e5163f49506554b0a883ac48797b392c1dcf096592809c44f2352a791a52d7e584fa063b4d1b24</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_godan_kari</title>
+		<line>14</line>
+		<hash>000000000020000000000000000008043eb02eb1762dfa2cf6f2689ba15977fec4a096ac67f6e8224e9872bd465308f71db8dea9aabbe945ff39e16545f10f09180b0eb62d37b5cc74a3f5937bd9fdda</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_yodan_kari</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000804a663bfa7a84978c1d96b024c7fa2b7dc40aaa9dc5ab54026719370c068ea39bd7345e3f41c6f0918d6dc431fd0be4bf0a27df82d4fcac0d543a397764a4f265c</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_sandan_kari</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000804a18f96c14a98ce2290b35e1827f8ade6c02d8d918d8ce038129464211c9889aff05446eb6b77c79ee0d62114005d840bc0fcc9de190b380187921ebd8171d18a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_nidan_kari</title>
+		<line>14</line>
+		<hash>0000000000200000000000000000080404bd108676a4d74c9667f1d46c59877193001c4a476b60aefb397cd47e016ee60679dc2738135b8584327e7440aa604683dfffe6695cad75d18262e58c93803e</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_insane_syodan_kari</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000804bce5f4227525f6d985080959d7cf8c4530ee162381930f52ade58071c521029852ffc90743c0f229a15898df0408f6fe29f477f2d0010cd070f13ba7e799a731</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_jyuudan_kari</title>
+		<line>14</line>
+		<hash>000000000020000000000000000008041c99cfd2b59be2886912d33a4847c54bcd08172d882815ec050329e414d902b951a5633c237dfaa2b1b021ab5e554809dde0d1af6661b320ef3b5280e5bd1c7d</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_kudan_kari</title>
+		<line>14</line>
+		<hash>000000000020000000000000000008047149b20c77df620ea451d003747e74415100aff12efbfad2c2fe0fbf4a7d47a4163abdc453532bf9fffd7274017785cd209cc0bcdf99cc8bc20406d503a3aff6</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_hachidan_kari</title>
+		<line>14</line>
+		<hash>0000000000200000000000000000080476ffc39aeb37f764acaf0438b4d96380e40edbd365bd8f4ee20f8156dfa036479c2893b842f15231f363ae57635a23bf8a5764f0870aef1cd76d7cddc0645dc5</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_nanadan_kari</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000804edf3b1ea6f50db56f0e60e6424d6be06409598edc02012ea8221a51a0e13653246b4e241f33bd7c6b29747baf35b31ec537cf5dab0dd15f0269883ca9637369a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_rokudan_kari</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000804b6c15d50d23d26dd6f4ed704bf841ca030da8fb7c26513b4e4ddbe181f9f76f7d47f8fd5e6869fb8145faef6116d4103f07a6de8994eb2da3c042c22a312631f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_godan_kari</title>
+		<line>14</line>
+		<hash>0000000000200000000000000000080448f59699e20b325c7fcc88fa1d7730fe4fd0fd1666452b5b8303657e916c7e2b0b681af46981a7cf2b545b91a342558c226bc8ea7f8aa5f34561a9d44be37377</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_yodan_kari</title>
+		<line>14</line>
+		<hash>000000000020000000000000000008044a61bd30f1c05fd31c4a8674e94cf9973340e601f36de19f588619bca3711cad1cedfdbcf57dfb61034742856d98ae49aa48dcf2d9e1255d486b68cf4ab7030c</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_sandan_kari</title>
+		<line>14</line>
+		<hash>0000000000200000000000000000080496b44a3028ec3c6ee9282977d712c5ab864cd738c77820e47b534d5604076ad58afe65a262f4baf6fe3e77ff14053e615b0fe12541a65f142e8bbd6a82cfc05c</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_nidan_kari</title>
+		<line>14</line>
+		<hash>00000000002000000000000000000804b88c27b0eb914887e9866b17a9428f6c98b5e55861b7d80aa2f804bb8e7da67a5dde8b9ac94319c56425d47ee9584b15026666f7943245b8ef414a8ebc884b60</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>DP_syodan_kari</title>
+		<line>14</line>
+		<hash>0000000000200000000000000000080498fa5d9e8e9ddca1dc78ba15d231bd279a25380cede7740b2f61d03dc5480daf50a21694c6d36650104f07e5ecde5a316c77ca5053489a4857ed4f6d53ff0bda</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

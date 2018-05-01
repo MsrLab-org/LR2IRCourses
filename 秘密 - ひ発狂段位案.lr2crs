@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>ひOverjoy案</title>
+		<line>7</line>
+		<hash>000000000020000000000000000054163a503fb4e6605b82ed3ceafe760b5c8599ec056cff4c2ba72664e78c87cb035473b3fdb9fbacf4895f955e29cc44c454c46a81cb184f5a804c119930d6eba748</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂皆伝案</title>
+		<line>7</line>
+		<hash>000000000020000000000000000054169926f0c39f96d31f6ff77a40a273792510420967a85371e65db57967e6c696cd538d3b12c5cc27948c19fca368f6257b8f4dc7c8237ce74eaf5740808fa89844</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂十段案</title>
+		<line>7</line>
+		<hash>000000000020000000000000000054163cc376adecd0e196a34a12eb39311146960d994d0f433ba8c1806f6cb442b9ead6fea1389a86fc14eb354fcc5e60e03e75c5c9c650c21efedf28cceee1d1a286</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂九段案</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005416ea7096cd8a20ad7c12c0802c898188cfbe493bdcc5cf1d67fffd42d58902d933ff5d7235ba643bc85b804a3df2778590ec056512be0b6770e4ec0ebc8744ef3a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂八段案</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005416228feb06a9a2d781624a041d52ae15078e0df85dbf59c4753346f1582e2d442246f0cc113e03fbd500769087fe94bcdc97794d0cb7a2d192655a13cc803e1d16</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂七段案</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005416fa9f75006aa50c4aae5d9d2edf3ee0b6a0f48e96286e0ce275a33fd8cb851ff07f41c24b1b0cc3e8b2916cbf1d06cf96eefef4918e837ceaacba873c5214b807</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂六段案</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005416519cc13562c5148c271cb9b13ed8807be10f3dbc3b3625b9c65d0c9b7ae61f33440e9ecc35dae241a12310b3c478eba540673cc8ea628a9452f6ae9ac74d5817</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂五段案</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005416f9ae2efa42f0cda953814eb70ab808947e690500eea4934ec7e689efa9b5e1a7bd5d6333cf0fa6c86d1274ccc25a89d89ca663f162a70b7c8c3819cd1c18708a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂四段案</title>
+		<line>7</line>
+		<hash>000000000020000000000000000054169d02e77635f790c12d333d3af4ce27d2582c55cacb18f0cc5938125e322799cf2941c7e5ef09640b30fb9d3ca6293bb0e5c37ffef1401274cfc59110df6b0b86</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂三段案</title>
+		<line>7</line>
+		<hash>000000000020000000000000000054161ed817c52973073f8a5045f25a45217f38769dc4d7de5e24a149e8f12fb75c6b3c58f7c2e28bedf002aa1a29c8c86f1b803c62f33ba287df9364d94e0b0f3a2f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂二段案</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005416877f4a37193f789cf1dee377c377428200f1ab5a4e5af6ea457bb2435eb5a01f4f6ef5ebb09e27396384d62f95a0bf056f5191238a207f05643a84d50adcc030</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>ひ発狂初段案</title>
+		<line>7</line>
+		<hash>00000000002000000000000000005416dfda2cdf3527b470e8951ba285d6bc286322a76fcbcb7660381b1fc89e8d5f4da6f28cc22f4e6d525a41954d7af926008a8a6c2f3511eb0876a6c9a2027d7bbe</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

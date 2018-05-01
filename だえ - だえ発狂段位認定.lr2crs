@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>だえ皆伝</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cbe0c93f517c468e4d40666199c31baec90a8b76ca18155d81d39e2da89194d91c02c705bef29bd4dbbc8865b7d40602b75dfeb1f40d32c9910fa2047288236433</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>だえ十段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cbd6fea1389a86fc14eb354fcc5e60e03e1e049d189ef9bef79824f55764517a58646aa89bba491e5b832dcbc778e2a91ffd3318a7a5389c7698e49399254e212c</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>だえ九段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cb7241b09fbbc77e0e515aa65f245f95ab7fd8a87559a14d4a8d5867aae06e88643edcf7695d4a6a958ed42d9a9a6a08de7a8b1a11f82d2d97b45f794812369610</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>だえ八段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cbcebe3d7dc0aacf4245342adf9f8a5b06393721d8ae30bf1c212e8126dadc03c375403397d59c78d161429749143aa1f1603aae2c3681cc2562b9b53b50408c69</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>だえ七段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cb440268f63730a34510f8356194a9ff95fcb586590be9fb5c38c829c8ec11476946f0cc113e03fbd500769087fe94bcdc273965c4669994761c71c0da25a49c6f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>だえ六段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cbb22f2d866ff6e8f62b7b95e9b7fa3a9ee8836d17808957fc848ef495ddd1c5dbc0c06b8c66d63169d495895b1aeb82153f3bed485c074401ef4bcfb6781786ee</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>だえ五段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cb4c1ca130592c2b0d1bd0b55cceb94f5cc5fed10f9c17efc38546b53ba7248339bd04e1b7c7f225f2873f0943af9574a485ed349b8f6807b273eee0aae886d633</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>だえ四段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cb426ec16efd28bc5a1cbd6f707a6375f155252fa3daaeb2dff8cfc3204c647fdf53b4184adee9a900d632e07b1d98a7b0d55e006869726798b8ac06723c9c3f6b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>だえ三段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cbe31b4a50d7aa493f7746c6a17f2b306962e9b22c47db89eb2abb59c80635a5069b265e43a7667f024559287c43eda865c23778c9dce653fe104576a4942e7bfb</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>だえ二段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cb00f1ab5a4e5af6ea457bb2435eb5a01f0c5b4261b5478dbe117e7bd3a6add4b9b4d4c3a0ab148e9d3962adc5d1d98128eda30df9fd5410e25dce7ae76c5a594d</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>だえ初段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076cb98f2a9a05b16db52f1260e3b6812023fde7652bd9c80b8830265336a725f7a98758dcee38a5931b3fb0d0a61feddb324069168f580c8fc4255cb0d2e54bbd6b2</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

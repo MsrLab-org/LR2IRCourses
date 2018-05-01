@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>赤い人段位認定 Overjoy</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f01b64d9620d34bb57411f36699c5e1b59bfab3a7d103ad7294e35db8130745bb91d354c9cc5f4ee407d0e377e25fcbb126eed9d181f6c151395589313bd6b20718</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂皆伝</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f01049accd5306faaa7c668fab8b17e10e16f3ecbf7172556b197f56579f8b9e7ca096087f9fec3c8f065912682314e34964381520e50468a1b0cd12213782c1606</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂十段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f01ad76093e017c7a2682b7d33ddf1e7cdbe630e93d707b2e7c9ff9bfcef16354298d6f3e6777e969f87071b3951454c56749de0d8b5d372447b0fc92225ed3e872</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂九段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f015d4c998f6b5742612478572b533271401f7bf846bd8b68b2ad8edc28df1c0b34d20a263deebaf93ab3c76850c2c50f81e488b404d6f5da84ea1ce98f9ac4572b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂八段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f011df0feb33f2daffda742c877bd5592eb243a6ba83bc2f291a2a9bc9736b833bd3e762583197cfaa79572118cd862160f51f9ce87e4a377f8009315568af297a2</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂七段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f0124c869a51384af113e9271a766e7d4beef0871523302c3413d0ae100eda73bde40245d0384a485fe1a2ffec75095f6266311e80a771414e32b272cb13fb264a5</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂六段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f01ff56dbed9f91259a6a2b97f501acf190d21b18f9955d7a2bf2144629818b85b6ab1a66da40803547d08d448aeac8b31389e87af0a7df4a284abfbd6860194498</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂五段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f01c565d6dbf6346e6a28277742ecd9d60c2fb7b1615be8e37023a048679e4a58029738b0852f926869ba9a199560e47dcd4971f11e2d0c0831f8ef83054ed843e4</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂四段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f0129c85049c3b5791b884687765d90b9c1c6742e99eaa4be964187a5f9c4b52d1ce097748ac565e803197fe6a12190e3ec5c40b8f89acb174231f3cba614a67279</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂三段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f0116cdb96dd1d0d8a780ad33931ffc392e7fce9574f1ac663d4b58a52d6745f0cee45a38a7459fe82f6a7561ba5027a6c26c5d364f29ad6776d4de94df63694409</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂二段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f018cb8c32c1f06fdfc5b11d22de0731539b12910cdfc2a7838662775b55ded48fbc9a813af3765538dc863ae297aed2d691b39c37c2bb0c81144ba1bf5c632d793</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>赤い人段位認定 発狂初段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007f01daef52720d4a518cde15e98b5414eab6b328e36d0b6c5d4d4d6ff6da78601446a67a412013eaba8c3815c4d5898b39d4e5d894d9d29c9799eee18ff133d085de</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

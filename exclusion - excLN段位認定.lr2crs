@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>excLN段位認定 皆伝</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b3dacad04139781e3ebe39284b27db06caa04ddd756451ffdc99d98ac2d065da9097275288c887c1c704fb35421885c211b83456faa953975cc935e0241806e184</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>excLN段位認定 十段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b3f7fa3a06fc662aca189ebc4339168a963260eccf67f0ca5a35eac2c2aaf521a8201e37c215b7fb0a79c1e29ff53b75c22e89637acf29f90e5a87f6e98e8e6719</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>excLN段位認定 九段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b30fd3a31cdb1a745e049d78b94656d46cd11367825fd8200f23d379de017fabb1029dfba1b2ec18937fac78256a866efe4f617edd75777a7fdd9a91520183ce51</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>excLN段位認定 八段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b3d66e01c40290d69b3b9e79e683da09ac47a0be2c88c46168d56faad5c9ce2c32d606bace7b7712e17dbbc2ed8504eb8926f495196a4e4683745c8d3702a4c7a6</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>excLN段位認定 七段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b35aa16c747c83575fda9fa40077bed247d1dfe5210c9ece23bc395cd39c43ddfbd29f3088c2e9ab7f6dcf62390e2a984c066eed095b7a6dd2a91a4284839913d9</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>excLN段位認定 六段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b332820c0feab7c5cf68fd03026ae8a7dff432b21419dbb0bd30f3e69cbeda6b657134e8f276137fd7075d3ef3af78f5fedbd178aaa9e8123f3698925b968ba0df</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>excLN段位認定 五段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b3a82fd7ab86493a743f064f1756c7ae170e50bee340d6340acbd4d9108c14f0c93afb09d7e1bc322afc3911439f428526d8b0069ae0e29f6af8ff7e8a7a3184ce</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>excLN段位認定 四段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b3c8b27b145b890ae0807b943337b3736a7f8f0131aa4884042faad25577834fc0d03d7dcaea9b95bfd6134c6bb2ef29cada5c929f45f4aee249310b6f8cf2c4bc</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>excLN段位認定 三段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b320897bfb0e48f17c382f164ca853b452c40226f39a05112a54a12530e6a16adf30e5ca3da11e2adfda7240d4bc4acd615b241a4b4a9d5092be76af3035e23fd6</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>excLN段位認定 二段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b37fc404b5e4a68ed1ca6c342ea207ff0199e5d67df53aa9a184d319de6a2d6afbcaa98be1a90c6a3eb01b3f5bff7ff5d515e3c89d392646c647fd73071db69307</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>excLN段位認定 初段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000068b3f097def8db201f2ac4b8aad5c5fc53f40127fc65b6e0bfee4814bebd403a77f2744c7ce0951c83fd25402a9ec614289f354f172090c71d7b7d909a1f60318a00</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>G2R2014 原点回帰ゴリラ</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007641e6e57d3f0e43b8a7431e0c72d3d0aebd93cd91b9a66d196a30dc7bc99723626ff623e4961e28494063a118a0feda567a5978fad340afbc123cdd28945bf1e57d</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 皆伝</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000764123b6aae160154b4dda9cbca7c4368c1ce23c911c17fe6cdfd9dfb65fd07a8df7f963a340f1ce09bfc4dff68712e4ecdf9ca663f162a70b7c8c3819cd1c18708a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 十段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076411c3cb845983b4be58c3f05cfd941fc0a12fe8a14a5fcb78beb555088f618ab6051245af100f24264cf3df0bc5523ca27d1e260a5ace3b81ef4f7625d53f379bb</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 九段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007641e9174c9f54112dd9cec258364e7204d42fe430505ce12d5230b7c9452a081616a66ed8ba2ceb3bee962e535e2db38f18ac4d92b85c08feef7f0aacfaf3858bb5</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 八段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007641e10609e7eac2305c0f58d49e78948bb322305fea7633da54365fea14d9bd3b2596afaa9d91e3f3b379d86e2a9795dd860726e83e05a85d328ac12b212c016993</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 七段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000764116c8529027d090f21404859ff7d3548293ad5b560879ded9240a2f137e7190451f1f98e4923f96e7bddbfc3f33c7d84e8b385f9d6fea058473aa37d1dca2dd05</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 六段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007641facc39ec959b48b4df7158e162e2214691545fbce0cbb5fd7ff0bc7fb1c3e02fb400f6fd04b377b986e443cab916b756eefb650199700b7682f930b597c2c50c</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 五段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076412984a03a699c1d6de599115ed72e2b69d82afc40de97eea2bd5c39fa56b7468f32ce14b819386225ef0f2018a45dc68a196d20d1151af5e0357a0a7085e75c23</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 四段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000764115e39902521c9012a403da7d556009dec057c34f1e4309f5b5bc467ff182589d2b275c1e574cb240661ee9365c077558fe4ad341dbbd2add4ccf46e68844e0cb</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 三段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000007641e0081bbfa2905f1a981a1137faa969e2a1720a993aa4e3ff9055fde67af9b10618f63b7267074871fe01112351323a19a1d9bd72bcc3acbfc8530fdfe372804b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 二段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076419e748901e6479ae3a202f95c5b6283fb716cf3c49a8c5c7e4b5b78d422b445bb9e63c9c520697db2f74c01423dd079e2030b07e3b2fa51d9080632218a583982</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>G2R2014 初段</title>
+		<line>7</line>
+		<hash>000000000020000000000000000076410499d035c23e823e4f5499fc7da22b19b7898be7552692b44bba6b1d1841e87bacfb93c03d25f7fab42b2aebef583e49b6ff741b9384c21c745da5382b329c96</hash>
+		<type>2</type>
+	</course>
+
+</courselist>
