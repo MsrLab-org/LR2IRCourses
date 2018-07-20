@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+    <course>
+        <title>Gachimijoy段位認定　('_')</title>
+        <line>7</line>
+        <hash>0000000000200000000000000000e5afea78eece8c6a01ff9ac2061b35fca615795a49f0f1af941dba965d946ca31c6ffed59d3b700499c9207c4995d160cc9a8d9f4e2a5d0b87a03986fd96bc085c63</hash>
+        <type>2</type>
+    </course>
+
+	<course>
+		<title>Gachimijoy段位認定　皆伝</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000e5afb2195a8f150a5169731590d6639ac1df73e1eb7c81df3e97ddb52380f8f946169f1aa034e887e925a7779e56874560cf8f2a82e4f1f3e299c5d761a4c673b9ae</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Gachimijoy段位認定　上級+</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000e5afb29aef69cc169439f35332a56e2e016491c8dc392884c378b3c62c2946b26bde0891e141ced4a92903459947e234f29622a3242fd697083d5f3cfc74d96c0031</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Gachimijoy段位認定　上級</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000e5af12cfe502028ae76478d4349b388b45c3048a48b58695b98537fd0a33ef1d17fdb40dd99d298820fdd613e6ec4bce0c9cf9bee44c97648236d5127a88558e9c6f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Gachimijoy段位認定　中級+</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000e5af4e820de8f0ef1d90714dcf48fdb2dd917aa969d6839fb663e75dab9bab9b991aae841aae98fb27423804d2882fb115e27bc82ebd4e21112f70e80404f4dc2c3a</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Gachimijoy段位認定　中級</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000e5af0b5f10cc5b6ee23dff60442b4f0ecd3614e242272c33a1774bf12a70571bb94a8f4cd43c1237ce576e8b7cf0740fe73c0e2b662aa03b4b0669605b3557757c41</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Gachimijoy段位認定　初級+</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000e5af0c87bfd3bc66f7af4769ee6e1c76c882b8a223e29299d00b86f6cd356a906993f928a22df0fdb5ea9053f88c5c2d5aee985e91ac0ba1460509416ad164e793db</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>Gachimijoy段位認定　初級</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000e5af8ee7fc1c67826e7437e07b5e1f92d60151e0a29d5c7fc9cdf5e5e8eee1ad11249eae56a69165b9f87a9ab7925702ed96e27f3374832a4df86582520183342245</hash>
+		<type>2</type>
+	</course>
+
+</courselist>

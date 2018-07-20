@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>通常?!段位認定 十段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8ca6f8cbbcea49f9f4a03c6393af4743433b8900594ba23cb218a1c57d8a54e6d22bd15053a3e92647e8e65c561c2fb6948d85bd7862867b00fe4a087a76fc02f4</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>通常?!段位認定 九段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c1171069faf67bf07a79fe7743d676339bf2d8b9c0d5f55b49623a39758f14bfc89ae5595ae852177c9867ff9d01d8c86e180cb2c8b69061a54b15c714210b5b6</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>通常?!段位認定 八段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8ceffd9abc905edfc6bee9ed11b45c9ea805fd62d148daf7a64a93bceb2546ddef73b697c73f0bfae16756823692046230f706443aac5e47dd9410f0273dc11e45</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>通常?!段位認定 七段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8cbf9396b2d6cf5673654543828de0e1261d9f7de9cfbc7394ae2f21434c3b04b5e3f706c58abda56b9eec9737db8c706992c76e07875e8e7f9eb5f05b1138cd95</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>通常?!段位認定 六段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8cffa4f28c99952341c3fa6fa80d40f38cac609dd255bf810a9a4d0a72e2274c95f98e0b49c2c085e4281e57bf551117aa8ada7787da326ddfaae170ba556c2dde</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>通常?!段位認定 五段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c27faf34e4f873479bfb6f843007d69f5e071c6f51d484431a46f528746e4297329a523b3ceeb3ed3a66faf0f295c5dbd5ffe3522e9ed912cfb9f926706a5e85d</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>通常?!段位認定 四段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c2ab1f4a4e62e90cbbc20eb794627821400c1dde52394cf2b113dce3fa1935ebf6c6dda062fb912560500483178d14fa80a661e678fac2557c9730bda84591e2f</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>通常?!段位認定 三段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c01cce1d4ed297c6c7a5fec868cdbebb3e7d185b87a1dd87cb558363c5ed544433ec1831ced4585c19ca057d12546f5387becf97413ba08904289612fb444778b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>通常?!段位認定 二段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c07c6b4bfe4bcdc94f3590fe330fcd864a5c7a923179b607d1e676aedd1f247cd8398f4f7752b00f8036638ea3f599b12b5eb73d9590b004ee3327ff134ed8f62</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>通常?!段位認定 初段</title>
+		<line>7</line>
+		<hash>00000000002000000000000000009d8c4d66b4516b4eeba2ac7fc610efe489c362e18030d20be6a79488c9ec151ff75362436e6feab96231cf31620f46c2eb4b3776dfea7b457af3b9ad65b054431f96</hash>
+		<type>2</type>
+	</course>
+
+</courselist>
