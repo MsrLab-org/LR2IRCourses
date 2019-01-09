@@ -15,6 +15,13 @@ LR2IRCourses
 
 ## 历史更新
 
+### 2019.01.09
+
+增加了如下段位：
+- BAECON - BAECON難易度表段位認定
+- Dossy - DossyPMS段位認定
+- chihiro - BMS衆議院選段位認定
+
 ### 2018.08.03
 
 增加了如下段位：
