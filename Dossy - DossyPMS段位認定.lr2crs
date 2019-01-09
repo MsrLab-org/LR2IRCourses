@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+    <course>
+        <title>DossyPMS段位認定 Undefined</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846e132d6e7fffc7e1204b2f7c3f63163d294f70d54acb2047b6008e939de3c68b1243dce7c6e4a227e8a30506b67afa6c887b9268a86ac68ae88fd58a0d186ccd3dd6a27ade94b7f9ec4900adda85aabe78</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 Overjoy</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846ed902444565fb119bc592102be45ee9e5d4dae41dd4efa328949ea64442afdd901f4959f537b9671e03d838b6a228f3bcc62edd7456e9d93fdcd59db57dbcf043</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 皆伝</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846e74ab5f47515ec300bf0f1f840f2c878cd6ff44f05dae033c33c619563a14ddd05751b3fd7a062f5be3c5893d719ca85a568326e794bfedddcae5dcc400e18de2</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 十段</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846e059763ed30b3ff45edda3ddb8bdb6029fa742e1e40c336fc7e9b8578734f1dfec4697cd6acd951b765032e6f6db8446cc9955a03df1dc59eae6bd009fda1cd5b</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 九段</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846e00a8964231886fdc13142eacfc1bff73991293998872b68e952c4c00bde5c3268410ed8903be440f683a69c5dd77bbff1aefb4522ff0a4a93443713b05c5f041</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 八段</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846ecc45042fca6a4ee296d4da47e88b0ba9774c3467357fe662bef6aa26bc804e110a474b72f865b115cbb295a7cffda0558cfaba382d6eb5d7dba424291ad8c786</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 七段</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846e14934c91fc58bd3a9c30fc73b8e2b392a36c9e18d0a7d6fe6f2e816fea56b6844fb1ce99624b9f3d7cd07b9937548bea9a1b64c6c5f6ea7307f022de8ea0b41f</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 六段</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846e429d44446dc6f573336d948cadd5c6dcfea86c621c954ca5b412c4532165eda235cde9cbfef1b579923cd219e2cfd0a1296bac8dc7f050f33e0a310646737768</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 五段</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846e12567a9f12ac49acc46aac9eefdebe1e389458231a8f08281adb91126439578f0e06b80f6f865e31a3794ac6b522cb1218cb689b9c70768bd4c0909c18809202</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 四段</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846ec8937c640a6fd0e37b606374e411050c4303d3c11a92a412807036bd95ed1bd7ebb5b6984941342b7e0aa729a023a07b434cd6f272d5ece9aae39597036f5bf0</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 三段</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846ec840c77206f8201e7a6b8a23543a454200c834edb59ecd4ca1d804a6057e951b7ceaa3ac14d54bfe996ad83ccecb17555fcdc8ada00273d967e7b706d48dd597</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 二段</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846e964475d779f253df23a8f9100f83e8c679d3ace28cc68ab4638453d7884bd4413c6e1fd00ac0c199c64ec3f7cbc507cf9d24d674e7de0f1a3ea589354987695b</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>DossyPMS段位認定 初段</title>
+        <line>9</line>
+        <hash>0000000000200000000000000000846ef6d8c19b948c216c28185608fc2ad6fa19b35f12bae411f28d67299cd3cd98427189343ac646deac6c7d3f4e149b50b062c625bed147f7112c570078cb1f2cb5</hash>
+        <type>2</type>
+    </course>
+
+</courselist>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+    <course>
+        <title>BAECON難易度表Overjoy2018 仮</title>
+        <line>7</line>
+        <hash>00000000002000000000000000008207a2ac6d4325ca2296427d5401b09789a9e50ee2da76698a7a60ee7ae14d91263bc371f0f0d4c7495af8f9b588339ca24c54d4facf3ab605c7b5c61177a75ae223</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂皆伝2018 仮</title>
+        <line>7</line>
+        <hash>000000000020000000000000000082077ba5368ab0462bd19de1c4d4a985c1ac8f4f76217b814c837860126cc0919eda4cab0307812e6b3137c7655c30546134e60b85c94680409543f1eb4f9ebc898b</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂十段+2018 仮</title>
+        <line>7</line>
+        <hash>000000000020000000000000000082071758f4f1386835265fdf8dbb6f6ffb4f12820816c37bd5dd1500e4232ebb22975a24a50b3206d86b77a1a29f8e01cf7e9926f0c39f96d31f6ff77a40a2737925</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂十段2018 仮</title>
+        <line>7</line>
+        <hash>0000000000200000000000000000820707254a7724162b02312aadea3cb76433d3ececb1cdbe03562229610960d132d60e30b8d9afc0377262f29ec8b3020be3d48b594303432caa392c08a98f7cac9d</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂九段2018 仮</title>
+        <line>7</line>
+        <hash>00000000002000000000000000008207b60ee5d99b0b2dd1990ba96a329fbf8d29894cf918d9568d4431b263d241e58c3a81a248c028249d2672f1164566c5564b6f4d852d45b889ae1feab265127011</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂八段2018 仮</title>
+        <line>7</line>
+        <hash>000000000020000000000000000082075afd08cee761969de7f374b9cf3e6e4b7ec4081796258a2b21d91f90e8670cbc82a4a4d9a37c1b0fa553ad2c9e3b56dffc0e584d68ed54c20b9626f5a79483f2</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂七段2018 仮 (2)</title>
+        <line>7</line>
+        <hash>00000000002000000000000000008207a4b59ca055a856b9a200ccfd1bf5c7bc65db9dbc0ea73fa9ebfacfafa969f945605e129cd19104983c2838dc55a2bc9ebda75c198bb386446e593ff180fbc082</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂七段2018 仮 (1)</title>
+        <line>7</line>
+        <hash>00000000002000000000000000008207a4b59ca055a856b9a200ccfd1bf5c7bc619bbbef4226e204f584b7fea3b5432209df9fa7de7199ecf5c4856cf5bb03cdbda75c198bb386446e593ff180fbc082</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂六段2018 仮</title>
+        <line>7</line>
+        <hash>00000000002000000000000000008207f751376704fe28bf07f6401589647305106c02be9b08d2dd8a359e1b797b5ef60e99a6ba5d3e554f184824bd5bf40adfb18fd4a5e57d0335d87f0ad01d86a8b1</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂五段2018 仮</title>
+        <line>7</line>
+        <hash>000000000020000000000000000082078f5e5203a424ca56e2ad8f3a1c33821308a6e3d12ebe60dec36adde888e92f058dd441b66ba8d977377108dd3d54d22387797332bd7eb406fabe924d41fe1944</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂四段2018 仮</title>
+        <line>7</line>
+        <hash>000000000020000000000000000082073faad7577fe7c3a750b0683693708c7aa718de9a2cd2f88deafbd40f5929abb4188ac44b91c8f97436dd74b2d6825f2e194bbf386c7ade34d9e913ee66d47414</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂三段2018 仮</title>
+        <line>7</line>
+        <hash>00000000002000000000000000008207e7cea726602a37c85cefb34ef69dc18d8432cf788207d90c4bab13cccf1d6a0e9c5f82051198679dba5dde98b9cd90b4b9dc24dd2eae761c47870ed6678b3789</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂二段2018 仮</title>
+        <line>7</line>
+        <hash>000000000020000000000000000082078aa28741c4b8574f7c1dbb4d649b4de70a8597de7e9d127263ab02a6badf368fd6c61b9f22a383d2e744165ecc703fe2c27de5c753fcd90b1d471f589e027399</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂初段2018 仮</title>
+        <line>7</line>
+        <hash>0000000000200000000000000000820761417c43617d92b430b2d5c786a92fa456ef23616f9402645ada585ae001dbc21a44d758b16a45f0dae807be9208dd02c46b6d2999ebccd316d4a00c8b0d8157</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>BAECON難易度表発狂入門2018 仮</title>
+        <line>7</line>
+        <hash>00000000002000000000000000008207f98c66a982621c4e5880f0d25ac6f5c17a75490f3c2b725a38e4c2c346558076cac5388ceda6ba492d87beece30f28f11ea633b80caadf792c5ccd64275acc93</hash>
+        <type>2</type>
+    </course>
+
+</courselist>
