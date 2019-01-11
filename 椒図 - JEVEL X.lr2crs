@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+    <course>
+        <title>JEVEL 6</title>
+        <line>7</line>
+        <hash>0000000000200000000000000000f7704b347c77f74ff4880673448664d0d1eafa4e19c120e761db731050a93802423e1dee7ea1515cbe492784b7c17905781a9d72051631c4e84912123bffc26a5612</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>JEVEL 5</title>
+        <line>7</line>
+        <hash>0000000000200000000000000000f7709fe281ebff01ce708981838e7593928c1d8fa1b51f572221c9d5524980154ccb2796bb7767603a6846897e29f163e14d2a4b5afb78bcf20c35a81c9bc5fcbae2</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>JEVEL 4</title>
+        <line>7</line>
+        <hash>0000000000200000000000000000f7704377e154655b3d277b1c65b77d98cf1c350d06e51618cebbd037afcf762fb699582c55cacb18f0cc5938125e322799cf0e0619de679eb29af0ec907673e13d18</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>JEVEL 3</title>
+        <line>7</line>
+        <hash>0000000000200000000000000000f7703c58f7c2e28bedf002aa1a29c8c86f1bd6189186dfd1a1e9029fa5a9e7e16441fcb412d342cd7c1c55536d8bb0e68e4e6ad75b7e4b0f829990f78a1388bd1727</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>JEVEL 2</title>
+        <line>7</line>
+        <hash>0000000000200000000000000000f770b34c6c3d5616e64a352f5c95ebc5b1f9474d8a4bdeaf5ef464fd236b8bbef516e950a7d9e069faf884757a8f141d6f4b7d377912d100c7209098959f77c33808</hash>
+        <type>2</type>
+    </course>
+
+    <course>
+        <title>JEVEL 1</title>
+        <line>7</line>
+        <hash>0000000000200000000000000000f770954f0b59464c3bec1601fa0e1ca6f365dbfda884e3408cc0f956a491df6346a4d67e55f35737d07bdb1b6e574ab8b47c6f4d00fd3c20579595a6f9368b4b1fa5</hash>
+        <type>2</type>
+    </course>
+
+</courselist>
