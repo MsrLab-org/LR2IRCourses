@@ -15,6 +15,12 @@ LR2IRCourses
 
 ## 历史更新
 
+
+### 2019.02.25
+
+增加了如下段位：
+- selene. - Satellite Skill Analyzer
+
 ### 2019.01.11
 
 增加了如下段位：
