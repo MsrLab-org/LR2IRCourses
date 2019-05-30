@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+	<course>
+		<title>仮想段位認定 十段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000eea89822d0bb4ebdd478c0d6a05461c1f53dd22af46b734384afae5e5cd0a8c0e191c47a156a785f8d1858341ab722ceab80b9edc4d324ed4705c222e78b97394e87</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>仮想段位認定 九段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000eea860636db46d664109c96aea7538d1abbbc2674f757a9377f6d9083342b5061034325213609ad69f4bb9bcb61735318423a69797e5735be285a032d519788f2424</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>仮想段位認定 八段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000eea807b991d935793555f56e43781a5d7789e076bb9acc462276ac7f273f073ad34b22a43cec2b900198838ce84870b4516ec1bbd091919d4710dbe6e1c37d4ba761</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>仮想段位認定 七段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000eea88641a7fad2690d6fb409095849682e5779ed06a56ab7d01b4b1ee2306bea95a2e0aa4c1c015be351370edc41b8453501de7a328dcf61f89ef5d786b0a21e1629</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>仮想段位認定 六段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000eea8dca9ad52c690dde2e6ebdd9d00bc1dcbbb71a7b331ce8b365195e6251cf58a35f6d90efe263068c81c91a653f2ba55a564724bfbd75d1e45fb25fa01efcc71a2</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>仮想段位認定 五段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000eea80b7e99f2d7b2426ad5a1eb5c6b75744d4b74df5a035125a99af280b26a0d2461d82afc40de97eea2bd5c39fa56b7468f102b2d956d5aacf4410fedd442fa495b</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>仮想段位認定 四段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000eea83b97c4ec555d89a754762159059565ee34e12ee0835b485cc4e2c7b769dd896fde8479c8ae5be36da0fb2badaa2bdfc82e129dba87b6c435a784ffb13bb463d6</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>仮想段位認定 三段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000eea860948b79f2847eafb5bb81867c00c9b9737e03012d58a6365eb61108c1a67b3f7c9759a9bbaff1657512f4348d00884540e02c22b2e01796db4e9820f9ab45ed</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>仮想段位認定 二段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000eea8e776ae24390b3904269421de7c97f967d249218b5baa91b08c53d146b96cb55949fca40c9164ee9668f5e28566a5e0beedee5f1a07815d9a5fd9431da82ff5bd</hash>
+		<type>2</type>
+	</course>
+
+	<course>
+		<title>仮想段位認定 初段</title>
+		<line>7</line>
+		<hash>0000000000200000000000000000eea8b00667e8b12819211e67fe755fa41f48b963e1f212e3783cfd566b59b5cb472d17ffb278c321ab482883f1bd48acf1e157b4671fc3f537c0dd1f4d8462bb6645</hash>
+		<type>2</type>
+	</course>
+
+</courselist>
