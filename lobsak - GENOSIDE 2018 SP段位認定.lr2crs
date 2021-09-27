@@ -2,158 +2,158 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 Overjoy</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190cfad3baadce9e02c45021963453d7c9477d23be22b2370925c573d922276bce0188a99f74ab71804f2e360dcf484545cc46a81cb184f5a804c119930d6eba748</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 Overjoy</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190cfad3baadce9e02c45021963453d7c9477d23be22b2370925c573d922276bce0188a99f74ab71804f2e360dcf484545cc46a81cb184f5a804c119930d6eba748</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂皆伝</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000519010420967a85371e65db57967e6c696cdebc5946c3de24a01048d1c90cbd5c9d645446f6c96bdb081a2054b80cd8f720839d0732ef7fee9ad0c8b044ccbe8a396</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂皆伝</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000519010420967a85371e65db57967e6c696cdebc5946c3de24a01048d1c90cbd5c9d645446f6c96bdb081a2054b80cd8f720839d0732ef7fee9ad0c8b044ccbe8a396</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂十段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190d6fea1389a86fc14eb354fcc5e60e03ee58e3f718d089ec37caa0f2c7149a54b1e049d189ef9bef79824f55764517a58fb975909eb0f60a9190c7a1007515d4b</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂十段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190d6fea1389a86fc14eb354fcc5e60e03ee58e3f718d089ec37caa0f2c7149a54b1e049d189ef9bef79824f55764517a58fb975909eb0f60a9190c7a1007515d4b</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂九段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190603aae2c3681cc2562b9b53b50408c6979dc444b48299814462ff23a2bf3ab79ff5d7235ba643bc85b804a3df2778590451ed38cdba0323388027129f5929645</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂九段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190603aae2c3681cc2562b9b53b50408c6979dc444b48299814462ff23a2bf3ab79ff5d7235ba643bc85b804a3df2778590451ed38cdba0323388027129f5929645</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂八段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190f0feb9654ae044c0e95ebf68e2497c2e51e0a29d5c7fc9cdf5e5e8eee1ad11241cf2e138abd7199d6e4656447cfaed6c8e0df85dbf59c4753346f1582e2d4422</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂八段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190f0feb9654ae044c0e95ebf68e2497c2e51e0a29d5c7fc9cdf5e5e8eee1ad11241cf2e138abd7199d6e4656447cfaed6c8e0df85dbf59c4753346f1582e2d4422</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂七段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190a4b59ca055a856b9a200ccfd1bf5c7bca0f48e96286e0ce275a33fd8cb851ff0c4134c29746e1ece168159ba4ae88d4567a76e7d26f3c3ea99fdc6f912f83021</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂七段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190a4b59ca055a856b9a200ccfd1bf5c7bca0f48e96286e0ce275a33fd8cb851ff0c4134c29746e1ece168159ba4ae88d4567a76e7d26f3c3ea99fdc6f912f83021</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂六段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190f96cf3af3d9356407bff483d27f4aecca29f9500cebd16cbb8d14b69ace79db1871c6aed53c5dd3ac35686d9a92af4f440673cc8ea628a9452f6ae9ac74d5817</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂六段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190f96cf3af3d9356407bff483d27f4aecca29f9500cebd16cbb8d14b69ace79db1871c6aed53c5dd3ac35686d9a92af4f440673cc8ea628a9452f6ae9ac74d5817</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂五段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190e9fc0fbbde68bfd10f2d289751a1fc6a3a500560e6ace69e08b51736ff1be0ca8a8019d432ab4dd9bde4e65faf1b663f7fd4d1b5a767fd97343129157782a95f</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂五段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190e9fc0fbbde68bfd10f2d289751a1fc6a3a500560e6ace69e08b51736ff1be0ca8a8019d432ab4dd9bde4e65faf1b663f7fd4d1b5a767fd97343129157782a95f</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂四段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000519047de06762f16d164426e3197c5de967ca718de9a2cd2f88deafbd40f5929abb45077cd14b4759d0e8d61e854eac4e88ac87682922d1b87622b34fe7a7ffba52c</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂四段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000519047de06762f16d164426e3197c5de967ca718de9a2cd2f88deafbd40f5929abb45077cd14b4759d0e8d61e854eac4e88ac87682922d1b87622b34fe7a7ffba52c</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂三段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000519019fbf62d711282d81208f97f7135e2a23791d42c00cdfa135df3779eb0f78505b46b23fa8e2ad96e02763f687bb5a494efae90d527a71d753ea7ad2847ec2006</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂三段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000519019fbf62d711282d81208f97f7135e2a23791d42c00cdfa135df3779eb0f78505b46b23fa8e2ad96e02763f687bb5a494efae90d527a71d753ea7ad2847ec2006</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂二段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190d70e2549e841819708d279d2478bb1e25e3711f2f576f3929156c9594b87efaca56ddb2169246817fb7527363fb9c687cefb4735c26f9488438021b4d7fdca31</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂二段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190d70e2549e841819708d279d2478bb1e25e3711f2f576f3929156c9594b87efaca56ddb2169246817fb7527363fb9c687cefb4735c26f9488438021b4d7fdca31</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 発狂初段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190f872dd65dd08638b06d80470a3233fb91b72e8f6439a698e78f94be16470b7892371263af3b0d644fba62526c9f494818a8a6c2f3511eb0876a6c9a2027d7bbe</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 発狂初段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190f872dd65dd08638b06d80470a3233fb91b72e8f6439a698e78f94be16470b7892371263af3b0d644fba62526c9f494818a8a6c2f3511eb0876a6c9a2027d7bbe</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 十段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190f14357d72c2c11081fd45dc00aa4cfface73f117ef9c4a3ff40fb8069e1c3dda2356c21a671f059293a24d4cf14f0db25f6f1c5d3fca5edba8edd537d9927c61</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 十段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190f14357d72c2c11081fd45dc00aa4cfface73f117ef9c4a3ff40fb8069e1c3dda2356c21a671f059293a24d4cf14f0db25f6f1c5d3fca5edba8edd537d9927c61</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 九段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000519018aa482e76edfda904b3cf3d646c59bf07baa34abf34131ee20ab40b703540377f31675fdb02c22e392e5b98de1baec477dd6afb7bfb291774fbdcf5aa0db282</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 九段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000519018aa482e76edfda904b3cf3d646c59bf07baa34abf34131ee20ab40b703540377f31675fdb02c22e392e5b98de1baec477dd6afb7bfb291774fbdcf5aa0db282</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 八段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000519007193291a7222c7a1d1f542b6c081953cb95efd400d207ab019bb481c508060a86030ae0cb6945ba653176e021fca4fd5dc2ecda7d5a5615ed10a132ac3cd4bd</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 八段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000519007193291a7222c7a1d1f542b6c081953cb95efd400d207ab019bb481c508060a86030ae0cb6945ba653176e021fca4fd5dc2ecda7d5a5615ed10a132ac3cd4bd</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 七段</title>
-		<line>7</line>
-		<hash>000000000020000000000000000051904d87528933213d3427ee870c71791538761863c63ecfc1a579f87be40632cce1af07aa8958ee69c4b1ba0876adab86eae9d2bc9465b6172c27df0d7da71f10d6</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 七段</title>
+    <line>7</line>
+    <hash>000000000020000000000000000051904d87528933213d3427ee870c71791538761863c63ecfc1a579f87be40632cce1af07aa8958ee69c4b1ba0876adab86eae9d2bc9465b6172c27df0d7da71f10d6</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 六段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000519033c6dd9cfe024f2600c2cfe6ae42df43c72d51c6d648ea7b5863ca3bfe52a66cf2ef13a310d8d500b918c5126e13ccb152650f7ca6b989917f095f0635c71da4</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 六段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000519033c6dd9cfe024f2600c2cfe6ae42df43c72d51c6d648ea7b5863ca3bfe52a66cf2ef13a310d8d500b918c5126e13ccb152650f7ca6b989917f095f0635c71da4</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 五段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190c3912d126e1af67d32d236397a7510cbdbf71bc8344d4fd406e154e599c5c27c2e962e84f9ceeb87535fe50a382a380ad2f44370fe455dc1fbffd8c5c6505e77</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 五段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190c3912d126e1af67d32d236397a7510cbdbf71bc8344d4fd406e154e599c5c27c2e962e84f9ceeb87535fe50a382a380ad2f44370fe455dc1fbffd8c5c6505e77</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 四段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190935ac8a2d9a3e2307a6e0206f87c22adb177143ae68115a0702db737a7e7c5048e17f96a8440ff15923bfe228409c9b66dddd7873ce15935d891730e6f17b992</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 四段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190935ac8a2d9a3e2307a6e0206f87c22adb177143ae68115a0702db737a7e7c5048e17f96a8440ff15923bfe228409c9b66dddd7873ce15935d891730e6f17b992</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 三段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190ad6a62789520c5591c37dada7a063892fba939901ecf81d6d0ffe6c605f17676d89ea641d2ae9502d43f6905a5ede5a029ff7e29c35b7d72cb1a7437fc09b36d</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 三段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190ad6a62789520c5591c37dada7a063892fba939901ecf81d6d0ffe6c605f17676d89ea641d2ae9502d43f6905a5ede5a029ff7e29c35b7d72cb1a7437fc09b36d</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 二段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000519056528c5f77d140bebf5c3b7070471808d3ed28d0958cd17a93635c6a5604d0aadaab2e157ac86ff4374ffff00a129f85a0aac381114f31691c16b864a401d926</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 二段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000519056528c5f77d140bebf5c3b7070471808d3ed28d0958cd17a93635c6a5604d0aadaab2e157ac86ff4374ffff00a129f85a0aac381114f31691c16b864a401d926</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>GENOSIDE 2018 段位認定 初段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005190ae11930223a8f24e91633f1a7864e1ebcb661ee05c67990012bfd12703ba656c328dbf235f3b6cb2791e71bfb62951f87c6ca04aa14d07b2c081f4dd35432844</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>GENOSIDE 2018 段位認定 初段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005190ae11930223a8f24e91633f1a7864e1ebcb661ee05c67990012bfd12703ba656c328dbf235f3b6cb2791e71bfb62951f87c6ca04aa14d07b2c081f4dd35432844</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

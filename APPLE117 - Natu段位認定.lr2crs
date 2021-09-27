@@ -2,88 +2,88 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>*Natu*段位認定　　皆伝</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eaf3b3ffc9ece8671973cea9d90f93c2e8f27adc9d365ff31d58e1497b5d3ffba5df6bf86cd7a9ec5989958eb1c0f1b3b9a0d6c5b296874c6fd210d98ce4789b67f</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　皆伝</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eaf3b3ffc9ece8671973cea9d90f93c2e8f27adc9d365ff31d58e1497b5d3ffba5df6bf86cd7a9ec5989958eb1c0f1b3b9a0d6c5b296874c6fd210d98ce4789b67f</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　中伝</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eafc54c1db625302b890e94a67e1b0ee32d73e45d6f82b6d69bad566cdddca277cf1ed817c52973073f8a5045f25a45217fd37ba8a0d317f3d39a1c6e2d5b369390</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　中伝</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eafc54c1db625302b890e94a67e1b0ee32d73e45d6f82b6d69bad566cdddca277cf1ed817c52973073f8a5045f25a45217fd37ba8a0d317f3d39a1c6e2d5b369390</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　十段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eafdc2c1489c43a83738900e2fcbea4f39a3004d49607ce6fe08e572169a7bd61c264e3148d9b0d0bec242b026af08f1125df84cff13642ddc8903fccaeb36c92f9</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　十段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eafdc2c1489c43a83738900e2fcbea4f39a3004d49607ce6fe08e572169a7bd61c264e3148d9b0d0bec242b026af08f1125df84cff13642ddc8903fccaeb36c92f9</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　九段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eafac78c98e12ae24369d6cc819ce6c3527e6d59faa8aa2708d4faaa3013d136e407f31675fdb02c22e392e5b98de1baec4a69797e5735be285a032d519788f2424</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　九段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eafac78c98e12ae24369d6cc819ce6c3527e6d59faa8aa2708d4faaa3013d136e407f31675fdb02c22e392e5b98de1baec4a69797e5735be285a032d519788f2424</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　八段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eafcc410b930556c18a6c9ce63bc084be1be10609e7eac2305c0f58d49e78948bb385faeeaafe0c5163faa46565fc67c944ecc9a697570741d2e5f0cb6d87ca9e08</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　八段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eafcc410b930556c18a6c9ce63bc084be1be10609e7eac2305c0f58d49e78948bb385faeeaafe0c5163faa46565fc67c944ecc9a697570741d2e5f0cb6d87ca9e08</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　七段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eafeefb650199700b7682f930b597c2c50c761863c63ecfc1a579f87be40632cce1e96f0661000ea6f1bf38a86210b96a5fe9d2bc9465b6172c27df0d7da71f10d6</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　七段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eafeefb650199700b7682f930b597c2c50c761863c63ecfc1a579f87be40632cce1e96f0661000ea6f1bf38a86210b96a5fe9d2bc9465b6172c27df0d7da71f10d6</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　六段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eaf306e141cf809f3bd879b21a05bf9a5d4f8f4f5b0d46d988e0580579bbd656911542e726eb1e043b4616d10b11b4e8a1452650f7ca6b989917f095f0635c71da4</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　六段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eaf306e141cf809f3bd879b21a05bf9a5d4f8f4f5b0d46d988e0580579bbd656911542e726eb1e043b4616d10b11b4e8a1452650f7ca6b989917f095f0635c71da4</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　五段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eaf6a838dd761dff1884fad71944a02650146cbd3b29d0ba5b55820858f5d5cf12cc25bc073de631b719ec6d5e193651f365a65a55712617c36611be4798ebfb23b</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　五段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eaf6a838dd761dff1884fad71944a02650146cbd3b29d0ba5b55820858f5d5cf12cc25bc073de631b719ec6d5e193651f365a65a55712617c36611be4798ebfb23b</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　四段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eafe670d254d7b6e282d71150d10ae6cc906473a5ccee87efd65a6fc3fc8f50f178bf41a781df3eb2f39f24c92630ce4ff0d7aba787a8ba3cad911b05d90dca2cf1</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　四段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eafe670d254d7b6e282d71150d10ae6cc906473a5ccee87efd65a6fc3fc8f50f178bf41a781df3eb2f39f24c92630ce4ff0d7aba787a8ba3cad911b05d90dca2cf1</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　三段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eaf1084d86000522ec1e3f7136dbf4398c0e2964cfe83166848def5b57ee65d003560cc070b8d49e38d84d2e1c3b5affdf749211e7ff7eef57e2b591b351d3f0914</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　三段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eaf1084d86000522ec1e3f7136dbf4398c0e2964cfe83166848def5b57ee65d003560cc070b8d49e38d84d2e1c3b5affdf749211e7ff7eef57e2b591b351d3f0914</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　二段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eaff24833c184a748b8126e35c4c3841b74b8f64e0e2a39a04a5cdccc2b20642c32718ada32b5b32226d8443e9cdd545d233d362f3903d45f178e65e87733578e5f</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　二段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eaff24833c184a748b8126e35c4c3841b74b8f64e0e2a39a04a5cdccc2b20642c32718ada32b5b32226d8443e9cdd545d233d362f3903d45f178e65e87733578e5f</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>*Natu*段位認定　　初段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000001eaf5734e689de8e977d58c6fb0f91bcee70a1a26d9d328c4a8d528f8829f091bde1bec070f4f4da67df3ad36e19225b2caac869eeff83638935ae337ec32c1ce963</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>*Natu*段位認定　　初段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000001eaf5734e689de8e977d58c6fb0f91bcee70a1a26d9d328c4a8d528f8829f091bde1bec070f4f4da67df3ad36e19225b2caac869eeff83638935ae337ec32c1ce963</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

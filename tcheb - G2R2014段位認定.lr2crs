@@ -2,88 +2,88 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>G2R2014段位認定 OVERJOY</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8d49759e44e50e65934b98544ad07e712a8089220ba650cffa6e0ce6df116c77bf623e4961e28494063a118a0feda567ac164ab0e099d3f918a575e31d07e41b0</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 OVERJOY</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8d49759e44e50e65934b98544ad07e712a8089220ba650cffa6e0ce6df116c77bf623e4961e28494063a118a0feda567ac164ab0e099d3f918a575e31d07e41b0</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 皆伝</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8d1d2b836763c81658fb94507e37067be31ee4525e55a413491e6c9df2144d3855c89e5ecea04a248902e65145cd65ad6bf2e5128ca065044b12f8c4a6c68c12a</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 皆伝</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8d1d2b836763c81658fb94507e37067be31ee4525e55a413491e6c9df2144d3855c89e5ecea04a248902e65145cd65ad6bf2e5128ca065044b12f8c4a6c68c12a</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 十段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b803a3e2e4367315f8bac2c1ed5cf41ad11c3cb845983b4be58c3f05cfd941fc0a2356c21a671f059293a24d4cf14f0db2b013e47a69a86c9285db5399cc0d13a1</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 十段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b803a3e2e4367315f8bac2c1ed5cf41ad11c3cb845983b4be58c3f05cfd941fc0a2356c21a671f059293a24d4cf14f0db2b013e47a69a86c9285db5399cc0d13a1</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 九段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b86808473bde4884840e7175f665af21117268a57cf49653fb5371d8f0aa5aaed252265862e46b3d12f65c84f30ab7895f79461701bde377074bbce290e7cec1df</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 九段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b86808473bde4884840e7175f665af21117268a57cf49653fb5371d8f0aa5aaed252265862e46b3d12f65c84f30ab7895f79461701bde377074bbce290e7cec1df</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 八段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b853b31ae4944b9d945ea976c0845cf1f84dc13668ec0e829e0deebbf4eaf2cbcd05fef74e224ca5fef6d69719fa4a6a8720e0759efaaf3d45a2045009eb381ce0</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 八段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b853b31ae4944b9d945ea976c0845cf1f84dc13668ec0e829e0deebbf4eaf2cbcd05fef74e224ca5fef6d69719fa4a6a8720e0759efaaf3d45a2045009eb381ce0</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 七段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b85aeffc5f6a2ec3f3a3a64339afdc0d7ef2ef13a310d8d500b918c5126e13ccb1102a4f630fbfb523be78c507d39f6f018b385f9d6fea058473aa37d1dca2dd05</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 七段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b85aeffc5f6a2ec3f3a3a64339afdc0d7ef2ef13a310d8d500b918c5126e13ccb1102a4f630fbfb523be78c507d39f6f018b385f9d6fea058473aa37d1dca2dd05</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 六段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8f5d636e149e82fd4b9a7d338daeaafecf8ca895feb437197dc128f50e018f0d736a7ebaa8dfe07edc07a73e44879c2b9eefb650199700b7682f930b597c2c50c</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 六段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8f5d636e149e82fd4b9a7d338daeaafecf8ca895feb437197dc128f50e018f0d736a7ebaa8dfe07edc07a73e44879c2b9eefb650199700b7682f930b597c2c50c</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 五段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b858b1af1489ab8f0c0e7718a7ef19dfa19bf67a4848e4c93b2e24f8f0b031725285730d59613855ee2f59017c6a383a57196d20d1151af5e0357a0a7085e75c23</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 五段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b858b1af1489ab8f0c0e7718a7ef19dfa19bf67a4848e4c93b2e24f8f0b031725285730d59613855ee2f59017c6a383a57196d20d1151af5e0357a0a7085e75c23</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 四段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8652fa459b9526929aa3d7a0fe45eab60ec3a70c976b2eccacf70d2716ec35f1bc00fd076bf11b609dac4a86719b65294b1d9856ece3ec4f06f9f4897c1ad4c06</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 四段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8652fa459b9526929aa3d7a0fe45eab60ec3a70c976b2eccacf70d2716ec35f1bc00fd076bf11b609dac4a86719b65294b1d9856ece3ec4f06f9f4897c1ad4c06</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 三段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8b4022492c480d90bb43e3cd1c974fdad33e4b2616c05ace330c7eb3ccc7d080a400cce43b129f936dd71a41293ba74b518f63b7267074871fe01112351323a19</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 三段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8b4022492c480d90bb43e3cd1c974fdad33e4b2616c05ace330c7eb3ccc7d080a400cce43b129f936dd71a41293ba74b518f63b7267074871fe01112351323a19</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 二段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8672af005c0e4b0de1634fdad56d22280e628827ebac1971bb88d0ea2909fe388788299decd6d184a17642e4289bf4a6f5852c37efcc40a41e5a289f891542461</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 二段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8672af005c0e4b0de1634fdad56d22280e628827ebac1971bb88d0ea2909fe388788299decd6d184a17642e4289bf4a6f5852c37efcc40a41e5a289f891542461</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>G2R2014段位認定 初段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8f258326d6aa99b902daa5e4220af622861b255a603224f67b4fa48687dd04938d8ff115439a4fc3c74240f47189d7e4be9ef0504adeaf0c2729a93ff5d2d56c7</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>G2R2014段位認定 初段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8f258326d6aa99b902daa5e4220af622861b255a603224f67b4fa48687dd04938d8ff115439a4fc3c74240f47189d7e4be9ef0504adeaf0c2729a93ff5d2d56c7</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

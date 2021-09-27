@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+  <course>
+    <title>しろくま段位2020 Undefined</title>
+    <line>9</line>
+    <hash>000000000020000000000000000001a93df26792fb39c46c39321d6fdc5bc99a1ff2246627e43e491f636b01bdad2e530816600a32b263d191841a4f00eeefd04bbe15bc6580dd684f633116928bea804dc5a74b698d2dfe0c719b394ff35bb6</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>しろくま段位2020 Overjoy</title>
+    <line>9</line>
+    <hash>000000000020000000000000000001a9fb46f32433fff692942c799f9225f41ece57e3731cbf6fe8bce63a2f12a2a79334f1c205685947355e351b0343c4f2634ece76fa0079263a575128f8aae60d19</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>しろくま段位2020 皆伝</title>
+    <line>9</line>
+    <hash>000000000020000000000000000001a92d2519403ac9b146f44711b8e1d12cfe2ba69a0e4a327c22c79a53a16f561994a27d523b2e0d2ada8f953506bc0913b42e9741625abb21fabb7f6e70cfc7b019</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>しろくま段位2020 十段</title>
+    <line>9</line>
+    <hash>000000000020000000000000000001a9c828b738de5deb6e3f44e2a8b018f57e22f28a41e1a7f4df1bd6b2c081124a752d76943b448159336fc211bc24dfd1edd8b9bf3bdbcbc2de39b79cc978bd456a</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>しろくま段位2020 九段</title>
+    <line>9</line>
+    <hash>000000000020000000000000000001a9f7c2797325a8df4065ebe20990f787c495038b518dff498db697cfd30e56630d35700059ac49c908520dcaba0a0075635ae647978780241c11bd6e6832f7c4ed</hash>
+    <type>2</type>
+  </course>
+
+</courselist>

@@ -2,81 +2,81 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>新規提案　発狂皆伝</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d3093a8d66b89944db9e42aa2321b4f637e6af04686aeaf0a0fa2698cb0b0111adac29456828fbd27bb27bd99d52a666c439d0732ef7fee9ad0c8b044ccbe8a396</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂皆伝</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d3093a8d66b89944db9e42aa2321b4f637e6af04686aeaf0a0fa2698cb0b0111adac29456828fbd27bb27bd99d52a666c439d0732ef7fee9ad0c8b044ccbe8a396</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>新規提案　発狂十段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d359b0d1d9d39b615bb7b3b877d0b093bc20298a905f69c2fe692b70be94a4d633c6c3021134801b842f588108192e3fd9d23a2e7dcf07ed2742477f09e50e1bf3</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂十段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d359b0d1d9d39b615bb7b3b877d0b093bc20298a905f69c2fe692b70be94a4d633c6c3021134801b842f588108192e3fd9d23a2e7dcf07ed2742477f09e50e1bf3</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>新規提案　発狂九段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d395318da6f5d2ce244a6fb19c8da1588f75403397d59c78d161429749143aa1f1732abafcb87ac588b64a9be39c6deb5c751738dea1169c5c39db935adfc9e85f</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂九段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d395318da6f5d2ce244a6fb19c8da1588f75403397d59c78d161429749143aa1f1732abafcb87ac588b64a9be39c6deb5c751738dea1169c5c39db935adfc9e85f</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>新規提案　発狂八段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d3b89279d026c9d40d0f5eedde2e25b920eefef4918e837ceaacba873c5214b807a5b860b3c6683f79e34c5216f5972f622ac598184092702e891cdaa48b92dd76</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂八段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d3b89279d026c9d40d0f5eedde2e25b920eefef4918e837ceaacba873c5214b807a5b860b3c6683f79e34c5216f5972f622ac598184092702e891cdaa48b92dd76</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>新規提案　発狂七段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d3b22f2d866ff6e8f62b7b95e9b7fa3a9e1b31792e9973e17dd04cda316641ad4bfed9367fc6e365a1c50d3d9a46a7af8bd1857c880459078f3b7d6523795f40ba</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂七段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d3b22f2d866ff6e8f62b7b95e9b7fa3a9e1b31792e9973e17dd04cda316641ad4bfed9367fc6e365a1c50d3d9a46a7af8bd1857c880459078f3b7d6523795f40ba</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>新規提案　発狂六段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d32cb7ca662fa47655ac21421ed7b8aea33be5d074019ffdc789c9bac9eb6020d1b5537e8d828970624afc5028cce244903f3bed485c074401ef4bcfb6781786ee</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂六段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d32cb7ca662fa47655ac21421ed7b8aea33be5d074019ffdc789c9bac9eb6020d1b5537e8d828970624afc5028cce244903f3bed485c074401ef4bcfb6781786ee</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>新規提案　発狂五段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d31d8fa1b51f572221c9d5524980154ccbeb4c2697459be3508e1aa2c8a9218dca1619bdb40886cc7726346b6996c9f5a35110b92d997eabc3d2322556617632ad</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂五段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d31d8fa1b51f572221c9d5524980154ccbeb4c2697459be3508e1aa2c8a9218dca1619bdb40886cc7726346b6996c9f5a35110b92d997eabc3d2322556617632ad</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>新規提案　発狂四段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d3f378874acfd34e09e2c1be0a1b7fdb9b3d6c4e9dd1c87def0e3e261204da58ade3c53ab08173061ac8efad8e167fce0eba08b17833c353184fb8c42412985b5b</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂四段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d3f378874acfd34e09e2c1be0a1b7fdb9b3d6c4e9dd1c87def0e3e261204da58ade3c53ab08173061ac8efad8e167fce0eba08b17833c353184fb8c42412985b5b</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>新規提案　発狂三段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d37d377912d100c7209098959f77c338083d44b0266fa568fc13a6b497141e9fb5a1bf67ed2fe66fe3665bffcf7dea2df66dc3b133f3dd786ecc9c2cfcc9f97a5f</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂三段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d37d377912d100c7209098959f77c338083d44b0266fa568fc13a6b497141e9fb5a1bf67ed2fe66fe3665bffcf7dea2df66dc3b133f3dd786ecc9c2cfcc9f97a5f</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>新規提案　発狂二段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d34ffc2e2369740ac9d44da39cea5e02246300dfafb5c57ba753a9133f37ad890caaffdf6c3fd3731cfb577b9375381c57bc0ee1edce32dfdbf10a5733bbcff27d</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂二段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d34ffc2e2369740ac9d44da39cea5e02246300dfafb5c57ba753a9133f37ad890caaffdf6c3fd3731cfb577b9375381c57bc0ee1edce32dfdbf10a5733bbcff27d</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>新規提案　発狂初段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000a7d334e09ddf69ae8bdca128db1cc39d163a3004d49607ce6fe08e572169a7bd61c2cc117d0521097efbfc5bb461a168ccf091f9dc675a8f646808b2834441ca423f</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>新規提案　発狂初段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000a7d334e09ddf69ae8bdca128db1cc39d163a3004d49607ce6fe08e572169a7bd61c2cc117d0521097efbfc5bb461a168ccf091f9dc675a8f646808b2834441ca423f</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

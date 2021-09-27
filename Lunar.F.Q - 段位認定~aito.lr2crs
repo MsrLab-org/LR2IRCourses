@@ -2,81 +2,81 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>発狂皆伝~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f525e6af04686aeaf0a0fa2698cb0b0111adac29456828fbd27bb27bd99d52a666c4623316aec60befd002cf779b99b1b8a2a4a9c721a726435eaf37b62b1768b4e1</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂皆伝~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f525e6af04686aeaf0a0fa2698cb0b0111adac29456828fbd27bb27bd99d52a666c4623316aec60befd002cf779b99b1b8a2a4a9c721a726435eaf37b62b1768b4e1</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>発狂十段~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f525323e391cb09c023da7fe439d12bc6defcdc252edc57cdb4018dbeb46fda6a3c330a5cc8b0bfdc784f19fa42155917b6ca2bcbceaccf8d9642e8b62723940590e</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂十段~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f525323e391cb09c023da7fe439d12bc6defcdc252edc57cdb4018dbeb46fda6a3c330a5cc8b0bfdc784f19fa42155917b6ca2bcbceaccf8d9642e8b62723940590e</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>発狂九段~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f5251728928d4d010b0c1ba0e21130a854a320298a905f69c2fe692b70be94a4d633ec056512be0b6770e4ec0ebc8744ef3a0183b55c5829e698fdaff5ba2f2b97f0</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂九段~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f5251728928d4d010b0c1ba0e21130a854a320298a905f69c2fe692b70be94a4d633ec056512be0b6770e4ec0ebc8744ef3a0183b55c5829e698fdaff5ba2f2b97f0</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>発狂八段~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f5254c066e76059a6a4a0a7b34c788b9bd78606b173bea30e4258c4d465468ea2f9195318da6f5d2ce244a6fb19c8da1588fc31dc2e5b82a97de64cbee84aa67aae2</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂八段~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f5254c066e76059a6a4a0a7b34c788b9bd78606b173bea30e4258c4d465468ea2f9195318da6f5d2ce244a6fb19c8da1588fc31dc2e5b82a97de64cbee84aa67aae2</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>発狂七段~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f525fd493e9ff008dc10636a55dc4f2a0814fed9367fc6e365a1c50d3d9a46a7af8b8a602e66b159a4095dca17a4cf9a774d96fb7813b3d3d9269adecf9e7d87b1d5</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂七段~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f525fd493e9ff008dc10636a55dc4f2a0814fed9367fc6e365a1c50d3d9a46a7af8b8a602e66b159a4095dca17a4cf9a774d96fb7813b3d3d9269adecf9e7d87b1d5</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>発狂六段~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f525fc15c822e5a44c613117e4368d880ec8462c47942b654985da2e94c6e31a238bbb4e7f21c8a4378c987094edd682465e1f0b2945575d8f1194ff36a67ba3cc2e</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂六段~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f525fc15c822e5a44c613117e4368d880ec8462c47942b654985da2e94c6e31a238bbb4e7f21c8a4378c987094edd682465e1f0b2945575d8f1194ff36a67ba3cc2e</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>発狂五段~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f52589a81bfed94041435bce915cef8fb745bd5d6333cf0fa6c86d1274ccc25a89d80f6009dd00dd7474f72f311ef431939190ca23d2f6292dd0d4e4c88e20b46946</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂五段~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f52589a81bfed94041435bce915cef8fb745bd5d6333cf0fa6c86d1274ccc25a89d80f6009dd00dd7474f72f311ef431939190ca23d2f6292dd0d4e4c88e20b46946</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>発狂四段~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f525c0cbac06de64d71742171004f2681c52cd78da88201c01afb934bcba55f955cbe5c37ffef1401274cfc59110df6b0b86ee21ce9f5b84794c69e64e6d6d27caed</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂四段~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f525c0cbac06de64d71742171004f2681c52cd78da88201c01afb934bcba55f955cbe5c37ffef1401274cfc59110df6b0b86ee21ce9f5b84794c69e64e6d6d27caed</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>発狂三段~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f5256598afc64d626f7efb90ef6a6d94082336117c301ea545fac1e6bfda998ef1dc1110df34e91e9b8425c4a0446f5bd1ffa48ef1f79944580c238e5bed04bd7360</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂三段~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f5256598afc64d626f7efb90ef6a6d94082336117c301ea545fac1e6bfda998ef1dc1110df34e91e9b8425c4a0446f5bd1ffa48ef1f79944580c238e5bed04bd7360</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>発狂二段~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f52589719530f80d426750633ac820089bcfaa06a78f286d7bf6ab6e7bb01c5be95f8696632a6260cac1ee2d2ef94e23c7626f5191238a207f05643a84d50adcc030</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂二段~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f52589719530f80d426750633ac820089bcfaa06a78f286d7bf6ab6e7bb01c5be95f8696632a6260cac1ee2d2ef94e23c7626f5191238a207f05643a84d50adcc030</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>発狂初段~aito</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f5255873db6a41d6927c45ef22aab231ef23ba3bcf1b94fd10c4dea7f277c6bee5cc954f0b59464c3bec1601fa0e1ca6f365cc117d0521097efbfc5bb461a168ccf0</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>発狂初段~aito</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f5255873db6a41d6927c45ef22aab231ef23ba3bcf1b94fd10c4dea7f277c6bee5cc954f0b59464c3bec1601fa0e1ca6f365cc117d0521097efbfc5bb461a168ccf0</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

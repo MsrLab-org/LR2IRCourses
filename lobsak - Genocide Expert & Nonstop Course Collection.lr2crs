@@ -2,634 +2,634 @@
 <!--ã»ÇÕè„Ç©ÇÁèáÇ…ìoò^Ç≥ÇÍÇ‹Ç∑ÅB-->
 <courselist>
 
-	<course>
-		<title>DP:OVERKILL</title>
-		<line>14</line>
-		<hash>000000000000000000000000000051908e87065f8ea2a848c4df53a450b2c91b4c7cc6538f30a171dd682bdb700023e8653f894b0fe350f592cecee6088ff9c64385fa90647226e1e260d7291a9c9ee9a40c4a04638073569ab7aaf7c6253dc9</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:USELESSNESS</title>
-		<line>14</line>
-		<hash>00000000000000000000000000005190ad6c3184cdc7424929c6cad06ec6823f33041d9a9432b867919199e3f9ea5707653f894b0fe350f592cecee6088ff9c6eb1c32bf3a85db5983605bf3c5c8aee99cccf22b9610bf67b2d9ad3955e89c2e</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:FINALE</title>
-		<line>14</line>
-		<hash>0000000000000000000000000000519094f9f4e81dd211f02cc41fe7e49f6de86b94a541b7949be89f9ec37499550659fa9732a6a1c588549f11b9c8840f4e5aa9258fa30b6a2903193918cc3d5bfaf803cd919f256c2d9dd7371c15f93b9b93</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:PROLOGUE</title>
-		<line>14</line>
-		<hash>0000000000000000000000000000519096bf4a81a5e8ab45bc67054cef1d9b452a432dcf1a6542764c82e3a141653f81a6bb0b2a7638269c6b6bb42c8fed2be656ed5d18036063424352f05d545bd56703cd919f256c2d9dd7371c15f93b9b93</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:HARDCORE A</title>
-		<line>14</line>
-		<hash>00000000000000000000000000005190874d9a9aa1aedbb3d8b422863800c7aa4385fa90647226e1e260d7291a9c9ee9b65a8b2c832f453a4da0e264204620c8687a6d76c75fb4cc0ccd1eaef6c3c5d903cd919f256c2d9dd7371c15f93b9b93</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:HARDCORE H</title>
-		<line>14</line>
-		<hash>00000000000000000000000000005190301a349532d9181b4ff99586c38a3412f454e43a32b7faf67b09834b91b85d662977937b70486153ece972a882ee84125e31724c204310a1aa309f6293ee33305613bcba255c3b0837c918aeefe7eaa4</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:HARDCORE N</title>
-		<line>14</line>
-		<hash>000000000000000000000000000051909f831d807325f19bd1034f521b92c76405139b32372f05fed6c193b962e20908e5fff007c87e117e647d6ec40aa68a9e9d42523ff12e6976bdf0acaac0f23b60e632b10ead6458c106bd16f5c0af932a</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:HIGHSPEED A</title>
-		<line>14</line>
-		<hash>00000000000000000000000000005190a0e052b554000b7e5e183e8330661f79ba88a676048fecb91bc01c457c50d48a2bbe61915a91a1901bb9b054c3766b7b91aceea3caa454df77a03c69088ac62169f1db355d839b69492c7ccd26f54890</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:HIGHSPEED H</title>
-		<line>14</line>
-		<hash>00000000000000000000000000005190fd8d3fbcc5b4e2dd7fc0bf88766d40369f831d807325f19bd1034f521b92c7642e6284cb6b4bb6e763e444a7a1ecade0aa06c64239b3868fba58188f74f56b30e5fff007c87e117e647d6ec40aa68a9e</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:HIGHSPEED N</title>
-		<line>14</line>
-		<hash>0000000000000000000000000000519020738efbbbb689375f4ad196381f21367da775448af1a58dabafb5de1a9575972b13a6e1a70e9b5b9fcc67a1038225a38290ac19aaefa4174dc886873f5fbb7a08d34106acfcaad8cd2a4551c287ab40</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:TRANCE A</title>
-		<line>14</line>
-		<hash>0000000000000000000000000000519033041d9a9432b867919199e3f9ea57078d11627adab74b2842739b15e3ab6b18b65a8b2c832f453a4da0e264204620c816e29b6c326df85c06e97dbf88a19539a71adb655bd634f1a5456784614d262c</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:TRANCE H</title>
-		<line>14</line>
-		<hash>00000000000000000000000000005190376ee2c07f59d4cc1c2425e66fb56ab72f4e4105e7849c6e9787436b1a0d81786e4858fb2f3c29abf2f93a728a9c1ea25e31724c204310a1aa309f6293ee3330da6874cb2fc7705bc8bced8732155564</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:TRANCE N</title>
-		<line>14</line>
-		<hash>0000000000000000000000000000519099789e83386883b9e3c2b06d8d3305e186e5bcd10f72296ae49b04e95dbffd1887c5ead3618094d8d78af6d5d97c35058290ac19aaefa4174dc886873f5fbb7a05c57d75a23df6b8d44ed69eefd8b25b</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:POPS A</title>
-		<line>14</line>
-		<hash>00000000000000000000000000005190f153f3394c5566d24af48e0d05cb1560aa06c64239b3868fba58188f74f56b30ca496cd2c4f2709bb79e889967e589970ca3adf6b06f779c7856f50dc6fdb749e60966698d4081e229762c9cc9e8067a</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:POPS H</title>
-		<line>14</line>
-		<hash>000000000000000000000000000051905b7e8f3abd09a46b683f617380ac16562574cb94b434e1914009da0437488f90b1c1da798c8a4dc967cd36bd4f1cf055ab4dc0dc63966a612daa320107a1f912379247f1cca4bd2d7062f4014262856f</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:POPS N</title>
-		<line>14</line>
-		<hash>000000000000000000000000000051906e6d31aa0e426ca27dcf0f1d382ec44cb7df9a4092725522e27d8efbd115fa1bde92fec3066ff4308c01d01515680b8b3821f93f3e053487d6ed3c07855260bac3fb4194c37aa5411cee46869ab01838</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>GAZILLIONAIRE</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000098fc07125de4ed7fbe7cb066cc41e50e51e33ae18837ec81491c38b9acccda8b16d1c7161bde9d2857530c581e06382bfb883708354e7a5605a6ffbd73d5490a643d2f8edb05e9e8dd19b4106ed68c0a668</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>BAZILLIONAIRE</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000098f677d9f69a00c26722f978deb18205e7dc54c1db625302b890e94a67e1b0ee32dc0d7baaaeb1b0ba9b17b94b587d2fb707bb2b44adf673dc8cd53bdc9c87debcc0c65f3ac5bbd647977a64d51ef90d2ac</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>SQUILLIONAIRE</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000098f61519b432a4912f0b8d3258803b02ea1b78b08e1cbdc7ce3bada1bb3ceb1fd380108ff92119d48e0ca0e2eae1f3dffbf693b38eeca2cffb1e191554ba64bf2add431f5779ff511480101f4612cebbfd4</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>ZILLIONAIRE</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000098f9d785ec7798e4aa726c28b712fe6600037663e91190ce4a0b502def7155df58e7c766ab68219883f367d9a79e94e3ba25301a69f47f8fc9bf51c716f5495f6fac37c6a08cfa86e34c6b1faafc9b066d7</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>MILLIONAIRE</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000098fb119ac88a1e04fb1da5815805c11bfabab2bbb926520173f4ebad406462f08fe4de9da7138e886795363e7efe76d6f105fa3ef3327f98cea430972f4b409a8631c58f683bbe8c46abb83d547d4dc1d6d</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>HIGHEST</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000098fdabc6c70ca4dac9f0060a17a9218a1af862925e481caf4fb4c48591f1ce0d93273b3fdb9fbacf4895f955e29cc44c454f2322f3aa501ac43fdc60c2289adf44fba21bbbfc06c970aada452b20deb7a92</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>BRUTAL</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000098f093a8d66b89944db9e42aa2321b4f637ff5ea123f7d90cd220ceb2e1b7e295fb39d0732ef7fee9ad0c8b044ccbe8a396c46a81cb184f5a804c119930d6eba74896a1536917e1f7f12a85d3dd7eb64932</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>UNJUSTIFY</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000098f17ee7a35750c8e1b1bdfe3a7ca3a3119cd24fd54b865c744428da2513643dd8d79dc444b48299814462ff23a2bf3ab79cbfee23392ad22638ff24b9905c42ffb8ae06bf384dbe6956b1fc76c071ff86f</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>BRAT</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000098fe5b14c4dcd1df58a047ba33caa88663a63947bce9af12ca7f84492b20ca21928c4ca195acf56e5086bf1f2608af5ac355dc1e3e22e4fc735f010e35f2ae774809f16671be85cf14a3104aad46689c365</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>FINALE</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190b590372b98e07f4d9f8b1015ff1bcdf80ab22f8cc36b18e6cce19f5f0906d71e016b6f49058dd0dbc5083fab0905e1a91c7161bde9d2857530c581e06382bfb8ee21ce9f5b84794c69e64e6d6d27caed</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>ENDING</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000519014682c2fb5e1219077b71c54e2d8796902c758db6b8b2a5645d07a9d462dbac437663e91190ce4a0b502def7155df58e85faeeaafe0c5163faa46565fc67c944043880563155d8763a33660bfda32c23</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>CADENCE</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190f9b2f64bb5d7e38316d98cc36df8c7e01528dc2ed5654dea82cc827b9e6996a5369696d2e938d53787bb7b09b1cddb63d81a20d4764736bf0e9878e4d9e69f8ac0f71dae2354859ed254389e8eafa8e2</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>PROLOGUE</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190e8618b082d72096e9793c4fe8d8dfed074e04fb5181d49266cc99021e1d40fd6c0fceec0de785ada703aa0cea0ccf1f84e25cc5010275e79bf53e2893699d95193f8119fb8f8f61446fea48b206cb9c8</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>OPENING</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051901bad08334c59dc11cde7b1ff211eaa3d7805eae91427c45c7bdd6af06f5c370bcbc23ee9d5f2164306577fce988121fa542e726eb1e043b4616d10b11b4e8a141c58f683bbe8c46abb83d547d4dc1d6d</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>OUVERTURE</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190d218f17b9ee5c4621bef675e6b7e5b88a8edb49412dd46b4186682928d0359a4acbb6e2dbb27c39d6fe09e7fdcfe675101168bf079baec85eb6513117ccd7185c6b1acb17625b3fd8b3cef18f3f9bc5b</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>IKEBUKURO</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190e0005f553b5ea8e0e53d0424f1b95b6f7bb2b44adf673dc8cd53bdc9c87debcc677d9f69a00c26722f978deb18205e7d5301a69f47f8fc9bf51c716f5495f6fac2ca332417982ad54e5df1374b329f97</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>UENO</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190926d83410ac1f54dc1c4bc452a0d6eb619831e39813568e8cc50c1fa46aa05d52a1a5b57d1f964cfdc304c799e313f86e0102b1240d35af80706d8c30a01a0756553c96bdf5d0f9eba4ce5548035b2fb</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>SHINJYUKU</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051908a4729b09d25193a0f67b9e0d6596e6101168bf079baec85eb6513117ccd7185aa3b462d6668d807d506fc47c5eade86c25bc073de631b719ec6d5e193651f36ead7e5cdf6d87eef3f8fb809ae95eb02</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>SHIBUYA</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051909656746c8daaeb7c568cced3da769e187e0d638837d63b3bbd1e430440346b2ac4f906314886da2aed9516925f063553e968b2fc17cedb600625a298d85b08695f73a13fb8c21e8b768c9bf579f0a43e</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>TRANCE I</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000519036fd786d7331e34ae9896e5a954cef2bf726bc7fa048f9a7fdef502c50587a7d147ce1345beaa7fb7237989ca8fdd84ca6738157b2dc1689bea1f6123660d723e0005f553b5ea8e0e53d0424f1b95b6f</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>TRANCE A</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051901cb7613b87133b8f842eff1b1f4a957b929a81764f767bd0afdd9cbd2a00dcfe85faeeaafe0c5163faa46565fc67c944d1fb5ab6eb1265121b4d83ae95feb3e203c906bf1229a701a0471165242e1233</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>TRANCE H</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051904de9da7138e886795363e7efe76d6f1037f1fb27fd15b8da324aee97ed374ac4f7d3060e1dc3473537d4585634bb8fbbcbc23ee9d5f2164306577fce988121faf8f4f5b0d46d988e0580579bbd656911</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>TRANCE N</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190a68a0b5aa2e6e6eb7130b78c39285d466035dc4923c5c75040b01c6e174e91c6b1880d5e09f8fa49083ff64b4d2085d5d1f7a9dbdcb156a0fee506c751f326d5bb17d6e06313cca519ce6db737f0c5c5</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>SMOOTH I</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000519016f9bce8ee02a9ba6ccf0b2918c2d876fc7d46e7bbc9f6afd26d05e3bf2ef5552b303ae3770d634427283093788340ec5301a69f47f8fc9bf51c716f5495f6fac2f261b49b205530fc5547fe56059ef6</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>SMOOTH A</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190ebbe167813f89ba9fcebee36d225310e9e22d0fd412f31de3f98929bcf6fa7ceb9e3f830fd7590eb34f76e360963e685c899b2ceb393fe772369ae4c540d36f632c445313b77c744b21b04c652237154</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>SMOOTH H</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051905ef830f965815d9ed28952252654ee19242f473ef6b289a358b37b46054845fe853c931c7e84fe6016706f79a76fcde7acbb6e2dbb27c39d6fe09e7fdcfe6751ae39c08a9ecd9467d1a06330fa272209</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>SMOOTH N</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190bb515279fc2ca77157019a2cf1941241ff6e31a932b5740e0341f73727a485b33e06b70765b78eebf81d38af76437de45065549009e62d25c0d5cb2e2580fc367e0d638837d63b3bbd1e430440346b2a</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>TECHNO I</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190d063d3666b36cc14b176cd4438487deeadec1bcc37806f155cdae08d873c9f7770a521bec4c041a3a5007156439547449702b8d8ae4bcaeba985475453766a9718a3d4f7f8b1d35277e759e5643a4757</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>TECHNO A</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051904eb51e8a7142440bfdc73152777628042989ee0519438b7b44b18abfc1f8a0f2ab2bbb926520173f4ebad406462f08fe926d83410ac1f54dc1c4bc452a0d6eb62f34d01c4688c1b38ba3f515abee6899</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>TECHNO H</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051902b2ec43fdd9dcc52850e5893d509effe84d4d4602ef67c7189468db96fa3c6875f5da0f6fd551249137a63838f49f617ee3cdc10eb8cd476ce5dab041613dcd78df146007ab5c8f6d388bafda8d7420f</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>TECHNO N</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190c179cc0164a578e9bf39bb00c779a2f76d7ba154fd4137e42ac157fec1f5316cee456dd8ffd0a87c270b2ae8e13ca80ee8f3ffafe1a1a8c84ed2d2cb380d324dbe5de5e5edb5825047d24460564ef936</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>HOUSE I</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190fc7d46e7bbc9f6afd26d05e3bf2ef5552b303ae3770d634427283093788340ecf8b717c17c8275cbe3718be2cb975d13c2f261b49b205530fc5547fe56059ef62a1a5b57d1f964cfdc304c799e313f86</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>HOUSE A</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190d1025db5f60f0541c6a4a6a4114a7badebbe167813f89ba9fcebee36d225310ec899b2ceb393fe772369ae4c540d36f6df4b42cb5e464da23be37dadc9699f5dc0f71dae2354859ed254389e8eafa8e2</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>HOUSE H</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051905770f9cab474724e22a0f9cce55d85b156bbdd0efed7915cf54274ffd88ec4bcd81a20d4764736bf0e9878e4d9e69f8a1db12940ddd8eb3f20a583a2387cb7ee4e5ab5e78b19be116da4564b7db8e0b9</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>HOUSE N</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190f5036292133874dd696cb758bdf9b29b69d1bc67ee63c4e8fc6b0e7ad86f204498d0755619efe765c9d540101053e3fa9656746c8daaeb7c568cced3da769e180f99a06b6207e37aad216eb9efb979ed</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>HARDCORE I</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190e5b14c4dcd1df58a047ba33caa88663a17ee7a35750c8e1b1bdfe3a7ca3a3119aec21fd1d585fdfd67bf93fc1c5c92d99f16671be85cf14a3104aad46689c36579dc444b48299814462ff23a2bf3ab79</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>HARDCORE A</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190b78b08e1cbdc7ce3bada1bb3ceb1fd3861519b432a4912f0b8d3258803b02ea1d1877ad5dc0134b27eb0238da5721eed5f90eb6c51640dec4fee3f520e176a45d4e2c4132b93b6bc1048c0cbf29cd318</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>HARDCORE H</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051906073c415e7514dff23f91978e288c56048fe9800c3b29f1bea58fe408b46349aa14bf19e1ea91040cf727de649df99a03209ca6be42ab335037f29f5b239af3e19516f44d8d933c1976ca28e9821c66c</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>HARDCORE N</title>
-		<line>7</line>
-		<hash>0000000000000000000000000000519025d17d433daa44110de503c3971e320bead7e5cdf6d87eef3f8fb809ae95eb025526692001e70c9edf6c69747394a06d535c7e60ac55b33660253eedb75fdebe6222086daabc0dcc6a441452642fa076</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>POPS I</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051908841ecde594f990c6731e6a1d6b898e593f8119fb8f8f61446fea48b206cb9c8df84cff13642ddc8903fccaeb36c92f9c07125de4ed7fbe7cb066cc41e50e51ecbfee23392ad22638ff24b9905c42ffb</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>POPS A</title>
-		<line>7</line>
-		<hash>00000000000000000000000000005190362554954d42ee7a002153e1847c753ee2519c41907b41064912fba65a589683e8618b082d72096e9793c4fe8d8dfed0c2ca332417982ad54e5df1374b329f9778f2706a7988d4eaf26f2903abd3f789</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>POPS H</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051901528dc2ed5654dea82cc827b9e6996a57805eae91427c45c7bdd6af06f5c370bebbe167813f89ba9fcebee36d225310e1c58f683bbe8c46abb83d547d4dc1d6d2e92797fc9cdc1f882047e253e80dabc</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>POPS N</title>
-		<line>7</line>
-		<hash>000000000000000000000000000051900f99a06b6207e37aad216eb9efb979ed4e5ab5e78b19be116da4564b7db8e0b9ae39c08a9ecd9467d1a06330fa2722098ed0cb51333b1ddcf40bd40665968acc44ca3ed71372d826612dbe58955f42f2</hash>
-		<type>0</type>
-	</course>
-
-	<course>
-		<title>DP:ETERNAL DiVEÅ´</title>
-		<line>14</line>
-		<hash>333300000010000000000000000051909cccf22b9610bf67b2d9ad3955e89c2e9cccf22b9610bf67b2d9ad3955e89c2e9cccf22b9610bf67b2d9ad3955e89c2e9cccf22b9610bf67b2d9ad3955e89c2e9cccf22b9610bf67b2d9ad3955e89c2e</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>DP:IRRATIONAL</title>
-		<line>14</line>
-		<hash>11310000001000000000000000005190ff948130ade5109808c1542650d418f90312f8cfd89a5860eabf930e0c331193b65a8b2c832f453a4da0e264204620c82bbe61915a91a1901bb9b054c3766b7b4385fa90647226e1e260d7291a9c9ee9</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>DP:AUTOBAHN</title>
-		<line>14</line>
-		<hash>41420000001000000000000000005190687a6d76c75fb4cc0ccd1eaef6c3c5d903cd919f256c2d9dd7371c15f93b9b93f153f3394c5566d24af48e0d05cb1560b43642d7f35ad829c52f6affdaea797d235949c2c9e0652883a87c88a054f8da</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>DP:MONDO SELECTION</title>
-		<line>14</line>
-		<hash>20020000001000000000000000005190e96f2fda4238a093b81fed1a401d07831b333084e0e1ad5a8d520d1de807acfc6e5c6737afa634a48c786acc947080d5c3fb4194c37aa5411cee46869ab01838995e559521b5ba82568a096b1a5fe0f5</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>DP:POPS SELECTION</title>
-		<line>14</line>
-		<hash>0200000000100000000000000000519076840351272dbca3b9a2b19461d456ccd02b51f58c84ff84bcfc2523ba1ecd5cb1c1da798c8a4dc967cd36bd4f1cf055ab4dc0dc63966a612daa320107a1f91204f5dbc7c08c101e935455153d8a3ad4</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>DP:HARDCORE SELECTION</title>
-		<line>14</line>
-		<hash>200000000010000000000000000051902977937b70486153ece972a882ee841203cd919f256c2d9dd7371c15f93b9b93687a6d76c75fb4cc0ccd1eaef6c3c5d9ad6c3184cdc7424929c6cad06ec6823fff948130ade5109808c1542650d418f9</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>DP:GOLDEN SELECTION</title>
-		<line>14</line>
-		<hash>32040000001000000000000000005190be601d6c256ae041fe667530493769fa9f831d807325f19bd1034f521b92c764d125ff754ddfe90de748a04fa541386a965603398d459324e063557418a0f484f454e43a32b7faf67b09834b91b85d66</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>UNREASONABLE</title>
-		<line>7</line>
-		<hash>12030000001000000000000000005190c46a81cb184f5a804c119930d6eba748f2322f3aa501ac43fdc60c2289adf44f73b3fdb9fbacf4895f955e29cc44c45439d0732ef7fee9ad0c8b044ccbe8a39609ed1d6bd689dee2b8ffea8e63aab5f1</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>EXCESSIVE</title>
-		<line>7</line>
-		<hash>24050000001000000000000000005190862925e481caf4fb4c48591f1ce0d932093a8d66b89944db9e42aa2321b4f637c67ba013af164f2cdec7c8c98c90d8f53c4e5a90478a6a60b430e9816c942ffd2e2c4168d3c350de3136a0c2ad23dce3</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>INORDINATE</title>
-		<line>7</line>
-		<hash>310200000010000000000000000051909f16671be85cf14a3104aad46689c36596641e3e89ca6c61b1882ebf04ab4ad1e6af04686aeaf0a0fa2698cb0b0111adc65d0badebb7738e350022a59a1f0637c5605fc262eb9023b82c14d14cc837f8</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>IRRATIONAL</title>
-		<line>7</line>
-		<hash>113400000010000000000000000051902e1cc5e6bb96bff8a92f2defce49e70a79dc444b48299814462ff23a2bf3ab7917ee7a35750c8e1b1bdfe3a7ca3a3119732abafcb87ac588b64a9be39c6deb5cc67ba013af164f2cdec7c8c98c90d8f5</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>AUTOBAHN</title>
-		<line>7</line>
-		<hash>11140000001000000000000000005190d68f92b4205aa2313dcc73245624a1d2860ca3549fb95ec9d0ec12191751e77fdae5aafc422dc625e602349b2b9cfa26151c0d2bb94ab56dfb753410ae70598ea8d67366d1e603ff3000af761aef0e53</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>MAXIMUM HIGHWAY</title>
-		<line>7</line>
-		<hash>241500000010000000000000000051906de6909c19156221d729b5e965c5cc2a9f16671be85cf14a3104aad46689c365c4ca195acf56e5086bf1f2608af5ac3596641e3e89ca6c61b1882ebf04ab4ad163947bce9af12ca7f84492b20ca21928</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>ETERNAL DiVEÅ´</title>
-		<line>7</line>
-		<hash>33330000001000000000000000005190c46a81cb184f5a804c119930d6eba748c46a81cb184f5a804c119930d6eba748c46a81cb184f5a804c119930d6eba748c46a81cb184f5a804c119930d6eba748c46a81cb184f5a804c119930d6eba748</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>RAPID DiVEÅ´</title>
-		<line>7</line>
-		<hash>111100000010000000000000000051905301a69f47f8fc9bf51c716f5495f6fac4a29dba4051d0989ca118a5fd44378bdae5aafc422dc625e602349b2b9cfa262e2c4168d3c350de3136a0c2ad23dce3c46a81cb184f5a804c119930d6eba748</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>EXPRESS DiVEÅ´</title>
-		<line>7</line>
-		<hash>111100000010000000000000000051905f73a13fb8c21e8b768c9bf579f0a43ec4a29dba4051d0989ca118a5fd44378bdae5aafc422dc625e602349b2b9cfa262e2c4168d3c350de3136a0c2ad23dce3c46a81cb184f5a804c119930d6eba748</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>LIMITED EXPRESS</title>
-		<line>7</line>
-		<hash>111100000010000000000000000051907e0d638837d63b3bbd1e430440346b2a2e2c4168d3c350de3136a0c2ad23dce3c46a81cb184f5a804c119930d6eba748c5605fc262eb9023b82c14d14cc837f8f2322f3aa501ac43fdc60c2289adf44f</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>UNDEFINED EXPRESS</title>
-		<line>7</line>
-		<hash>111300000010000000000000000051905301a69f47f8fc9bf51c716f5495f6fa96641e3e89ca6c61b1882ebf04ab4ad1e6af04686aeaf0a0fa2698cb0b0111adc4ca195acf56e5086bf1f2608af5ac3579dc444b48299814462ff23a2bf3ab79</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>OUTER EXPRESS</title>
-		<line>7</line>
-		<hash>13130000001000000000000000005190dae5aafc422dc625e602349b2b9cfa269f16671be85cf14a3104aad46689c365e6be97eebfbde50085d4d3b8509b63aac5605fc262eb9023b82c14d14cc837f82e1cc5e6bb96bff8a92f2defce49e70a</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>LOVE IS JUSTICE</title>
-		<line>7</line>
-		<hash>111100000010000000000000000051907c774b8922f87de19ab72e96d996726cd2f8edb05e9e8dd19b4106ed68c0a668e6be97eebfbde50085d4d3b8509b63aa39d0732ef7fee9ad0c8b044ccbe8a396ba21bbbfc06c970aada452b20deb7a92</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>LOVE IS SPEED</title>
-		<line>7</line>
-		<hash>12310000001000000000000000005190860ca3549fb95ec9d0ec12191751e77f7c774b8922f87de19ab72e96d996726c151c0d2bb94ab56dfb753410ae70598ed2f8edb05e9e8dd19b4106ed68c0a668e6be97eebfbde50085d4d3b8509b63aa</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>LOVE IS ETERNAL</title>
-		<line>7</line>
-		<hash>1111000000100000000000000000519039d0732ef7fee9ad0c8b044ccbe8a39639d0732ef7fee9ad0c8b044ccbe8a39639d0732ef7fee9ad0c8b044ccbe8a39639d0732ef7fee9ad0c8b044ccbe8a39639d0732ef7fee9ad0c8b044ccbe8a396</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>LOVE IS POWER</title>
-		<line>7</line>
-		<hash>04110000001000000000000000005190c46a81cb184f5a804c119930d6eba74839d0732ef7fee9ad0c8b044ccbe8a396c46a81cb184f5a804c119930d6eba74839d0732ef7fee9ad0c8b044ccbe8a396ba21bbbfc06c970aada452b20deb7a92</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>SELECTION:EPILOGUE</title>
-		<line>7</line>
-		<hash>114200000010000000000000000051900108ff92119d48e0ca0e2eae1f3dffbfc0fceec0de785ada703aa0cea0ccf1f8ee21ce9f5b84794c69e64e6d6d27caed1c7161bde9d2857530c581e06382bfb8b590372b98e07f4d9f8b1015ff1bcdf8</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>SELECTION:TH</title>
-		<line>7</line>
-		<hash>021400000010000000000000000051904eb51e8a7142440bfdc73152777628041528dc2ed5654dea82cc827b9e6996a53dbd361e58dde0bb8417bf32e7e36b7629982f3ae5295015dec1c89196f329d7ad3725246b1f97d8e72dd2d07c625b64</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>SELECTION:WORLD</title>
-		<line>7</line>
-		<hash>11200000001000000000000000005190542e726eb1e043b4616d10b11b4e8a14c68435547c050881e4edfc928eb5d69dd39bbec6ad6008341b1721c7aecd64a15770f9cab474724e22a0f9cce55d85b102c758db6b8b2a5645d07a9d462dbac4</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>SELECTION:HIGHSPEED</title>
-		<line>7</line>
-		<hash>00200000001000000000000000005190b9e3f830fd7590eb34f76e360963e685c25bc073de631b719ec6d5e193651f36853c931c7e84fe6016706f79a76fcde77e0d638837d63b3bbd1e430440346b2a5f73a13fb8c21e8b768c9bf579f0a43e</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>SELECTION:BRIGHT</title>
-		<line>7</line>
-		<hash>133400000010000000000000000051909ca5585327b02335864bd8fd97bc7fcc9bdbe8a3e29ee232d167a4119ac9964f8d596afa816db91c6cfed18c4e8436c4df4b42cb5e464da23be37dadc9699f5dd81a20d4764736bf0e9878e4d9e69f8a</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>SELECTION:TRANCE</title>
-		<line>7</line>
-		<hash>1115000000100000000000000000519021e6d4b06d81b602b1a0cb190d2d83e0fa701c0f3a18b892438c60e18762cfbb37f1fb27fd15b8da324aee97ed374ac4f7d3060e1dc3473537d4585634bb8fbb3209ca6be42ab335037f29f5b239af3e</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>SELECTION:GOLDEN</title>
-		<line>7</line>
-		<hash>12010000001000000000000000005190793e20460c1d60d2dca0c10a91890f0ffb3062bafbd0f56cd79e6f17c24dfda8f77fe03377260f5a5c84411b603f5f06324cb018fb0d1b3690cf003ae60177bbfb66ae626f51007f27a4aad56216d342</hash>
-		<type>1</type>
-	</course>
-
-	<course>
-		<title>SELECTION:VARIOUS</title>
-		<line>7</line>
-		<hash>10210000001000000000000000005190c96c27b748e3ac340611213f4b46a1200fbe05240c1fd823c7cab697f6992ca836f0ca9ae6aa5a687cbc168373299bf0be5de5e5edb5825047d24460564ef9368ba79afaf08eedc117804adb735c04fe</hash>
-		<type>1</type>
-	</course>
+  <course>
+    <title>DP:OVERKILL</title>
+    <line>14</line>
+    <hash>000000000000000000000000000051908e87065f8ea2a848c4df53a450b2c91b4c7cc6538f30a171dd682bdb700023e8653f894b0fe350f592cecee6088ff9c64385fa90647226e1e260d7291a9c9ee9a40c4a04638073569ab7aaf7c6253dc9</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:USELESSNESS</title>
+    <line>14</line>
+    <hash>00000000000000000000000000005190ad6c3184cdc7424929c6cad06ec6823f33041d9a9432b867919199e3f9ea5707653f894b0fe350f592cecee6088ff9c6eb1c32bf3a85db5983605bf3c5c8aee99cccf22b9610bf67b2d9ad3955e89c2e</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:FINALE</title>
+    <line>14</line>
+    <hash>0000000000000000000000000000519094f9f4e81dd211f02cc41fe7e49f6de86b94a541b7949be89f9ec37499550659fa9732a6a1c588549f11b9c8840f4e5aa9258fa30b6a2903193918cc3d5bfaf803cd919f256c2d9dd7371c15f93b9b93</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:PROLOGUE</title>
+    <line>14</line>
+    <hash>0000000000000000000000000000519096bf4a81a5e8ab45bc67054cef1d9b452a432dcf1a6542764c82e3a141653f81a6bb0b2a7638269c6b6bb42c8fed2be656ed5d18036063424352f05d545bd56703cd919f256c2d9dd7371c15f93b9b93</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:HARDCORE A</title>
+    <line>14</line>
+    <hash>00000000000000000000000000005190874d9a9aa1aedbb3d8b422863800c7aa4385fa90647226e1e260d7291a9c9ee9b65a8b2c832f453a4da0e264204620c8687a6d76c75fb4cc0ccd1eaef6c3c5d903cd919f256c2d9dd7371c15f93b9b93</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:HARDCORE H</title>
+    <line>14</line>
+    <hash>00000000000000000000000000005190301a349532d9181b4ff99586c38a3412f454e43a32b7faf67b09834b91b85d662977937b70486153ece972a882ee84125e31724c204310a1aa309f6293ee33305613bcba255c3b0837c918aeefe7eaa4</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:HARDCORE N</title>
+    <line>14</line>
+    <hash>000000000000000000000000000051909f831d807325f19bd1034f521b92c76405139b32372f05fed6c193b962e20908e5fff007c87e117e647d6ec40aa68a9e9d42523ff12e6976bdf0acaac0f23b60e632b10ead6458c106bd16f5c0af932a</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:HIGHSPEED A</title>
+    <line>14</line>
+    <hash>00000000000000000000000000005190a0e052b554000b7e5e183e8330661f79ba88a676048fecb91bc01c457c50d48a2bbe61915a91a1901bb9b054c3766b7b91aceea3caa454df77a03c69088ac62169f1db355d839b69492c7ccd26f54890</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:HIGHSPEED H</title>
+    <line>14</line>
+    <hash>00000000000000000000000000005190fd8d3fbcc5b4e2dd7fc0bf88766d40369f831d807325f19bd1034f521b92c7642e6284cb6b4bb6e763e444a7a1ecade0aa06c64239b3868fba58188f74f56b30e5fff007c87e117e647d6ec40aa68a9e</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:HIGHSPEED N</title>
+    <line>14</line>
+    <hash>0000000000000000000000000000519020738efbbbb689375f4ad196381f21367da775448af1a58dabafb5de1a9575972b13a6e1a70e9b5b9fcc67a1038225a38290ac19aaefa4174dc886873f5fbb7a08d34106acfcaad8cd2a4551c287ab40</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:TRANCE A</title>
+    <line>14</line>
+    <hash>0000000000000000000000000000519033041d9a9432b867919199e3f9ea57078d11627adab74b2842739b15e3ab6b18b65a8b2c832f453a4da0e264204620c816e29b6c326df85c06e97dbf88a19539a71adb655bd634f1a5456784614d262c</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:TRANCE H</title>
+    <line>14</line>
+    <hash>00000000000000000000000000005190376ee2c07f59d4cc1c2425e66fb56ab72f4e4105e7849c6e9787436b1a0d81786e4858fb2f3c29abf2f93a728a9c1ea25e31724c204310a1aa309f6293ee3330da6874cb2fc7705bc8bced8732155564</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:TRANCE N</title>
+    <line>14</line>
+    <hash>0000000000000000000000000000519099789e83386883b9e3c2b06d8d3305e186e5bcd10f72296ae49b04e95dbffd1887c5ead3618094d8d78af6d5d97c35058290ac19aaefa4174dc886873f5fbb7a05c57d75a23df6b8d44ed69eefd8b25b</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:POPS A</title>
+    <line>14</line>
+    <hash>00000000000000000000000000005190f153f3394c5566d24af48e0d05cb1560aa06c64239b3868fba58188f74f56b30ca496cd2c4f2709bb79e889967e589970ca3adf6b06f779c7856f50dc6fdb749e60966698d4081e229762c9cc9e8067a</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:POPS H</title>
+    <line>14</line>
+    <hash>000000000000000000000000000051905b7e8f3abd09a46b683f617380ac16562574cb94b434e1914009da0437488f90b1c1da798c8a4dc967cd36bd4f1cf055ab4dc0dc63966a612daa320107a1f912379247f1cca4bd2d7062f4014262856f</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:POPS N</title>
+    <line>14</line>
+    <hash>000000000000000000000000000051906e6d31aa0e426ca27dcf0f1d382ec44cb7df9a4092725522e27d8efbd115fa1bde92fec3066ff4308c01d01515680b8b3821f93f3e053487d6ed3c07855260bac3fb4194c37aa5411cee46869ab01838</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>GAZILLIONAIRE</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000098fc07125de4ed7fbe7cb066cc41e50e51e33ae18837ec81491c38b9acccda8b16d1c7161bde9d2857530c581e06382bfb883708354e7a5605a6ffbd73d5490a643d2f8edb05e9e8dd19b4106ed68c0a668</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>BAZILLIONAIRE</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000098f677d9f69a00c26722f978deb18205e7dc54c1db625302b890e94a67e1b0ee32dc0d7baaaeb1b0ba9b17b94b587d2fb707bb2b44adf673dc8cd53bdc9c87debcc0c65f3ac5bbd647977a64d51ef90d2ac</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>SQUILLIONAIRE</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000098f61519b432a4912f0b8d3258803b02ea1b78b08e1cbdc7ce3bada1bb3ceb1fd380108ff92119d48e0ca0e2eae1f3dffbf693b38eeca2cffb1e191554ba64bf2add431f5779ff511480101f4612cebbfd4</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>ZILLIONAIRE</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000098f9d785ec7798e4aa726c28b712fe6600037663e91190ce4a0b502def7155df58e7c766ab68219883f367d9a79e94e3ba25301a69f47f8fc9bf51c716f5495f6fac37c6a08cfa86e34c6b1faafc9b066d7</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>MILLIONAIRE</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000098fb119ac88a1e04fb1da5815805c11bfabab2bbb926520173f4ebad406462f08fe4de9da7138e886795363e7efe76d6f105fa3ef3327f98cea430972f4b409a8631c58f683bbe8c46abb83d547d4dc1d6d</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>HIGHEST</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000098fdabc6c70ca4dac9f0060a17a9218a1af862925e481caf4fb4c48591f1ce0d93273b3fdb9fbacf4895f955e29cc44c454f2322f3aa501ac43fdc60c2289adf44fba21bbbfc06c970aada452b20deb7a92</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>BRUTAL</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000098f093a8d66b89944db9e42aa2321b4f637ff5ea123f7d90cd220ceb2e1b7e295fb39d0732ef7fee9ad0c8b044ccbe8a396c46a81cb184f5a804c119930d6eba74896a1536917e1f7f12a85d3dd7eb64932</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>UNJUSTIFY</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000098f17ee7a35750c8e1b1bdfe3a7ca3a3119cd24fd54b865c744428da2513643dd8d79dc444b48299814462ff23a2bf3ab79cbfee23392ad22638ff24b9905c42ffb8ae06bf384dbe6956b1fc76c071ff86f</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>BRAT</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000098fe5b14c4dcd1df58a047ba33caa88663a63947bce9af12ca7f84492b20ca21928c4ca195acf56e5086bf1f2608af5ac355dc1e3e22e4fc735f010e35f2ae774809f16671be85cf14a3104aad46689c365</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>FINALE</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190b590372b98e07f4d9f8b1015ff1bcdf80ab22f8cc36b18e6cce19f5f0906d71e016b6f49058dd0dbc5083fab0905e1a91c7161bde9d2857530c581e06382bfb8ee21ce9f5b84794c69e64e6d6d27caed</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>ENDING</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000519014682c2fb5e1219077b71c54e2d8796902c758db6b8b2a5645d07a9d462dbac437663e91190ce4a0b502def7155df58e85faeeaafe0c5163faa46565fc67c944043880563155d8763a33660bfda32c23</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>CADENCE</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190f9b2f64bb5d7e38316d98cc36df8c7e01528dc2ed5654dea82cc827b9e6996a5369696d2e938d53787bb7b09b1cddb63d81a20d4764736bf0e9878e4d9e69f8ac0f71dae2354859ed254389e8eafa8e2</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>PROLOGUE</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190e8618b082d72096e9793c4fe8d8dfed074e04fb5181d49266cc99021e1d40fd6c0fceec0de785ada703aa0cea0ccf1f84e25cc5010275e79bf53e2893699d95193f8119fb8f8f61446fea48b206cb9c8</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>OPENING</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051901bad08334c59dc11cde7b1ff211eaa3d7805eae91427c45c7bdd6af06f5c370bcbc23ee9d5f2164306577fce988121fa542e726eb1e043b4616d10b11b4e8a141c58f683bbe8c46abb83d547d4dc1d6d</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>OUVERTURE</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190d218f17b9ee5c4621bef675e6b7e5b88a8edb49412dd46b4186682928d0359a4acbb6e2dbb27c39d6fe09e7fdcfe675101168bf079baec85eb6513117ccd7185c6b1acb17625b3fd8b3cef18f3f9bc5b</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>IKEBUKURO</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190e0005f553b5ea8e0e53d0424f1b95b6f7bb2b44adf673dc8cd53bdc9c87debcc677d9f69a00c26722f978deb18205e7d5301a69f47f8fc9bf51c716f5495f6fac2ca332417982ad54e5df1374b329f97</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>UENO</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190926d83410ac1f54dc1c4bc452a0d6eb619831e39813568e8cc50c1fa46aa05d52a1a5b57d1f964cfdc304c799e313f86e0102b1240d35af80706d8c30a01a0756553c96bdf5d0f9eba4ce5548035b2fb</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>SHINJYUKU</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051908a4729b09d25193a0f67b9e0d6596e6101168bf079baec85eb6513117ccd7185aa3b462d6668d807d506fc47c5eade86c25bc073de631b719ec6d5e193651f36ead7e5cdf6d87eef3f8fb809ae95eb02</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>SHIBUYA</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051909656746c8daaeb7c568cced3da769e187e0d638837d63b3bbd1e430440346b2ac4f906314886da2aed9516925f063553e968b2fc17cedb600625a298d85b08695f73a13fb8c21e8b768c9bf579f0a43e</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>TRANCE I</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000519036fd786d7331e34ae9896e5a954cef2bf726bc7fa048f9a7fdef502c50587a7d147ce1345beaa7fb7237989ca8fdd84ca6738157b2dc1689bea1f6123660d723e0005f553b5ea8e0e53d0424f1b95b6f</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>TRANCE A</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051901cb7613b87133b8f842eff1b1f4a957b929a81764f767bd0afdd9cbd2a00dcfe85faeeaafe0c5163faa46565fc67c944d1fb5ab6eb1265121b4d83ae95feb3e203c906bf1229a701a0471165242e1233</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>TRANCE H</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051904de9da7138e886795363e7efe76d6f1037f1fb27fd15b8da324aee97ed374ac4f7d3060e1dc3473537d4585634bb8fbbcbc23ee9d5f2164306577fce988121faf8f4f5b0d46d988e0580579bbd656911</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>TRANCE N</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190a68a0b5aa2e6e6eb7130b78c39285d466035dc4923c5c75040b01c6e174e91c6b1880d5e09f8fa49083ff64b4d2085d5d1f7a9dbdcb156a0fee506c751f326d5bb17d6e06313cca519ce6db737f0c5c5</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>SMOOTH I</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000519016f9bce8ee02a9ba6ccf0b2918c2d876fc7d46e7bbc9f6afd26d05e3bf2ef5552b303ae3770d634427283093788340ec5301a69f47f8fc9bf51c716f5495f6fac2f261b49b205530fc5547fe56059ef6</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>SMOOTH A</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190ebbe167813f89ba9fcebee36d225310e9e22d0fd412f31de3f98929bcf6fa7ceb9e3f830fd7590eb34f76e360963e685c899b2ceb393fe772369ae4c540d36f632c445313b77c744b21b04c652237154</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>SMOOTH H</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051905ef830f965815d9ed28952252654ee19242f473ef6b289a358b37b46054845fe853c931c7e84fe6016706f79a76fcde7acbb6e2dbb27c39d6fe09e7fdcfe6751ae39c08a9ecd9467d1a06330fa272209</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>SMOOTH N</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190bb515279fc2ca77157019a2cf1941241ff6e31a932b5740e0341f73727a485b33e06b70765b78eebf81d38af76437de45065549009e62d25c0d5cb2e2580fc367e0d638837d63b3bbd1e430440346b2a</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>TECHNO I</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190d063d3666b36cc14b176cd4438487deeadec1bcc37806f155cdae08d873c9f7770a521bec4c041a3a5007156439547449702b8d8ae4bcaeba985475453766a9718a3d4f7f8b1d35277e759e5643a4757</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>TECHNO A</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051904eb51e8a7142440bfdc73152777628042989ee0519438b7b44b18abfc1f8a0f2ab2bbb926520173f4ebad406462f08fe926d83410ac1f54dc1c4bc452a0d6eb62f34d01c4688c1b38ba3f515abee6899</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>TECHNO H</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051902b2ec43fdd9dcc52850e5893d509effe84d4d4602ef67c7189468db96fa3c6875f5da0f6fd551249137a63838f49f617ee3cdc10eb8cd476ce5dab041613dcd78df146007ab5c8f6d388bafda8d7420f</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>TECHNO N</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190c179cc0164a578e9bf39bb00c779a2f76d7ba154fd4137e42ac157fec1f5316cee456dd8ffd0a87c270b2ae8e13ca80ee8f3ffafe1a1a8c84ed2d2cb380d324dbe5de5e5edb5825047d24460564ef936</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>HOUSE I</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190fc7d46e7bbc9f6afd26d05e3bf2ef5552b303ae3770d634427283093788340ecf8b717c17c8275cbe3718be2cb975d13c2f261b49b205530fc5547fe56059ef62a1a5b57d1f964cfdc304c799e313f86</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>HOUSE A</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190d1025db5f60f0541c6a4a6a4114a7badebbe167813f89ba9fcebee36d225310ec899b2ceb393fe772369ae4c540d36f6df4b42cb5e464da23be37dadc9699f5dc0f71dae2354859ed254389e8eafa8e2</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>HOUSE H</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051905770f9cab474724e22a0f9cce55d85b156bbdd0efed7915cf54274ffd88ec4bcd81a20d4764736bf0e9878e4d9e69f8a1db12940ddd8eb3f20a583a2387cb7ee4e5ab5e78b19be116da4564b7db8e0b9</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>HOUSE N</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190f5036292133874dd696cb758bdf9b29b69d1bc67ee63c4e8fc6b0e7ad86f204498d0755619efe765c9d540101053e3fa9656746c8daaeb7c568cced3da769e180f99a06b6207e37aad216eb9efb979ed</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>HARDCORE I</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190e5b14c4dcd1df58a047ba33caa88663a17ee7a35750c8e1b1bdfe3a7ca3a3119aec21fd1d585fdfd67bf93fc1c5c92d99f16671be85cf14a3104aad46689c36579dc444b48299814462ff23a2bf3ab79</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>HARDCORE A</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190b78b08e1cbdc7ce3bada1bb3ceb1fd3861519b432a4912f0b8d3258803b02ea1d1877ad5dc0134b27eb0238da5721eed5f90eb6c51640dec4fee3f520e176a45d4e2c4132b93b6bc1048c0cbf29cd318</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>HARDCORE H</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051906073c415e7514dff23f91978e288c56048fe9800c3b29f1bea58fe408b46349aa14bf19e1ea91040cf727de649df99a03209ca6be42ab335037f29f5b239af3e19516f44d8d933c1976ca28e9821c66c</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>HARDCORE N</title>
+    <line>7</line>
+    <hash>0000000000000000000000000000519025d17d433daa44110de503c3971e320bead7e5cdf6d87eef3f8fb809ae95eb025526692001e70c9edf6c69747394a06d535c7e60ac55b33660253eedb75fdebe6222086daabc0dcc6a441452642fa076</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>POPS I</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051908841ecde594f990c6731e6a1d6b898e593f8119fb8f8f61446fea48b206cb9c8df84cff13642ddc8903fccaeb36c92f9c07125de4ed7fbe7cb066cc41e50e51ecbfee23392ad22638ff24b9905c42ffb</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>POPS A</title>
+    <line>7</line>
+    <hash>00000000000000000000000000005190362554954d42ee7a002153e1847c753ee2519c41907b41064912fba65a589683e8618b082d72096e9793c4fe8d8dfed0c2ca332417982ad54e5df1374b329f9778f2706a7988d4eaf26f2903abd3f789</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>POPS H</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051901528dc2ed5654dea82cc827b9e6996a57805eae91427c45c7bdd6af06f5c370bebbe167813f89ba9fcebee36d225310e1c58f683bbe8c46abb83d547d4dc1d6d2e92797fc9cdc1f882047e253e80dabc</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>POPS N</title>
+    <line>7</line>
+    <hash>000000000000000000000000000051900f99a06b6207e37aad216eb9efb979ed4e5ab5e78b19be116da4564b7db8e0b9ae39c08a9ecd9467d1a06330fa2722098ed0cb51333b1ddcf40bd40665968acc44ca3ed71372d826612dbe58955f42f2</hash>
+    <type>0</type>
+  </course>
+
+  <course>
+    <title>DP:ETERNAL DiVEÅ´</title>
+    <line>14</line>
+    <hash>333300000010000000000000000051909cccf22b9610bf67b2d9ad3955e89c2e9cccf22b9610bf67b2d9ad3955e89c2e9cccf22b9610bf67b2d9ad3955e89c2e9cccf22b9610bf67b2d9ad3955e89c2e9cccf22b9610bf67b2d9ad3955e89c2e</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>DP:IRRATIONAL</title>
+    <line>14</line>
+    <hash>11310000001000000000000000005190ff948130ade5109808c1542650d418f90312f8cfd89a5860eabf930e0c331193b65a8b2c832f453a4da0e264204620c82bbe61915a91a1901bb9b054c3766b7b4385fa90647226e1e260d7291a9c9ee9</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>DP:AUTOBAHN</title>
+    <line>14</line>
+    <hash>41420000001000000000000000005190687a6d76c75fb4cc0ccd1eaef6c3c5d903cd919f256c2d9dd7371c15f93b9b93f153f3394c5566d24af48e0d05cb1560b43642d7f35ad829c52f6affdaea797d235949c2c9e0652883a87c88a054f8da</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>DP:MONDO SELECTION</title>
+    <line>14</line>
+    <hash>20020000001000000000000000005190e96f2fda4238a093b81fed1a401d07831b333084e0e1ad5a8d520d1de807acfc6e5c6737afa634a48c786acc947080d5c3fb4194c37aa5411cee46869ab01838995e559521b5ba82568a096b1a5fe0f5</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>DP:POPS SELECTION</title>
+    <line>14</line>
+    <hash>0200000000100000000000000000519076840351272dbca3b9a2b19461d456ccd02b51f58c84ff84bcfc2523ba1ecd5cb1c1da798c8a4dc967cd36bd4f1cf055ab4dc0dc63966a612daa320107a1f91204f5dbc7c08c101e935455153d8a3ad4</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>DP:HARDCORE SELECTION</title>
+    <line>14</line>
+    <hash>200000000010000000000000000051902977937b70486153ece972a882ee841203cd919f256c2d9dd7371c15f93b9b93687a6d76c75fb4cc0ccd1eaef6c3c5d9ad6c3184cdc7424929c6cad06ec6823fff948130ade5109808c1542650d418f9</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>DP:GOLDEN SELECTION</title>
+    <line>14</line>
+    <hash>32040000001000000000000000005190be601d6c256ae041fe667530493769fa9f831d807325f19bd1034f521b92c764d125ff754ddfe90de748a04fa541386a965603398d459324e063557418a0f484f454e43a32b7faf67b09834b91b85d66</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>UNREASONABLE</title>
+    <line>7</line>
+    <hash>12030000001000000000000000005190c46a81cb184f5a804c119930d6eba748f2322f3aa501ac43fdc60c2289adf44f73b3fdb9fbacf4895f955e29cc44c45439d0732ef7fee9ad0c8b044ccbe8a39609ed1d6bd689dee2b8ffea8e63aab5f1</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>EXCESSIVE</title>
+    <line>7</line>
+    <hash>24050000001000000000000000005190862925e481caf4fb4c48591f1ce0d932093a8d66b89944db9e42aa2321b4f637c67ba013af164f2cdec7c8c98c90d8f53c4e5a90478a6a60b430e9816c942ffd2e2c4168d3c350de3136a0c2ad23dce3</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>INORDINATE</title>
+    <line>7</line>
+    <hash>310200000010000000000000000051909f16671be85cf14a3104aad46689c36596641e3e89ca6c61b1882ebf04ab4ad1e6af04686aeaf0a0fa2698cb0b0111adc65d0badebb7738e350022a59a1f0637c5605fc262eb9023b82c14d14cc837f8</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>IRRATIONAL</title>
+    <line>7</line>
+    <hash>113400000010000000000000000051902e1cc5e6bb96bff8a92f2defce49e70a79dc444b48299814462ff23a2bf3ab7917ee7a35750c8e1b1bdfe3a7ca3a3119732abafcb87ac588b64a9be39c6deb5cc67ba013af164f2cdec7c8c98c90d8f5</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>AUTOBAHN</title>
+    <line>7</line>
+    <hash>11140000001000000000000000005190d68f92b4205aa2313dcc73245624a1d2860ca3549fb95ec9d0ec12191751e77fdae5aafc422dc625e602349b2b9cfa26151c0d2bb94ab56dfb753410ae70598ea8d67366d1e603ff3000af761aef0e53</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>MAXIMUM HIGHWAY</title>
+    <line>7</line>
+    <hash>241500000010000000000000000051906de6909c19156221d729b5e965c5cc2a9f16671be85cf14a3104aad46689c365c4ca195acf56e5086bf1f2608af5ac3596641e3e89ca6c61b1882ebf04ab4ad163947bce9af12ca7f84492b20ca21928</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>ETERNAL DiVEÅ´</title>
+    <line>7</line>
+    <hash>33330000001000000000000000005190c46a81cb184f5a804c119930d6eba748c46a81cb184f5a804c119930d6eba748c46a81cb184f5a804c119930d6eba748c46a81cb184f5a804c119930d6eba748c46a81cb184f5a804c119930d6eba748</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>RAPID DiVEÅ´</title>
+    <line>7</line>
+    <hash>111100000010000000000000000051905301a69f47f8fc9bf51c716f5495f6fac4a29dba4051d0989ca118a5fd44378bdae5aafc422dc625e602349b2b9cfa262e2c4168d3c350de3136a0c2ad23dce3c46a81cb184f5a804c119930d6eba748</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>EXPRESS DiVEÅ´</title>
+    <line>7</line>
+    <hash>111100000010000000000000000051905f73a13fb8c21e8b768c9bf579f0a43ec4a29dba4051d0989ca118a5fd44378bdae5aafc422dc625e602349b2b9cfa262e2c4168d3c350de3136a0c2ad23dce3c46a81cb184f5a804c119930d6eba748</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>LIMITED EXPRESS</title>
+    <line>7</line>
+    <hash>111100000010000000000000000051907e0d638837d63b3bbd1e430440346b2a2e2c4168d3c350de3136a0c2ad23dce3c46a81cb184f5a804c119930d6eba748c5605fc262eb9023b82c14d14cc837f8f2322f3aa501ac43fdc60c2289adf44f</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>UNDEFINED EXPRESS</title>
+    <line>7</line>
+    <hash>111300000010000000000000000051905301a69f47f8fc9bf51c716f5495f6fa96641e3e89ca6c61b1882ebf04ab4ad1e6af04686aeaf0a0fa2698cb0b0111adc4ca195acf56e5086bf1f2608af5ac3579dc444b48299814462ff23a2bf3ab79</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>OUTER EXPRESS</title>
+    <line>7</line>
+    <hash>13130000001000000000000000005190dae5aafc422dc625e602349b2b9cfa269f16671be85cf14a3104aad46689c365e6be97eebfbde50085d4d3b8509b63aac5605fc262eb9023b82c14d14cc837f82e1cc5e6bb96bff8a92f2defce49e70a</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>LOVE IS JUSTICE</title>
+    <line>7</line>
+    <hash>111100000010000000000000000051907c774b8922f87de19ab72e96d996726cd2f8edb05e9e8dd19b4106ed68c0a668e6be97eebfbde50085d4d3b8509b63aa39d0732ef7fee9ad0c8b044ccbe8a396ba21bbbfc06c970aada452b20deb7a92</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>LOVE IS SPEED</title>
+    <line>7</line>
+    <hash>12310000001000000000000000005190860ca3549fb95ec9d0ec12191751e77f7c774b8922f87de19ab72e96d996726c151c0d2bb94ab56dfb753410ae70598ed2f8edb05e9e8dd19b4106ed68c0a668e6be97eebfbde50085d4d3b8509b63aa</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>LOVE IS ETERNAL</title>
+    <line>7</line>
+    <hash>1111000000100000000000000000519039d0732ef7fee9ad0c8b044ccbe8a39639d0732ef7fee9ad0c8b044ccbe8a39639d0732ef7fee9ad0c8b044ccbe8a39639d0732ef7fee9ad0c8b044ccbe8a39639d0732ef7fee9ad0c8b044ccbe8a396</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>LOVE IS POWER</title>
+    <line>7</line>
+    <hash>04110000001000000000000000005190c46a81cb184f5a804c119930d6eba74839d0732ef7fee9ad0c8b044ccbe8a396c46a81cb184f5a804c119930d6eba74839d0732ef7fee9ad0c8b044ccbe8a396ba21bbbfc06c970aada452b20deb7a92</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>SELECTION:EPILOGUE</title>
+    <line>7</line>
+    <hash>114200000010000000000000000051900108ff92119d48e0ca0e2eae1f3dffbfc0fceec0de785ada703aa0cea0ccf1f8ee21ce9f5b84794c69e64e6d6d27caed1c7161bde9d2857530c581e06382bfb8b590372b98e07f4d9f8b1015ff1bcdf8</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>SELECTION:TH</title>
+    <line>7</line>
+    <hash>021400000010000000000000000051904eb51e8a7142440bfdc73152777628041528dc2ed5654dea82cc827b9e6996a53dbd361e58dde0bb8417bf32e7e36b7629982f3ae5295015dec1c89196f329d7ad3725246b1f97d8e72dd2d07c625b64</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>SELECTION:WORLD</title>
+    <line>7</line>
+    <hash>11200000001000000000000000005190542e726eb1e043b4616d10b11b4e8a14c68435547c050881e4edfc928eb5d69dd39bbec6ad6008341b1721c7aecd64a15770f9cab474724e22a0f9cce55d85b102c758db6b8b2a5645d07a9d462dbac4</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>SELECTION:HIGHSPEED</title>
+    <line>7</line>
+    <hash>00200000001000000000000000005190b9e3f830fd7590eb34f76e360963e685c25bc073de631b719ec6d5e193651f36853c931c7e84fe6016706f79a76fcde77e0d638837d63b3bbd1e430440346b2a5f73a13fb8c21e8b768c9bf579f0a43e</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>SELECTION:BRIGHT</title>
+    <line>7</line>
+    <hash>133400000010000000000000000051909ca5585327b02335864bd8fd97bc7fcc9bdbe8a3e29ee232d167a4119ac9964f8d596afa816db91c6cfed18c4e8436c4df4b42cb5e464da23be37dadc9699f5dd81a20d4764736bf0e9878e4d9e69f8a</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>SELECTION:TRANCE</title>
+    <line>7</line>
+    <hash>1115000000100000000000000000519021e6d4b06d81b602b1a0cb190d2d83e0fa701c0f3a18b892438c60e18762cfbb37f1fb27fd15b8da324aee97ed374ac4f7d3060e1dc3473537d4585634bb8fbb3209ca6be42ab335037f29f5b239af3e</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>SELECTION:GOLDEN</title>
+    <line>7</line>
+    <hash>12010000001000000000000000005190793e20460c1d60d2dca0c10a91890f0ffb3062bafbd0f56cd79e6f17c24dfda8f77fe03377260f5a5c84411b603f5f06324cb018fb0d1b3690cf003ae60177bbfb66ae626f51007f27a4aad56216d342</hash>
+    <type>1</type>
+  </course>
+
+  <course>
+    <title>SELECTION:VARIOUS</title>
+    <line>7</line>
+    <hash>10210000001000000000000000005190c96c27b748e3ac340611213f4b46a1200fbe05240c1fd823c7cab697f6992ca836f0ca9ae6aa5a687cbc168373299bf0be5de5e5edb5825047d24460564ef9368ba79afaf08eedc117804adb735c04fe</hash>
+    <type>1</type>
+  </course>
 
 </courselist>

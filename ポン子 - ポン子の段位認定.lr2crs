@@ -2,95 +2,95 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>ポン子の段位認定 Overjoy</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b2218f2a82e4f1f3e299c5d761a4c673b9ae99ec056cff4c2ba72664e78c87cb035460c12f77947e4da438f75ee985bdff2ec46a81cb184f5a804c119930d6eba748</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 Overjoy</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b2218f2a82e4f1f3e299c5d761a4c673b9ae99ec056cff4c2ba72664e78c87cb035460c12f77947e4da438f75ee985bdff2ec46a81cb184f5a804c119930d6eba748</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂皆伝</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b2215978fad340afbc123cdd28945bf1e57d56bae55b19cbf032b95d5c95a57f233a45446f6c96bdb081a2054b80cd8f72085dfeb1f40d32c9910fa2047288236433</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂皆伝</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b2215978fad340afbc123cdd28945bf1e57d56bae55b19cbf032b95d5c95a57f233a45446f6c96bdb081a2054b80cd8f72085dfeb1f40d32c9910fa2047288236433</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂中伝</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b221646aa89bba491e5b832dcbc778e2a91f0e2b662aa03b4b0669605b3557757c414eaf09a816e357e848d7e7333c465b87a4a9c721a726435eaf37b62b1768b4e1</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂中伝</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b221646aa89bba491e5b832dcbc778e2a91f0e2b662aa03b4b0669605b3557757c414eaf09a816e357e848d7e7333c465b87a4a9c721a726435eaf37b62b1768b4e1</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂十段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b221c6c3021134801b842f588108192e3fd9e862d41db4532275e322327fed6909cc0d1128a834e2aeb4dc0b31fa9d2dbbc27ae4a901d2c8f438bb1673ad4cadc576</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂十段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b221c6c3021134801b842f588108192e3fd9e862d41db4532275e322327fed6909cc0d1128a834e2aeb4dc0b31fa9d2dbbc27ae4a901d2c8f438bb1673ad4cadc576</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂九段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b221393721d8ae30bf1c212e8126dadc03c30a5f66290ea8306923a9d49ebb113dc96dacc90521213fc1c7d5de2112ae1f1e751738dea1169c5c39db935adfc9e85f</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂九段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b221393721d8ae30bf1c212e8126dadc03c30a5f66290ea8306923a9d49ebb113dc96dacc90521213fc1c7d5de2112ae1f1e751738dea1169c5c39db935adfc9e85f</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂八段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b221c8aea3721acb931e5864268957b2e99ba349367da4bf5f5c7c03095acf61e762273965c4669994761c71c0da25a49c6feeec3f7659ee455f94e40a1f12645e4e</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂八段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b221c8aea3721acb931e5864268957b2e99ba349367da4bf5f5c7c03095acf61e762273965c4669994761c71c0da25a49c6feeec3f7659ee455f94e40a1f12645e4e</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂七段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b2216536ce1fec383b45c83e312b96cf39e200b7d72f7ecd3d4f0af4ebdc0ee69f617407cb35f4c26b588afa27263e08ab4cb89279d026c9d40d0f5eedde2e25b920</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂七段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b2216536ce1fec383b45c83e312b96cf39e200b7d72f7ecd3d4f0af4ebdc0ee69f617407cb35f4c26b588afa27263e08ab4cb89279d026c9d40d0f5eedde2e25b920</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂六段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b221e91f27396136e15914c3f9f240f87a304b347c77f74ff4880673448664d0d1ea94c095ab3e44cf6ce8525dbf87c0a71066541c1cd7bdb9b51c606441e0512c77</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂六段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b221e91f27396136e15914c3f9f240f87a304b347c77f74ff4880673448664d0d1ea94c095ab3e44cf6ce8525dbf87c0a71066541c1cd7bdb9b51c606441e0512c77</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂五段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b22122e753d47b54f78e2cdd1473276f5d4b62f6543036ffb0390c0abeb2af6ecb257b00be2a087de2c29f5527fc439ac157acc60924b0410990fc7d47cea561a441</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂五段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b22122e753d47b54f78e2cdd1473276f5d4b62f6543036ffb0390c0abeb2af6ecb257b00be2a087de2c29f5527fc439ac157acc60924b0410990fc7d47cea561a441</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂四段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b221350d06e51618cebbd037afcf762fb699f378874acfd34e09e2c1be0a1b7fdb9b4377e154655b3d277b1c65b77d98cf1c284fd8fdf21f963359aca222b9872c92</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂四段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b221350d06e51618cebbd037afcf762fb699f378874acfd34e09e2c1be0a1b7fdb9b4377e154655b3d277b1c65b77d98cf1c284fd8fdf21f963359aca222b9872c92</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂三段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b2211dcbfb836809f09a0a83ee1271950d1a803c62f33ba287df9364d94e0b0f3a2ff9fe3ae19a3f9d0db64b1984fe7671828632a98a865d46a850e4cfbea7225109</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂三段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b2211dcbfb836809f09a0a83ee1271950d1a803c62f33ba287df9364d94e0b0f3a2ff9fe3ae19a3f9d0db64b1984fe7671828632a98a865d46a850e4cfbea7225109</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂二段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b2216300dfafb5c57ba753a9133f37ad890caaffdf6c3fd3731cfb577b9375381c57e950a7d9e069faf884757a8f141d6f4bd70b69449d39959609c20cc95230ff20</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂二段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b2216300dfafb5c57ba753a9133f37ad890caaffdf6c3fd3731cfb577b9375381c57e950a7d9e069faf884757a8f141d6f4bd70b69449d39959609c20cc95230ff20</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>ポン子の段位認定 発狂初段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000b22117775d41a0c8f73e098f062c1595d57befc091e69eab86605c5d2694b113e9f9b28382b886c8f6d8249e4ad1bde22622dcb93d8d9c3e0386afb721fc55821c4b</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>ポン子の段位認定 発狂初段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b22117775d41a0c8f73e098f062c1595d57befc091e69eab86605c5d2694b113e9f9b28382b886c8f6d8249e4ad1bde22622dcb93d8d9c3e0386afb721fc55821c4b</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

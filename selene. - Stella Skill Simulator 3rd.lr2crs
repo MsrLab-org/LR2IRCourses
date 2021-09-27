@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st11</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a22f71b0463955fcedb84eca9d09e60ca2c61b055ab4a80c60786f705d168de4545b1bff2a54e2cb1bab20449c5a7c7f317feecd94600b5eb6e6c30e90cc48353</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st10</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a24a1ac98307d14fc9094985849120d41795a49f0f1af941dba965d946ca31c6fbfe3c76fb81102273929e641233b7eeb8ac162c2b87608bda93d38c2946da62a</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st9</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3acc132d5c5c8376fb945dbd40601493ef50c63da030f327e60dc038d68e29c4c93a5425bf57c708ffaebcfcd06b8e3784f2bccc36e42020af5762969e0f2a0332</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st8</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a655052be72cdca0efda4c89041c056e33b8d7312e10cd4f371bd05c7cc4b00bffdb9d7d8eaca594231dda88b539253cbefc800022aa4b92e1fdb934e829094d8</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st7</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a38503c10766176c398e7ffbccfd4b6af4892ab3dc15868eabba8e1c704e78fcb5387b0479ac825cd34be52fec90e3b3154d4facf3ab605c7b5c61177a75ae223</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st6</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3abda605e76d263c8fd5d62ab4c5dfc3e1dc10488184abbc35bbf234596cbea83f26790f4cd7ffda85c52b63e5ed24da4f9ac398d3e963c9338d3d0c8005bd097b</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st5</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3ae08c45e9f6e4af3851455201bee6e202d97a2a85dca765f958ac7e90247e29857722f93ce5a0358e080a3e1d24308981ea8b4f1cfa41e2d00fe1a4f0f650926c</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st4</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a2b5c45cbbe5ce2539c8548d5d523e11f530bb8a64ae5718c7485b28a8a9307792a7771401fc0fdae9419bd2c42473ee104e3d569f934712e5511ddd69983d49c</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st3</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a22810fc9f30021c430f59374cf2ffeb0a2284b403d90fdf8c055dab688838079a453ecdda9bf2161f38aa69dd5493ed9fa8ef27697bd34adccb3862ac0a99d69</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st2</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3ae327309eb3aaf0257b4bb8515059946bd3ececb1cdbe03562229610960d132d62fc9c12eeee75532bc464431efc381fc7ccfccdea1b8d4c3dc7691a55649ec15</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st1</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3afc269db1ba717f4f49398edad3f941c4d986fb99cf1e76fd2ff9cd19c035de1ec1bfd068faea54084166dfe126cd02a6481f353fa2626391130030ee623f3a7b</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Stella Skill Simulator 3rd st0</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a8ee7fc1c67826e7437e07b5e1f92d601ece21e503c88708c4ac0d99b19aa30a11f7bf846bd8b68b2ad8edc28df1c0b345ed1e7aab6eee4e30731365e0e4a601e</hash>
+    <type>2</type>
+  </course>
+
+</courselist>

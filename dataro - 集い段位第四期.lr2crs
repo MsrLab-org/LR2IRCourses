@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+  <course>
+    <title>集い段位第四期 十段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0be824d64b659d9a606e0ac057232ac607cee66af4e0f6f2137619072d465df0210def81ce1b262bac3736da899bb8b3bc4637b0ecfd94e5a8145c1be088d7e539</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>集い段位第四期 九段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0b3d331472be28ab98858ebf468fd2a943ba1efbae96ea973c9221b28cc45c93ccff699a65b6d13330d862fcff2256d5194b4f04f9d67d613dacf7df5dfe9a8ac4</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>集い段位第四期 八段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0b98b4792f0f6cbae1f78986a8953543754ff51358145f7ec12e1ce947e1b0efed0db1e83d28eda1d37f0ffafaff725daeee442968265636cfa12f5a8ab16e5c6a</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>集い段位第四期 七段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0be2aad980279a9ee078958fb42db4aedfc918535a375bf70e222cb4d8cf50f9dd4f3de394e798c821edaf94bd7df403b269586eb09b1fc4ff8edbec7bfa1f6e8c</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>集い段位第四期 六段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0bcfa841143cfa633966705a989eb695d8e12cf459a8df3ed420dba33022178a6f578a23702ef6d7ba3b4d1ad0873ed2c3ece8b1071481624e8dd8cc0a2f0b995b</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>集い段位第四期 五段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0bde8479c8ae5be36da0fb2badaa2bdfc8d2be55541cf081f1f3b815bae506001bb6fb8b816333bc12d01a8bc634712dbad82afc40de97eea2bd5c39fa56b7468f</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>集い段位第四期 四段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0b196f095743d20fc59c5bfc72a066b33eec3a70c976b2eccacf70d2716ec35f1b09e4acb0e0d7438f829834097c34a1bd11e9905e655706c4a78de21fbda5977f</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>集い段位第四期 三段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0b0b8ff4ac23adc8da1ba6249b157697262072dbaee887367c97ce0812ab663a7bf86b99324ad269588b06d3a1a36c32eb45a8665974fb6d3ed4086d9fd3124611</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>集い段位第四期 二段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0b2c0d139bb400382935ae45259141a17b98c35707e415caf1db5d28f929da135f8b817323cf7588011eadd4102166d2800400ddd5d3782029b04354e78ef01983</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>集い段位第四期 初段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0ba374bebb790a1f99dd3b602b53d3889e60074e553af8456b20598694f411ef24c10a28fd741dd52d04d8915a2ead2b76ddb794a8eb88cbece250d6bd5e6a2c7c</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>集い段位第四期 入門</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000fe0b28e9d4b314678428e2e525ad9d582c9c0b772116a6dae7a2dc4c103a3aec3ef33a06e91312df893e956b400ecb2ea093</hash>
+    <type>2</type>
+  </course>
+
+</courselist>

@@ -2,167 +2,167 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>月光段位 overjoy</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a3a503fb4e6605b82ed3ceafe760b5c85cfad3baadce9e02c45021963453d7c94188a99f74ab71804f2e360dcf484545cc46a81cb184f5a804c119930d6eba748</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>月光段位 overjoy</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a3a503fb4e6605b82ed3ceafe760b5c85cfad3baadce9e02c45021963453d7c94188a99f74ab71804f2e360dcf484545cc46a81cb184f5a804c119930d6eba748</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>月光段位 発狂皆伝</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a9926f0c39f96d31f6ff77a40a2737925ebc5946c3de24a01048d1c90cbd5c9d610420967a85371e65db57967e6c696cdfb7a747a5115a4a4739397d17ccb26bb</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>月光段位 発狂皆伝</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a9926f0c39f96d31f6ff77a40a2737925ebc5946c3de24a01048d1c90cbd5c9d610420967a85371e65db57967e6c696cdfb7a747a5115a4a4739397d17ccb26bb</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>月光段位 発狂中伝</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a0e2b662aa03b4b0669605b3557757c41e58e3f718d089ec37caa0f2c7149a54bd6fea1389a86fc14eb354fcc5e60e03ea4a9c721a726435eaf37b62b1768b4e1</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>月光段位 発狂中伝</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a0e2b662aa03b4b0669605b3557757c41e58e3f718d089ec37caa0f2c7149a54bd6fea1389a86fc14eb354fcc5e60e03ea4a9c721a726435eaf37b62b1768b4e1</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>月光段位 発狂十段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3abcd078c49adee918e2cc2260f912be19451ed38cdba0323388027129f592964592892e7a9f81773b4bf25b8db1c98cac807c26e54c4ed6f2f3f6dc439f159ca5</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>月光段位 発狂十段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3abcd078c49adee918e2cc2260f912be19451ed38cdba0323388027129f592964592892e7a9f81773b4bf25b8db1c98cac807c26e54c4ed6f2f3f6dc439f159ca5</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>月光段位 発狂九段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a2ac598184092702e891cdaa48b92dd76ff2d2ffa4ae22da44b8cc3f20597a8990a5f66290ea8306923a9d49ebb113dc9c4ca195acf56e5086bf1f2608af5ac35</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>月光段位 発狂九段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a2ac598184092702e891cdaa48b92dd76ff2d2ffa4ae22da44b8cc3f20597a8990a5f66290ea8306923a9d49ebb113dc9c4ca195acf56e5086bf1f2608af5ac35</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>月光段位 発狂八段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3ae5b14c4dcd1df58a047ba33caa88663a6de6909c19156221d729b5e965c5cc2aa4b59ca055a856b9a200ccfd1bf5c7bceefef4918e837ceaacba873c5214b807</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>月光段位 発狂八段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3ae5b14c4dcd1df58a047ba33caa88663a6de6909c19156221d729b5e965c5cc2aa4b59ca055a856b9a200ccfd1bf5c7bceefef4918e837ceaacba873c5214b807</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>月光段位 発狂七段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a3725d7e92f0afbfbc9d15675e0d08fb291aee09a11633f1013234cd49304681ef625a63c71b41860e1ff302f515700cd5ee2810a0e818128c41b9385f09deb64</hash>
-		<type>2</type>
-	</course>
-
-
-	<course>
-		<title>月光段位 発狂六段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a4b347c77f74ff4880673448664d0d1ea4204bb56d82fd5e49bda4ea9d0184e256aa70db2ae25d5b38c0509378504ecca9d72051631c4e84912123bffc26a5612</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 発狂五段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a3a500560e6ace69e08b51736ff1be0ca8b71de41395ff4f802b4e6fa7d92f9c055252fa3daaeb2dff8cfc3204c647fdf3ffe563b9ccdcd7181ac278c4690c146</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 発狂四段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a27adc9d365ff31d58e1497b5d3ffba5d8efab01d8676841446492c7265f292eef8b3b8ca5b5c5f7be1352b7aae723bee5077cd14b4759d0e8d61e854eac4e88a</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 発狂三段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a19fbf62d711282d81208f97f7135e2a2482c2a1670136e8c2f2820b066b1f55df9fe3ae19a3f9d0db64b1984fe76718233ae18837ec81491c38b9acccda8b16d</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 発狂二段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a5e3711f2f576f3929156c9594b87efacd6b485999d498560213aa45b0cd6c6b70f3837b9461a613dddf26a31e82f0084cefb4735c26f9488438021b4d7fdca31</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 発狂初段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3af872dd65dd08638b06d80470a3233fb98a8a6c2f3511eb0876a6c9a2027d7bbe6f4d00fd3c20579595a6f9368b4b1fa50ae6aad252b54324e739a245c9efaacc</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 十段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a3c8063cac832c21238f9f592c851765b0d1a3240230a854d05877f0d523a1409d431f5779ff511480101f4612cebbfd4b590372b98e07f4d9f8b1015ff1bcdf8</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 九段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3adf68078e8c3599efddb5ab75c733f21b9f53d106b5fc087c026132bd88c0df5303c906bf1229a701a0471165242e123378f2706a7988d4eaf26f2903abd3f789</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 八段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a6056d0a9f8a49f18e6a36f3fa7e392ced42e735c4948e3394d54feff7a81b111f9f9c431ce1d20c17df441b77a692cb72731a99aac7e5a5411efd072f2e79fef</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 七段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a0711cbf7fe98b8b9c2cf7435eef786bc629dfcea49f5c078d6ce74e7ed9a6578c6d39cc29a48af2d8b9a917e6ab85f3f2f25fb20f7d5015fc045df6e41c8a6c5</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 六段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a429da21b5482a9d8b2dda97b43cb2bb50b72c1195d8a527c8772d76bf8e50e0f4aab905d3502fc436669c84db02a195425b90d504e0951445a92289bcb8bff87</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 五段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a74d071587934b817a4c95f2c0f0a3d5b8df146007ab5c8f6d388bafda8d7420f80dda5df61d494f47faf4736f95760a2542e726eb1e043b4616d10b11b4e8a14</hash>
-		<type>2</type>
-	</course>
-
-	<course>
-		<title>月光段位 四段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3aca784a3ea7c2fdd17f5729461b4b99d02e962e84f9ceeb87535fe50a382a380a67e2d922934d95e6ee045992029bb2d67e152fd391634a60162287fc22556c33</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>月光段位 発狂七段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a3725d7e92f0afbfbc9d15675e0d08fb291aee09a11633f1013234cd49304681ef625a63c71b41860e1ff302f515700cd5ee2810a0e818128c41b9385f09deb64</hash>
+    <type>2</type>
+  </course>
 
 
-	<course>
-		<title>月光段位 三段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a88f4a500afab5df0e52d5ac716188c5881c5ad395f7987f955205a975d737f1d0a94e9cc1c078b758be3d08ee9dfdb91da345cdb530bb79086cd3cdf54b4fcc8</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>月光段位 発狂六段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a4b347c77f74ff4880673448664d0d1ea4204bb56d82fd5e49bda4ea9d0184e256aa70db2ae25d5b38c0509378504ecca9d72051631c4e84912123bffc26a5612</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>月光段位 二段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a9b73dc3de202ac0db28fa1bfd57635703670478ea40be5872b9bfb81cd6dacb2cfeb3690c86701e19538b88c295d21c460cc070b8d49e38d84d2e1c3b5affdf7</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>月光段位 発狂五段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a3a500560e6ace69e08b51736ff1be0ca8b71de41395ff4f802b4e6fa7d92f9c055252fa3daaeb2dff8cfc3204c647fdf3ffe563b9ccdcd7181ac278c4690c146</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>月光段位 初段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000000a3a5734e689de8e977d58c6fb0f91bcee70f1498cee7a2ccb7ade2f52dfc34c4c1d0d0fedbbb3cf665300b22ab234f75d371198adab31ba6bdbf671e3fcb1e2575b</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>月光段位 発狂四段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a27adc9d365ff31d58e1497b5d3ffba5d8efab01d8676841446492c7265f292eef8b3b8ca5b5c5f7be1352b7aae723bee5077cd14b4759d0e8d61e854eac4e88a</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 発狂三段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a19fbf62d711282d81208f97f7135e2a2482c2a1670136e8c2f2820b066b1f55df9fe3ae19a3f9d0db64b1984fe76718233ae18837ec81491c38b9acccda8b16d</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 発狂二段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a5e3711f2f576f3929156c9594b87efacd6b485999d498560213aa45b0cd6c6b70f3837b9461a613dddf26a31e82f0084cefb4735c26f9488438021b4d7fdca31</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 発狂初段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3af872dd65dd08638b06d80470a3233fb98a8a6c2f3511eb0876a6c9a2027d7bbe6f4d00fd3c20579595a6f9368b4b1fa50ae6aad252b54324e739a245c9efaacc</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 十段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a3c8063cac832c21238f9f592c851765b0d1a3240230a854d05877f0d523a1409d431f5779ff511480101f4612cebbfd4b590372b98e07f4d9f8b1015ff1bcdf8</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 九段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3adf68078e8c3599efddb5ab75c733f21b9f53d106b5fc087c026132bd88c0df5303c906bf1229a701a0471165242e123378f2706a7988d4eaf26f2903abd3f789</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 八段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a6056d0a9f8a49f18e6a36f3fa7e392ced42e735c4948e3394d54feff7a81b111f9f9c431ce1d20c17df441b77a692cb72731a99aac7e5a5411efd072f2e79fef</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 七段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a0711cbf7fe98b8b9c2cf7435eef786bc629dfcea49f5c078d6ce74e7ed9a6578c6d39cc29a48af2d8b9a917e6ab85f3f2f25fb20f7d5015fc045df6e41c8a6c5</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 六段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a429da21b5482a9d8b2dda97b43cb2bb50b72c1195d8a527c8772d76bf8e50e0f4aab905d3502fc436669c84db02a195425b90d504e0951445a92289bcb8bff87</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 五段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a74d071587934b817a4c95f2c0f0a3d5b8df146007ab5c8f6d388bafda8d7420f80dda5df61d494f47faf4736f95760a2542e726eb1e043b4616d10b11b4e8a14</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 四段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3aca784a3ea7c2fdd17f5729461b4b99d02e962e84f9ceeb87535fe50a382a380a67e2d922934d95e6ee045992029bb2d67e152fd391634a60162287fc22556c33</hash>
+    <type>2</type>
+  </course>
+
+
+  <course>
+    <title>月光段位 三段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a88f4a500afab5df0e52d5ac716188c5881c5ad395f7987f955205a975d737f1d0a94e9cc1c078b758be3d08ee9dfdb91da345cdb530bb79086cd3cdf54b4fcc8</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 二段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a9b73dc3de202ac0db28fa1bfd57635703670478ea40be5872b9bfb81cd6dacb2cfeb3690c86701e19538b88c295d21c460cc070b8d49e38d84d2e1c3b5affdf7</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>月光段位 初段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000000a3a5734e689de8e977d58c6fb0f91bcee70f1498cee7a2ccb7ade2f52dfc34c4c1d0d0fedbbb3cf665300b22ab234f75d371198adab31ba6bdbf671e3fcb1e2575b</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

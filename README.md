@@ -15,9 +15,21 @@ LR2IRCourses
 
 ## 历史更新
 
-### 2019.05.30
+### 2021.09.28
 
 增加了如下段位：
+- stcourse - Satellite Skill Analyzer 2nd
+- selene. - Stella Skill Simulator 3rd
+- dataro - 集い段位第四期
+- Khibine - 私的 Level Measure
+- Khibine - 第2期同梱表 Level Measure
+- Rb_Drache2 - Drache段位認定
+- sirokuma398 - しろくま段位2020（九段から）
+- りこ - ふぇいりあ段位認定（発狂九段から）
+- FaL3CChoBo - 5KEY AERY
+
+### 2019.05.30
+
 - Finnt - 仮想段位認定
 
 ### 2019.02.25

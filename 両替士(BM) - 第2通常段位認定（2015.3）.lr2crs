@@ -2,74 +2,74 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>第2通常段位認定 十段 (2015/3)</title>
-		<line>7</line>
-		<hash>00000000002000000000000000009f2badfa536284238aa08c3ff4bb9e5b8c9cc47a156a785f8d1858341ab722ceab80c71fdca6438aee0c7068cbc5103bd3b43004d49607ce6fe08e572169a7bd61c2</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2通常段位認定 十段 (2015/3)</title>
+    <line>7</line>
+    <hash>00000000002000000000000000009f2badfa536284238aa08c3ff4bb9e5b8c9cc47a156a785f8d1858341ab722ceab80c71fdca6438aee0c7068cbc5103bd3b43004d49607ce6fe08e572169a7bd61c2</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2通常段位認定 九段 (2015/3)</title>
-		<line>7</line>
-		<hash>00000000002000000000000000009f2b043880563155d8763a33660bfda32c2352265862e46b3d12f65c84f30ab7895fe6d59faa8aa2708d4faaa3013d136e40a69797e5735be285a032d519788f2424</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2通常段位認定 九段 (2015/3)</title>
+    <line>7</line>
+    <hash>00000000002000000000000000009f2b043880563155d8763a33660bfda32c2352265862e46b3d12f65c84f30ab7895fe6d59faa8aa2708d4faaa3013d136e40a69797e5735be285a032d519788f2424</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2通常段位認定 八段 (2015/3)</title>
-		<line>7</line>
-		<hash>00000000002000000000000000009f2b1bac37f4ae696df258b21a902bfd02321b246941755c0b57d94f824390197d0fede57aeeaa87ea18c4bffa31aa6c19c0b357386bcc0c49f55c598759e523fb34</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2通常段位認定 八段 (2015/3)</title>
+    <line>7</line>
+    <hash>00000000002000000000000000009f2b1bac37f4ae696df258b21a902bfd02321b246941755c0b57d94f824390197d0fede57aeeaa87ea18c4bffa31aa6c19c0b357386bcc0c49f55c598759e523fb34</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2通常段位認定 七段 (2015/3)</title>
-		<line>7</line>
-		<hash>00000000002000000000000000009f2bbe200f2661494dc96a0b0484e36129db4ae1854c1894c4412ca2c40471628d43541c9a97e8fbfe4087662f84d93b850bdad53c2e0914f6867da3e4e2eacd69fa</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2通常段位認定 七段 (2015/3)</title>
+    <line>7</line>
+    <hash>00000000002000000000000000009f2bbe200f2661494dc96a0b0484e36129db4ae1854c1894c4412ca2c40471628d43541c9a97e8fbfe4087662f84d93b850bdad53c2e0914f6867da3e4e2eacd69fa</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2通常段位認定 六段 (2015/3)</title>
-		<line>7</line>
-		<hash>00000000002000000000000000009f2bdbf71bc8344d4fd406e154e599c5c27c298c5d422977d8569f8b9a1edea3124d542e726eb1e043b4616d10b11b4e8a1497b5e9745c3afd03b079e39e5a315030</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2通常段位認定 六段 (2015/3)</title>
+    <line>7</line>
+    <hash>00000000002000000000000000009f2bdbf71bc8344d4fd406e154e599c5c27c298c5d422977d8569f8b9a1edea3124d542e726eb1e043b4616d10b11b4e8a1497b5e9745c3afd03b079e39e5a315030</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2通常段位認定 五段 (2015/3)</title>
-		<line>7</line>
-		<hash>00000000002000000000000000009f2be8f3ffafe1a1a8c84ed2d2cb380d324d46cbd3b29d0ba5b55820858f5d5cf12cd4a59f3995ede718c630c54c3c9f134dbb17d6e06313cca519ce6db737f0c5c5</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2通常段位認定 五段 (2015/3)</title>
+    <line>7</line>
+    <hash>00000000002000000000000000009f2be8f3ffafe1a1a8c84ed2d2cb380d324d46cbd3b29d0ba5b55820858f5d5cf12cd4a59f3995ede718c630c54c3c9f134dbb17d6e06313cca519ce6db737f0c5c5</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2通常段位認定 四段 (2015/3)</title>
-		<line>7</line>
-		<hash>00000000002000000000000000009f2bd57a17d64cc52db2f2a722c8694d2b456473a5ccee87efd65a6fc3fc8f50f178573f06ced9dd4e9a9417eedef9bbc542f909cf16df2f2f14e5c702477b90152c</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2通常段位認定 四段 (2015/3)</title>
+    <line>7</line>
+    <hash>00000000002000000000000000009f2bd57a17d64cc52db2f2a722c8694d2b456473a5ccee87efd65a6fc3fc8f50f178573f06ced9dd4e9a9417eedef9bbc542f909cf16df2f2f14e5c702477b90152c</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2通常段位認定 三段 (2015/3)</title>
-		<line>7</line>
-		<hash>00000000002000000000000000009f2b5d298afcb4debc77516e2fe4e5160707e2964cfe83166848def5b57ee65d003533886d50eeed58432b65952deda91e4949211e7ff7eef57e2b591b351d3f0914</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2通常段位認定 三段 (2015/3)</title>
+    <line>7</line>
+    <hash>00000000002000000000000000009f2b5d298afcb4debc77516e2fe4e5160707e2964cfe83166848def5b57ee65d003533886d50eeed58432b65952deda91e4949211e7ff7eef57e2b591b351d3f0914</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2通常段位認定 二段 (2015/3)</title>
-		<line>7</line>
-		<hash>00000000002000000000000000009f2b2c0d139bb400382935ae45259141a17b3b6bb838cf98b67999a68b5bf706436ab8f64e0e2a39a04a5cdccc2b20642c32540e93cc11287ad8c714260460ac9fb5</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2通常段位認定 二段 (2015/3)</title>
+    <line>7</line>
+    <hash>00000000002000000000000000009f2b2c0d139bb400382935ae45259141a17b3b6bb838cf98b67999a68b5bf706436ab8f64e0e2a39a04a5cdccc2b20642c32540e93cc11287ad8c714260460ac9fb5</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2通常段位認定 初段 (2015/3)</title>
-		<line>7</line>
-		<hash>00000000002000000000000000009f2b5734e689de8e977d58c6fb0f91bcee705bb7d406aa5848ec2f46d80c29d82ca57fff4be5e57c65e7e65a081a39292e663f45e68a802d62bcea78c1fc0d93d484</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2通常段位認定 初段 (2015/3)</title>
+    <line>7</line>
+    <hash>00000000002000000000000000009f2b5734e689de8e977d58c6fb0f91bcee705bb7d406aa5848ec2f46d80c29d82ca57fff4be5e57c65e7e65a081a39292e663f45e68a802d62bcea78c1fc0d93d484</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

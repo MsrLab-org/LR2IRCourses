@@ -2,81 +2,81 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>第2期LN段位認定 「皆伝」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44a2e89637acf29f90e5a87f6e98e8e6719dacad04139781e3ebe39284b27db06cab83456faa953975cc935e0241806e18497275288c887c1c704fb35421885c211</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「皆伝」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44a2e89637acf29f90e5a87f6e98e8e6719dacad04139781e3ebe39284b27db06cab83456faa953975cc935e0241806e18497275288c887c1c704fb35421885c211</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2期LN段位認定 「十段」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44af7fa3a06fc662aca189ebc4339168a96d11367825fd8200f23d379de017fabb1c777dc5427ed9f464036dc9616d4c5e63260eccf67f0ca5a35eac2c2aaf521a8</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「十段」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44af7fa3a06fc662aca189ebc4339168a96d11367825fd8200f23d379de017fabb1c777dc5427ed9f464036dc9616d4c5e63260eccf67f0ca5a35eac2c2aaf521a8</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2期LN段位認定 「九段」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44a9c634a7e36ff2986435a600f7f0e042481a50d1315e61f7fb2e4cd05031b303839fbf70cca5f496b040d88b3554fa0df4f617edd75777a7fdd9a91520183ce51</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「九段」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44a9c634a7e36ff2986435a600f7f0e042481a50d1315e61f7fb2e4cd05031b303839fbf70cca5f496b040d88b3554fa0df4f617edd75777a7fdd9a91520183ce51</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2期LN段位認定 「八段」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44aa17fd49688f822461240aef68d68395cb85768ee626b7bb22ab8a4993e3d66a4d606bace7b7712e17dbbc2ed8504eb890fd3a31cdb1a745e049d78b94656d46c</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「八段」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44aa17fd49688f822461240aef68d68395cb85768ee626b7bb22ab8a4993e3d66a4d606bace7b7712e17dbbc2ed8504eb890fd3a31cdb1a745e049d78b94656d46c</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2期LN段位認定 「七段」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44a7a4875efff8d26cb206f27247eac7300fd4e98fabe5989bf1bb80f9be9afc158224f02343f10f0d5c8aefe2efd24f934d29f3088c2e9ab7f6dcf62390e2a984c</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「七段」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44a7a4875efff8d26cb206f27247eac7300fd4e98fabe5989bf1bb80f9be9afc158224f02343f10f0d5c8aefe2efd24f934d29f3088c2e9ab7f6dcf62390e2a984c</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2期LN段位認定 「六段」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44ad8b0069ae0e29f6af8ff7e8a7a3184ce32820c0feab7c5cf68fd03026ae8a7dfef0f1e66ca09dcbc3f12dea271965e5bb955a0c5d8090b9345379ecc8372b815</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「六段」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44ad8b0069ae0e29f6af8ff7e8a7a3184ce32820c0feab7c5cf68fd03026ae8a7dfef0f1e66ca09dcbc3f12dea271965e5bb955a0c5d8090b9345379ecc8372b815</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2期LN段位認定 「五段」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44abeb4aba557b357a37b761fc33fb0f4f43ad8d78baa4fdf5edd91924785a7d6cc3afb09d7e1bc322afc3911439f4285267e077651addb37cdbf4b85f6508c99a6</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「五段」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44abeb4aba557b357a37b761fc33fb0f4f43ad8d78baa4fdf5edd91924785a7d6cc3afb09d7e1bc322afc3911439f4285267e077651addb37cdbf4b85f6508c99a6</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2期LN段位認定 「四段」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44ae1f42fcf977970f4eb462b48619ed76d5076b5372dc199dce796ef3da19e11e2a5147431d55245e92cc1204ae033b506d03d7dcaea9b95bfd6134c6bb2ef29ca</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「四段」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44ae1f42fcf977970f4eb462b48619ed76d5076b5372dc199dce796ef3da19e11e2a5147431d55245e92cc1204ae033b506d03d7dcaea9b95bfd6134c6bb2ef29ca</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2期LN段位認定 「三段」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44a8525dd73d1f4ab12c11d6c1eb522c69b5b241a4b4a9d5092be76af3035e23fd6302e7f97c4e2aabc8c7eec75cc9cb59d1b04fe50e0ee32feaacc636bfdc5ae2c</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「三段」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44a8525dd73d1f4ab12c11d6c1eb522c69b5b241a4b4a9d5092be76af3035e23fd6302e7f97c4e2aabc8c7eec75cc9cb59d1b04fe50e0ee32feaacc636bfdc5ae2c</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2期LN段位認定 「二段」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44ad68cc643f05914fc389223e86281613f99e5d67df53aa9a184d319de6a2d6afbb891f294e9bfd1f04108f8436c09c156144b2e2239364e305e7950e5578b858a</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「二段」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44ad68cc643f05914fc389223e86281613f99e5d67df53aa9a184d319de6a2d6afbb891f294e9bfd1f04108f8436c09c156144b2e2239364e305e7950e5578b858a</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2期LN段位認定 「初段」</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c44a9eba77f6c634655538ea26b3be83571dcf8332959d335587b383bbb61144200e744c7ce0951c83fd25402a9ec614289f0127fc65b6e0bfee4814bebd403a77f2</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2期LN段位認定 「初段」</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c44a9eba77f6c634655538ea26b3be83571dcf8332959d335587b383bbb61144200e744c7ce0951c83fd25402a9ec614289f0127fc65b6e0bfee4814bebd403a77f2</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

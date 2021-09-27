@@ -2,88 +2,88 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-    <course>
-        <title>発狂皆伝っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81e7aa9437164b505cd4260955c4ce0624f845a17536dee577f7a0afa067fa536215978fad340afbc123cdd28945bf1e57d538d3b12c5cc27948c19fca368f6257b</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂皆伝っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81e7aa9437164b505cd4260955c4ce0624f845a17536dee577f7a0afa067fa536215978fad340afbc123cdd28945bf1e57d538d3b12c5cc27948c19fca368f6257b</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂中伝っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81e7fd8a87559a14d4a8d5867aae06e8864dea6f20c24aabc0984b4a3f66f997ee32856659c7533275466b0f93efa3dadf8d2cdf28edc1ab9c25fbede7902e82c22</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂中伝っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81e7fd8a87559a14d4a8d5867aae06e8864dea6f20c24aabc0984b4a3f66f997ee32856659c7533275466b0f93efa3dadf8d2cdf28edc1ab9c25fbede7902e82c22</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂十段っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81e92892e7a9f81773b4bf25b8db1c98cac14e242272c33a1774bf12a70571bb94ad23a2e7dcf07ed2742477f09e50e1bf36cab005fa74faf889a7573c5ba51e4d0</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂十段っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81e92892e7a9f81773b4bf25b8db1c98cac14e242272c33a1774bf12a70571bb94ad23a2e7dcf07ed2742477f09e50e1bf36cab005fa74faf889a7573c5ba51e4d0</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂九段っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81e57d10637d8bf9da1240060af6bd38c9ddcf3d946cbc402dec08871b115225c46807c26e54c4ed6f2f3f6dc439f159ca5964f90e176afbe94daf736499f052e88</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂九段っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81e57d10637d8bf9da1240060af6bd38c9ddcf3d946cbc402dec08871b115225c46807c26e54c4ed6f2f3f6dc439f159ca5964f90e176afbe94daf736499f052e88</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂八段っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81e9ce56cd8806895c676a002022b6ae325eeec3f7659ee455f94e40a1f12645e4e97794d0cb7a2d192655a13cc803e1d16751738dea1169c5c39db935adfc9e85f</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂八段っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81e9ce56cd8806895c676a002022b6ae325eeec3f7659ee455f94e40a1f12645e4e97794d0cb7a2d192655a13cc803e1d16751738dea1169c5c39db935adfc9e85f</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂七段っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81e04245f5649e814c54aa4e346abf1c28f1cf2e138abd7199d6e4656447cfaed6cb89279d026c9d40d0f5eedde2e25b920dae5aafc422dc625e602349b2b9cfa26</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂七段っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81e04245f5649e814c54aa4e346abf1c28f1cf2e138abd7199d6e4656447cfaed6cb89279d026c9d40d0f5eedde2e25b920dae5aafc422dc625e602349b2b9cfa26</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂六段っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81e64715e5edf46723e79bed9966ea48176fa9f75006aa50c4aae5d9d2edf3ee0b6871c6aed53c5dd3ac35686d9a92af4f43f3bed485c074401ef4bcfb6781786ee</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂六段っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81e64715e5edf46723e79bed9966ea48176fa9f75006aa50c4aae5d9d2edf3ee0b6871c6aed53c5dd3ac35686d9a92af4f43f3bed485c074401ef4bcfb6781786ee</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂五段っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81ea74edf85c87807b2cdd8ebec098d9119e10f3dbc3b3625b9c65d0c9b7ae61f33f01c2401b6c6e8e73e9e8a3a6c96e5b9671f262906a25b4354d403bd96560900</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂五段っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81ea74edf85c87807b2cdd8ebec098d9119e10f3dbc3b3625b9c65d0c9b7ae61f33f01c2401b6c6e8e73e9e8a3a6c96e5b9671f262906a25b4354d403bd96560900</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂四段っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81e44e7f11a7e9d6b1ad289e78d4c4558f25db7f37819b57ba62a8661fd12851be02f5fc9140ade63e7f5f74d427567dac2695a7b261e23b22cf0b1b8c8f4626635</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂四段っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81e44e7f11a7e9d6b1ad289e78d4c4558f25db7f37819b57ba62a8661fd12851be02f5fc9140ade63e7f5f74d427567dac2695a7b261e23b22cf0b1b8c8f4626635</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂三段っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81e50a15e4aa167047ee505d409ac3ea4f524de0f65402e47ecdcd933a51ba83dc0a3013463601c7ef7ee9c90ed911a872a273f2920b296c72ad322ee3005ea27f7</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂三段っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81e50a15e4aa167047ee505d409ac3ea4f524de0f65402e47ecdcd933a51ba83dc0a3013463601c7ef7ee9c90ed911a872a273f2920b296c72ad322ee3005ea27f7</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂二段っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81ed353c5f0a6075ff60d3d5c34a1636e05625db11cae1e9db588828dd43c56ec54e3bcd9be1b86a056c489bf102fbc69960c65f3ac5bbd647977a64d51ef90d2ac</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂二段っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81ed353c5f0a6075ff60d3d5c34a1636e05625db11cae1e9db588828dd43c56ec54e3bcd9be1b86a056c489bf102fbc69960c65f3ac5bbd647977a64d51ef90d2ac</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>発狂初段っぽいなにか</title>
-        <line>7</line>
-        <hash>0000000000200000000000000000b81e621ad2a006a4d39a57749c5f8dcc11b6b9568bf56e7fded029f02efaca1c019d728c45910c9d38dbe9986c56817c9dc19231d374ad83470ac856401fac855888</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>発狂初段っぽいなにか</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000b81e621ad2a006a4d39a57749c5f8dcc11b6b9568bf56e7fded029f02efaca1c019d728c45910c9d38dbe9986c56817c9dc19231d374ad83470ac856401fac855888</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

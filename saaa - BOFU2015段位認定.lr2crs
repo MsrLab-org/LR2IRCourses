@@ -2,109 +2,109 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>BOFU2015 大血戦</title>
-		<line>7</line>
-		<hash>000000000020000000000000000076416fabd22dbb92abf8f19ef7925b49018e5ee2810a0e818128c41b9385f09deb6469d4d5a53716448e5fd3519461fed994d9ef7046e967310fbeeaaf4911acc1b7e86dcaed6e9992a1547f2e32df53db81</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 大血戦</title>
+    <line>7</line>
+    <hash>000000000020000000000000000076416fabd22dbb92abf8f19ef7925b49018e5ee2810a0e818128c41b9385f09deb6469d4d5a53716448e5fd3519461fed994d9ef7046e967310fbeeaaf4911acc1b7e86dcaed6e9992a1547f2e32df53db81</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 皆伝</title>
-		<line>7</line>
-		<hash>00000000002000000000000000007641d2e4741dc28ecb5ac27f95b32e6160e671d3304accd3e05e6e0a6b43c19d18703c32b02639351130e856ade1edb4e1c628ce9dcf42c8f9fd2f4c6baa4a99ebf6</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 皆伝</title>
+    <line>7</line>
+    <hash>00000000002000000000000000007641d2e4741dc28ecb5ac27f95b32e6160e671d3304accd3e05e6e0a6b43c19d18703c32b02639351130e856ade1edb4e1c628ce9dcf42c8f9fd2f4c6baa4a99ebf6</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 達人</title>
-		<line>7</line>
-		<hash>00000000002000000000000000007641d237495484bce69ad707e84b269f2fac5c3f4be9373a0c7d8b1643f7e30bcb5cbe25046de33965e1f5f0c13eeee84976dfad94b0280fd8b9ba672801dfadbe86</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 達人</title>
+    <line>7</line>
+    <hash>00000000002000000000000000007641d237495484bce69ad707e84b269f2fac5c3f4be9373a0c7d8b1643f7e30bcb5cbe25046de33965e1f5f0c13eeee84976dfad94b0280fd8b9ba672801dfadbe86</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 名人</title>
-		<line>7</line>
-		<hash>00000000002000000000000000007641829163296e6492b3cdbd1c77dbc44d988faa0fc06a989fdb3f153e38ac7efddd6147bcac97a7daf2784fa43dbc8ba9c8226e647aac88ba05c8eafaf9af5fba53</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 名人</title>
+    <line>7</line>
+    <hash>00000000002000000000000000007641829163296e6492b3cdbd1c77dbc44d988faa0fc06a989fdb3f153e38ac7efddd6147bcac97a7daf2784fa43dbc8ba9c8226e647aac88ba05c8eafaf9af5fba53</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 玄人</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000764131fd5035b5699a25deee300dcc2f9fee356fbb97fa6adcae12a1d1df82793d0da1fc8f39becc3b3ee381a800b624b80927cf4ed5f8e68af2680c18ff04c8f07d</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 玄人</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000764131fd5035b5699a25deee300dcc2f9fee356fbb97fa6adcae12a1d1df82793d0da1fc8f39becc3b3ee381a800b624b80927cf4ed5f8e68af2680c18ff04c8f07d</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 十段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000007641197053ba0681ba82bbbb7ec07572de906f628e3782b8f8ed4b0c5a7dc7af49fea0e8f1abe9c08892364caddd932220bfcc9e27423248e6ac75b9dd9d59e704cb</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 十段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000007641197053ba0681ba82bbbb7ec07572de906f628e3782b8f8ed4b0c5a7dc7af49fea0e8f1abe9c08892364caddd932220bfcc9e27423248e6ac75b9dd9d59e704cb</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 九段</title>
-		<line>7</line>
-		<hash>000000000020000000000000000076412da445c72cc1ffac708acddbd9660f47c059a301e5a434f67024f0579eedc1089441e3704a4857255e6c242310717a1853595b49a5551459a81f18452b3d6945</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 九段</title>
+    <line>7</line>
+    <hash>000000000020000000000000000076412da445c72cc1ffac708acddbd9660f47c059a301e5a434f67024f0579eedc1089441e3704a4857255e6c242310717a1853595b49a5551459a81f18452b3d6945</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 八段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000007641b0cf676b1490813958160cb02f893c42b503afa163aa896948f04d8a59ea2122d00790b840b6636761c368158a697daf0c04811b537e2b9944bd2c98ac2a510e</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 八段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000007641b0cf676b1490813958160cb02f893c42b503afa163aa896948f04d8a59ea2122d00790b840b6636761c368158a697daf0c04811b537e2b9944bd2c98ac2a510e</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 七段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000764179c0a887745172d94820c57af4711216c412dc04fabbae024bfa8915629327515b6c0eadec621743d7e6e9d818c3ad9d279a964c0f2b85c1d73941d0fdfd3187</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 七段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000764179c0a887745172d94820c57af4711216c412dc04fabbae024bfa8915629327515b6c0eadec621743d7e6e9d818c3ad9d279a964c0f2b85c1d73941d0fdfd3187</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 六段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000007641903aee646f29ed2f11507dcae075ce925e72be4ac64c0536a7e07ff6e133cdbdca2d40d841aa705a85b8b694127c7f444fa0377aba6e7574e7aac2b73ef890eb</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 六段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000007641903aee646f29ed2f11507dcae075ce925e72be4ac64c0536a7e07ff6e133cdbdca2d40d841aa705a85b8b694127c7f444fa0377aba6e7574e7aac2b73ef890eb</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 五段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000007641bba553a3eaa17fdb76efb4f529ec177582cc73a810e611e01126359a408f3ae6c703a8ce3fca033f503965abb6af3e472e6749345adb138bf8f4d9f85d41d298</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 五段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000007641bba553a3eaa17fdb76efb4f529ec177582cc73a810e611e01126359a408f3ae6c703a8ce3fca033f503965abb6af3e472e6749345adb138bf8f4d9f85d41d298</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 四段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000007641a230dfcfae4af1328d1f3d16a1f7c41d196f095743d20fc59c5bfc72a066b33ec524f3e631a0412cb14e190902da3388ca2c662aa5e072d99e81583d85de24b6</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 四段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000007641a230dfcfae4af1328d1f3d16a1f7c41d196f095743d20fc59c5bfc72a066b33ec524f3e631a0412cb14e190902da3388ca2c662aa5e072d99e81583d85de24b6</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 三段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000764183403f6fbee30775fd65f525f7e0cae997dbe63175114920390dd26bcf646dbafce44bad8658fe7a9380e26bef9388325eece308f8a4d33f27192766d0ad00b5</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 三段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000764183403f6fbee30775fd65f525f7e0cae997dbe63175114920390dd26bcf646dbafce44bad8658fe7a9380e26bef9388325eece308f8a4d33f27192766d0ad00b5</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 二段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000007641e031269cdd747a9aef586f719229f182d7eda3a3cbd93d06db5092a37540f6f391412b418acef70f36b192ea01b32728bdfdf93d60a1bd7109cfd258f933c710</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 二段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000007641e031269cdd747a9aef586f719229f182d7eda3a3cbd93d06db5092a37540f6f391412b418acef70f36b192ea01b32728bdfdf93d60a1bd7109cfd258f933c710</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOFU2015 初段</title>
-		<line>7</line>
-		<hash>000000000020000000000000000076410216f85c89f1789f6026dee227ca85066291c014e838f8779c0fe8e3b46810639e21cba8e28b0ee5a8779e9a276faf9273eec316e2cb73e67a22e26da887fc63</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOFU2015 初段</title>
+    <line>7</line>
+    <hash>000000000020000000000000000076410216f85c89f1789f6026dee227ca85066291c014e838f8779c0fe8e3b46810639e21cba8e28b0ee5a8779e9a276faf9273eec316e2cb73e67a22e26da887fc63</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

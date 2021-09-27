@@ -2,88 +2,88 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>第2妄想段位 発狂皆伝</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d589bf55882fa4a1762bfb927f2731dbb13a689c0fc91f5ea062908f1fe31f434cef7313cd04f913c2c6cfd3a9a23662eed782173ebf8a347472313477ed6022bee</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂皆伝</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d589bf55882fa4a1762bfb927f2731dbb13a689c0fc91f5ea062908f1fe31f434cef7313cd04f913c2c6cfd3a9a23662eed782173ebf8a347472313477ed6022bee</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂十段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d583a16e3bf1a8dddb36ff7e00d00ebe09b0653005df6ff311390084e0e4051d5bdc907fb027bd9d8893b2d743b2661bd187b0fcf7da5d772ac6c4cdceb0ea386a8</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂十段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d583a16e3bf1a8dddb36ff7e00d00ebe09b0653005df6ff311390084e0e4051d5bdc907fb027bd9d8893b2d743b2661bd187b0fcf7da5d772ac6c4cdceb0ea386a8</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂九段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d585f4eac4c5f1db4e86b43f846bf6476f4fc0e584d68ed54c20b9626f5a79483f2cada54582f85645b79b99e38298fbb4bda9cebf08e4b5c6d88b9bd4b1fc0a27a</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂九段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d585f4eac4c5f1db4e86b43f846bf6476f4fc0e584d68ed54c20b9626f5a79483f2cada54582f85645b79b99e38298fbb4bda9cebf08e4b5c6d88b9bd4b1fc0a27a</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂八段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d585afd08cee761969de7f374b9cf3e6e4b5aa0517a13933707497024a8bb54100cb30ff97e0b3a2498cd68b20e7370820a97b85fa202bdb6df4ffeae5f174fc4a9</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂八段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d585afd08cee761969de7f374b9cf3e6e4b5aa0517a13933707497024a8bb54100cb30ff97e0b3a2498cd68b20e7370820a97b85fa202bdb6df4ffeae5f174fc4a9</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂七段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d58852e5f920de608b18fb929368ded19b14740f1738d6bc3eb58d378f977fbd7c87b9b114bf1a4f745118f06acc7bf6d66aec21fd1d585fdfd67bf93fc1c5c92d9</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂七段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d58852e5f920de608b18fb929368ded19b14740f1738d6bc3eb58d378f977fbd7c87b9b114bf1a4f745118f06acc7bf6d66aec21fd1d585fdfd67bf93fc1c5c92d9</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂六段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d58c765ac7a42e92e5904d7c6e506a8ffbe4c75b2e852718a5bdb7235b51a8dc87819bd34c97ece85f1d9e1821c27f77122ed1b6482620c5cee6a56c18584739767</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂六段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d58c765ac7a42e92e5904d7c6e506a8ffbe4c75b2e852718a5bdb7235b51a8dc87819bd34c97ece85f1d9e1821c27f77122ed1b6482620c5cee6a56c18584739767</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂五段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d5867e7a0e6ac5c88062b4037c4b0a838ed6cd18b84ad51cef1328124ece01fdcc56e941d565809159e5120aa5a4ee2447b49289319f1b5fcd916de2663eac910d9</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂五段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d5867e7a0e6ac5c88062b4037c4b0a838ed6cd18b84ad51cef1328124ece01fdcc56e941d565809159e5120aa5a4ee2447b49289319f1b5fcd916de2663eac910d9</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂四段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d58f698fdaf29ff24243098c995ed81c7f28a952b2f66c887b89a0dd80953612c090c6a3008fcf8008aa4da6ad56b67892e924f1d51851a2991722a042654d4ce09</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂四段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d58f698fdaf29ff24243098c995ed81c7f28a952b2f66c887b89a0dd80953612c090c6a3008fcf8008aa4da6ad56b67892e924f1d51851a2991722a042654d4ce09</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂三段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d5882a5d5e95491b236a39ae5c00d70fdcaf593640e59b50bf0f671deff2279faf231fec89a397e270f1540fe2a160c01b43850432a86d0c7dcf529f47a26cdb801</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂三段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d5882a5d5e95491b236a39ae5c00d70fdcaf593640e59b50bf0f671deff2279faf231fec89a397e270f1540fe2a160c01b43850432a86d0c7dcf529f47a26cdb801</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂二段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d58b32c42d9a1b4b81655ec8901dfdeb6388ef69caa9ab82c89af3e44669cc8ad21215d7becb63e6ab8c1acfea5b52ddf7e350967ddf2e5038d742a6a311b9982da</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂二段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d58b32c42d9a1b4b81655ec8901dfdeb6388ef69caa9ab82c89af3e44669cc8ad21215d7becb63e6ab8c1acfea5b52ddf7e350967ddf2e5038d742a6a311b9982da</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂初段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d58a1fcf82071f2cb1c615bf2322f3ee6c90c1215e9f8941c19a36991ab7ecae701fd3c23c0fe383ae6411195cde828049c8143f74424be61d396121ed69951a746</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂初段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d58a1fcf82071f2cb1c615bf2322f3ee6c90c1215e9f8941c19a36991ab7ecae701fd3c23c0fe383ae6411195cde828049c8143f74424be61d396121ed69951a746</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>第2妄想段位 発狂入門</title>
-		<line>7</line>
-		<hash>00000000002000000000000000002d584c5c0544707fa4160526be09af8c7f0a129977f225efc738096427789fe7763d71b650091137122b6f0c457dd927dea970c725d0f29fbfc0ae5a4b48247d3cc2</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>第2妄想段位 発狂入門</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002d584c5c0544707fa4160526be09af8c7f0a129977f225efc738096427789fe7763d71b650091137122b6f0c457dd927dea970c725d0f29fbfc0ae5a4b48247d3cc2</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

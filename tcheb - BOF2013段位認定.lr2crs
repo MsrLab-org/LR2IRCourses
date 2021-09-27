@@ -2,81 +2,81 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>BOF2013段位認定 皆伝</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b868a9150f1701872e41c9ce51bbc831f10045153b89105ac8fd25a2a23dcea4665bba3ca09152db51e480863d4f74682f0169686bd3883f1196f4dd7a4af48f36</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 皆伝</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b868a9150f1701872e41c9ce51bbc831f10045153b89105ac8fd25a2a23dcea4665bba3ca09152db51e480863d4f74682f0169686bd3883f1196f4dd7a4af48f36</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2013段位認定 10段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b89bc60f39535e0737f7c845aa96fb48a2eaa580c3c6c3ab22ec3c3d1ba317eb2c71a13b5c65d0cff28e49219f7789be4dc6599ccca27e0055b4575145309577d7</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 10段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b89bc60f39535e0737f7c845aa96fb48a2eaa580c3c6c3ab22ec3c3d1ba317eb2c71a13b5c65d0cff28e49219f7789be4dc6599ccca27e0055b4575145309577d7</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2013段位認定 9段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b86ba57c0187a93635a8caa93f7e2061fddad53c2e0914f6867da3e4e2eacd69fa3acae69d0c160351a942ec28a9249d5aa7c8f29936a46b9f962f246b23d7200b</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 9段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b86ba57c0187a93635a8caa93f7e2061fddad53c2e0914f6867da3e4e2eacd69fa3acae69d0c160351a942ec28a9249d5aa7c8f29936a46b9f962f246b23d7200b</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2013段位認定 8段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b809dde8197e94b895f9cd93261fc11dfbe2afd2dfc1273a0df230d607c4d38b0791b54ce0a7a80eeb301c89d7cded86ba68188cbf856c0cffcd12ef8d2b5212ae</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 8段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b809dde8197e94b895f9cd93261fc11dfbe2afd2dfc1273a0df230d607c4d38b0791b54ce0a7a80eeb301c89d7cded86ba68188cbf856c0cffcd12ef8d2b5212ae</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2013段位認定 7段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b815ccb189dfa13dcf93e91cb23ca9c5a3120d52fe155b3f64aaf613682e19ffea429da21b5482a9d8b2dda97b43cb2bb5dbc9d588de28c07289339e8e7983708f</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 7段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b815ccb189dfa13dcf93e91cb23ca9c5a3120d52fe155b3f64aaf613682e19ffea429da21b5482a9d8b2dda97b43cb2bb5dbc9d588de28c07289339e8e7983708f</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2013段位認定 6段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8d28b3844539996a81775885c5d418b65a7b5e290a10715dbea97f4f180c97dfe6f2292c291d39635b1dceb5c1ae980754f1d67200b2d7fb40211e71020638136</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 6段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8d28b3844539996a81775885c5d418b65a7b5e290a10715dbea97f4f180c97dfe6f2292c291d39635b1dceb5c1ae980754f1d67200b2d7fb40211e71020638136</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2013段位認定 5段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8bbd5783d0931a31dfb81ac995f64650ee58cc5fb978e589efac84e887149140e2e129dba87b6c435a784ffb13bb463d6235a4f760a2605c0f458a7ec9260977d</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 5段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8bbd5783d0931a31dfb81ac995f64650ee58cc5fb978e589efac84e887149140e2e129dba87b6c435a784ffb13bb463d6235a4f760a2605c0f458a7ec9260977d</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2013段位認定 4段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8703c5cd3ced00078b059a7cdccc0e242dcd842fe979881800f000a03390eb98413d65f7838b998c2c6a41d40f7d71a1329ff7e29c35b7d72cb1a7437fc09b36d</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 4段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8703c5cd3ced00078b059a7cdccc0e242dcd842fe979881800f000a03390eb98413d65f7838b998c2c6a41d40f7d71a1329ff7e29c35b7d72cb1a7437fc09b36d</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2013段位認定 3段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8428a5243cb719f1119d23573f154bbf240f0a077d133703d8f0a38034b284a23ec9b6fd391cf9c11cc196c9a68b8ce403843bc1916f5d81dc40b82517887df7a</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 3段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8428a5243cb719f1119d23573f154bbf240f0a077d133703d8f0a38034b284a23ec9b6fd391cf9c11cc196c9a68b8ce403843bc1916f5d81dc40b82517887df7a</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2013段位認定 2段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b804a735e7e7f073f13617f977c425e2589c25107d738d5dfb16a9fd62d7500a1bebfbd71723aec3733af2c6dee09d5b3f4bb02f6ba53b99223bb913a1f9fcf444</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 2段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b804a735e7e7f073f13617f977c425e2589c25107d738d5dfb16a9fd62d7500a1bebfbd71723aec3733af2c6dee09d5b3f4bb02f6ba53b99223bb913a1f9fcf444</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2013段位認定 初段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000f3b8dffa6c4d6eee2eeb0b5af9758e37f3a3af604c821f0b3f7bfd9c70378c900d78a633d779b39f8a633150a69ff2a67d1fa122a55a830fb4c38ab3afeb1212d355</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2013段位認定 初段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000f3b8dffa6c4d6eee2eeb0b5af9758e37f3a3af604c821f0b3f7bfd9c70378c900d78a633d779b39f8a633150a69ff2a67d1fa122a55a830fb4c38ab3afeb1212d355</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

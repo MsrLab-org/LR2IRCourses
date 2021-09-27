@@ -2,81 +2,81 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>scarlet式　東方段位認定皆伝</title>
-		<line>7</line>
-		<hash>000000000020000000000000000050559523873f4caff7cd4df12bccce160604ed40d68d31873d52dd87cd1cf7896113d608a29c7c0ac191a12c529cb1b59a16d4e2c4132b93b6bc1048c0cbf29cd318</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定皆伝</title>
+    <line>7</line>
+    <hash>000000000020000000000000000050559523873f4caff7cd4df12bccce160604ed40d68d31873d52dd87cd1cf7896113d608a29c7c0ac191a12c529cb1b59a16d4e2c4132b93b6bc1048c0cbf29cd318</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>scarlet式　東方段位認定十段</title>
-		<line>7</line>
-		<hash>000000000020000000000000000050553ecf74d7969767a230788dde5994cd2091c7e2955728329ccd9ece21b42b0d8019cf48e4b28ea36e99620a8d49f1a2ebb3326cf41692fa2b5d0bacfb38957083</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定十段</title>
+    <line>7</line>
+    <hash>000000000020000000000000000050553ecf74d7969767a230788dde5994cd2091c7e2955728329ccd9ece21b42b0d8019cf48e4b28ea36e99620a8d49f1a2ebb3326cf41692fa2b5d0bacfb38957083</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>scarlet式　東方段位認定九段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000505589124d1ad2b9109b15c9d1c578883b2a3afee8800279470a08867df620f5bd40861a1bf774cf20c0db3e6234916256ad90f5b8ff667e3a135f313d90e738d861</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定九段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000505589124d1ad2b9109b15c9d1c578883b2a3afee8800279470a08867df620f5bd40861a1bf774cf20c0db3e6234916256ad90f5b8ff667e3a135f313d90e738d861</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>scarlet式　東方段位認定八段</title>
-		<line>7</line>
-		<hash>000000000020000000000000000050557a4da6008ed66f25d35be5161859e6f7aecbdc4e33ddeb7fa9ddeb4cdbdd4ec2295cc135340fbf1aa51c04ef40361cc7d0e150a56e09c7f35fe24b7bcf503ac1</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定八段</title>
+    <line>7</line>
+    <hash>000000000020000000000000000050557a4da6008ed66f25d35be5161859e6f7aecbdc4e33ddeb7fa9ddeb4cdbdd4ec2295cc135340fbf1aa51c04ef40361cc7d0e150a56e09c7f35fe24b7bcf503ac1</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>scarlet式　東方段位認定七段</title>
-		<line>7</line>
-		<hash>000000000020000000000000000050559e56037f804fb6f087f32a927efac0742010b90e35fdae311197f9fa8d57a4b22fe3c40f1775a48a38d474b74e92f1dce4b5c6ce0aac9833355acb0dc40aba07</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定七段</title>
+    <line>7</line>
+    <hash>000000000020000000000000000050559e56037f804fb6f087f32a927efac0742010b90e35fdae311197f9fa8d57a4b22fe3c40f1775a48a38d474b74e92f1dce4b5c6ce0aac9833355acb0dc40aba07</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>scarlet式　東方段位認定六段</title>
-		<line>7</line>
-		<hash>000000000020000000000000000050555a2ec572c6d690719386d0c196e9b424a8238bbec1032ae9a5eafd32efa601d7c7092f42fb6893b2da873a9740bee535dc170d1fa980f7cb741d9b4f9c523fa4</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定六段</title>
+    <line>7</line>
+    <hash>000000000020000000000000000050555a2ec572c6d690719386d0c196e9b424a8238bbec1032ae9a5eafd32efa601d7c7092f42fb6893b2da873a9740bee535dc170d1fa980f7cb741d9b4f9c523fa4</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>scarlet式　東方段位認定五段</title>
-		<line>7</line>
-		<hash>000000000020000000000000000050556d37b4332d37f011a232c0c43937d1b9aeb405e5dc2ea351874844028ff75cd1ed71d0b52e6b0235f6ac22fd3375d830a4a384052c63709ed46c5ddd93697e99</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定五段</title>
+    <line>7</line>
+    <hash>000000000020000000000000000050556d37b4332d37f011a232c0c43937d1b9aeb405e5dc2ea351874844028ff75cd1ed71d0b52e6b0235f6ac22fd3375d830a4a384052c63709ed46c5ddd93697e99</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>scarlet式　東方段位認定四段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005055c996ab953bf34d644fd9d246e13117b2b92ac48ea18ce31a6b5d0e9265b97c35011485a2c554546aafbff3ac4b2d4f13c7f3d461d9cd186739edd64894311657</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定四段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005055c996ab953bf34d644fd9d246e13117b2b92ac48ea18ce31a6b5d0e9265b97c35011485a2c554546aafbff3ac4b2d4f13c7f3d461d9cd186739edd64894311657</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>scarlet式　東方段位認定三段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000505541fdb1b0545a52346061948e0d374f1b5d2e8b6d61aadc94ce2d7cac42bcb4eb15ee5e19c27d8d11d6c0a37d2e5d6dc43577dd01b1b98165e011214a5eaf2067</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定三段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000505541fdb1b0545a52346061948e0d374f1b5d2e8b6d61aadc94ce2d7cac42bcb4eb15ee5e19c27d8d11d6c0a37d2e5d6dc43577dd01b1b98165e011214a5eaf2067</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>scarlet式　東方段位認定二段</title>
-		<line>7</line>
-		<hash>00000000002000000000000000005055875834fa9bd972eb069575956766a647bd95adf94c27763abc556642289f41fc6eb073c6a001e4d807c44645758741fb0553af7ca4cc36aee78a10f8abc63372</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定二段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000005055875834fa9bd972eb069575956766a647bd95adf94c27763abc556642289f41fc6eb073c6a001e4d807c44645758741fb0553af7ca4cc36aee78a10f8abc63372</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>scarlet式　東方段位認定初段</title>
-		<line>7</line>
-		<hash>000000000020000000000000000050557c7bf701506b03eaed844749567e7539ea9b894c937cd3cb346a70731a8aebd7be5de5e5edb5825047d24460564ef936b6af3b6d99ac4d76f60a283b4dc1d548</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>scarlet式　東方段位認定初段</title>
+    <line>7</line>
+    <hash>000000000020000000000000000050557c7bf701506b03eaed844749567e7539ea9b894c937cd3cb346a70731a8aebd7be5de5e5edb5825047d24460564ef936b6af3b6d99ac4d76f60a283b4dc1d548</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

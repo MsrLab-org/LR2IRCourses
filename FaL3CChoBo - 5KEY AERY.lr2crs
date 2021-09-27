@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+  <course>
+    <title>5KEY AERY OVERJOY</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d1008eb1ea88e9e45342f867b8bac3965b95f14007516fc382c36d44aedfcbb1cb738bba604155ae6d59ee6cda8f22e4072afe37eb636bbddfbd1c3f86dc19f2df</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY KAIDEN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d15571fdd440253f1ab63ce9f0941f15b329a4297cb803a59cd36e2947435a140d6ec50d36a67885a78fc7e3dc4530b314bf0d010be8c2228b9e005a11a9fe19d4</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY 10 DAN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d1c500b9e51964329f47c6493edeab286c54f41fb0871e1994989807e025ac8ebeded28f8d4dda2947ea4638f374bee967cb19c7bf3b61665cc4ae14637b0699a7</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY 9 DAN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d15e29313e98b40e3ae28714116cbac8d0f6be6c243e39710cb2dbd59ca1974d378f3e58d8f468a93c7782c4720907b9b9ca926488791d31768d44fdf03241884a</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY 8 DAN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d1309f5b584c99d701255221270444d097ca103fc233a729d58dbe482be69617cfb0a7becf0a2da1775d1df833e3c91180aff24fdc15d1352aa9ac71683371f601</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY 7 DAN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d19a17844bddcc1d8d19b66c8ce306250273f6612c7fd725661b0d117bbc907b79fb9d5dc5f1d9502da084dd907415cd3e8f9c43d6b494050274548dd58cbab2ea</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY 6 DAN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d1c5bc590d872c1b3e9f95b4ad3df1414a00c200b1c88c0f078db5063116738f69c58ff88a92986162ae83f1544a5e971e7fd2412d29fb7e49ed25a90d38f2dfef</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY 5 DAN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d14abc38dc575f74107ac516b1647d4573ea8c64153db62ad987df9e031a7ca7d33f527413cc90812e8dcf22765c7c7dc26e14ad37cd83ca636859c065a81ab142</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY 4 DAN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d1bc26437d006f595d00faea2a8a4ddcdb9301851e1e1e3a9480915137613f9dd348e9960bb6227f58d75c1d1cf9bfd0300234ac8d716b56731c9ffb3c04740a20</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY 3 DAN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d1243a177c6ad656c72698f08a0b28e6906a2baf994f11afe6b75cca887a7cd1c38a7d1acf1f4baa2160cece323197550de8541c1c0358a2b8525c1bb34a12b75e</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY 2 DAN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d1156dbfb1bd4fd947eeafcc006f5f19a56d170f159a2638b06ed032eee6c05556ade6ed8cc87a7cf2a66bdc3717b27476a5f0d3bf92b419826037143e4792a86a</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>5KEY AERY 1 DAN</title>
+    <line>5</line>
+    <hash>0000000000200000000000000000f3d1ba1d9dc0ed472701c7b7ce6bab9096b24fa6c61f9c085e667e86d9db73295c8a3571009e777823db79c695d14abb838c863548cd0bdf3697f9316fba7580ab6c</hash>
+    <type>2</type>
+  </course>
+
+</courselist>

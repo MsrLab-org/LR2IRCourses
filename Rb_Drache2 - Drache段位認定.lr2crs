@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+  <course>
+    <title>Drache段位認定　皆伝</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb0573d256b2f2f297582249a1509c8b6895ac1228ba3c377c984014cf5d6c56f0a7727ab7a4bc5995f9d4e53b0273b8e698204febd6a2f38c3d4f0f2e3278b6a960</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　中伝</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb05fbe94821f93aefea75dc0ad20c7e9cc6093a8d66b89944db9e42aa2321b4f6375dc1e3e22e4fc735f010e35f2ae77480fd3318a7a5389c7698e49399254e212c</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　十段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb05dea6f20c24aabc0984b4a3f66f997ee3a8d67366d1e603ff3000af761aef0e53b64501551556f35f11e263f70fe65d05fb975909eb0f60a9190c7a1007515d4b</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　九段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb05e27f3374832a4df86582520183342245ea7096cd8a20ad7c12c0802c898188cfff5d7235ba643bc85b804a3df2778590d7d2e57e1de315927ca7d8aea8ecd555</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　八段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb05119eea569c407f1b4539c3881738e40fdae5aafc422dc625e602349b2b9cfa26cebe3d7dc0aacf4245342adf9f8a5b0663947bce9af12ca7f84492b20ca21928</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　七段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb05eb961de5b7703657a08fe2dce340e5d666541c1cd7bdb9b51c606441e0512c7738616b85332037cc12924f2ae28402622e1c5ef56b7e8ac5c441af17be37a15e</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　六段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb05158955b82c49f25c23bc2da39cb3bea4ed155e5082127249407c747d2c44df0fef950ae2fefba3c6c4c2055ccf648189f96cf3af3d9356407bff483d27f4aecc</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　五段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb058a8019d432ab4dd9bde4e65faf1b663f1f5cf9788ce30603c5ffe261f55d6c3d7fd4d1b5a767fd97343129157782a95f7682f710c79e4c13fa7daf1a723cb19e</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　四段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb05f1f3584b41d64c744fdc5fad14f61e0a284fd8fdf21f963359aca222b9872c92bd0e8759e479663d7e8314d2b6e1dab32132643e7ed1bf42f3a484d92321f57a</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　三段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb05a6738157b2dc1689bea1f6123660d7233b3ffc9ece8671973cea9d90f93c2e8f350d06e51618cebbd037afcf762fb6997dbe2a38e7bb2b2611cf0fc6b8b7cc2c</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　二段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb05aaffdf6c3fd3731cfb577b9375381c57246a443bc377f25424df0bc0c7535405151c0d2bb94ab56dfb753410ae70598ecdd882a55d73c4c6876504b66026f982</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Drache段位認定　初段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000eb05df84cff13642ddc8903fccaeb36c92f94ec61c1d81b50a31f028ba4693e0ddbac07125de4ed7fbe7cb066cc41e50e51e4ffc2e2369740ac9d44da39cea5e0224</hash>
+    <type>2</type>
+  </course>
+
+</courselist>

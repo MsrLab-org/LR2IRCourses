@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl12</title>
+    <line>7</line>
+    <hash>000000000020000000000000000041551eeb095a41e3db3addbacf2483c80a3a6a3762ad91ec89392dda8554360f66c184f24615319041873d799faf257d86bf4648b0a5679acf21bc8102ac95e50585</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl11</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155cc1c4f40886d7ea1d32f867fb9ea2e205ef59b86b228978d435115aa7a9e564a4f86c4d20af4d619f9fbe693db0c0d30be15c9f54f0a0cd0e5c1737415dc7182</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl10</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155fd76b7d207db6c3942bfac0af6fac8db24c869a51384af113e9271a766e7d4be1fdd8463a1bc45db75e803f33708ab8e8b3c66f945d041b5df53ba3e292e5c54</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl9</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155116b85b4c01a2cd2cc76ac9e4572e3fed7f000e155172ab880f7be09769124cbcf7c4f006cd571da3b83e355bc64f3141bc98542eaf7f0cccfb4026bb3c25f49</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl8</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155b7148c7e0a7a5fd58232c85f3b4b86924ca647a61e781803b2d7bf54f0d582c21bc969cfd715e1bea67839599035c94e225552f7a4a30610e0ff28671ca7230f</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl7</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155649ee01d75eae442f8c1122ca35c70f0e6e9e37764eb800b5417d43824c92717c778712db728ca7e88b9ba3cf1836479489ddffa0c8d458530d93da6b0354cae</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl6</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155fe2fbfefcdf57b56bb6aaa89d6ee11ccc565d6dbf6346e6a28277742ecd9d60c7d8b3dcd63e6adea25807ab25ea1544c438fa3931fcbb5b71c27b6587c5034c3</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl5</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155b6f2c8d798b81f67a14ce05c50cb3b0785ff41c5e0d78d19d06507dbb16ba72f21b4c6161aa75946b0692ed375010f68164efb64a46f8bd10b83c00b9436f5f8</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl4</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155d72477a3cbf5f2c096039a4685b4929f1804c40d5ed2092fea58ad5b7e98e8821cc3ef8d8b7dec5515d7168e5e03cfa7d5414294b120d5f2dbfec4eb6cd59f38</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl3</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155de4b2ccfd35befc3aa9fd746343115c18eb958b06d294ec88dc0620ce43e10b36334415043e69d0eb5afc18da3aab1a4e85c07e4aa2601ea97d90d7157a89894</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl2</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155e5f4a30db9a9bd1ebab13d97b37fca75fffcdd50280873a3a6a8efb584b5454bbb51e06228e7279b47120b9a5c527421dc5d89d22642fe863b5ec6ec83b3eada</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl1</title>
+    <line>7</line>
+    <hash>00000000002000000000000000004155ddb2c34e1543c219c4b251b13671be1fd2d922aa6bcaeed61087d434b330c30e02af89d2c76d4494b6561ee2c94b15cda0f64c8af8621f4fdce97e24193a76cb</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>Satellite Skill Analyzer 2nd sl0</title>
+    <line>7</line>
+    <hash>000000000020000000000000000041559ee5524e4ed8a3e7033b4de1fedc35fd9498378a847b94b949d11a566a86d3c04023045d9134dfc47e953bc430e5ef07bb5d0716c18b37f9687bbcea17fc646c</hash>
+    <type>2</type>
+  </course>
+
+</courselist>

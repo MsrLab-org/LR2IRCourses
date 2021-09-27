@@ -2,109 +2,109 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-	<course>
-		<title>BOF2010段位認定 ゴリラ用</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c9608f2a82e4f1f3e299c5d761a4c673b9ae339358625e811d0f066b762fa07c08a7ba21bbbfc06c970aada452b20deb7a9230df271387cc808230d9093f03f888c6120d5dd043fddeb0f787bf808213549e</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 ゴリラ用</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c9608f2a82e4f1f3e299c5d761a4c673b9ae339358625e811d0f066b762fa07c08a7ba21bbbfc06c970aada452b20deb7a9230df271387cc808230d9093f03f888c6120d5dd043fddeb0f787bf808213549e</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 発狂#3</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c960dad19c29e360084a08c7d14ec0e7ade5a5965ebf1d692f1665ec0a8cae9352cc4e71e16bd460e51093dee96df9488a198f2a82e4f1f3e299c5d761a4c673b9ae</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 発狂#3</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c960dad19c29e360084a08c7d14ec0e7ade5a5965ebf1d692f1665ec0a8cae9352cc4e71e16bd460e51093dee96df9488a198f2a82e4f1f3e299c5d761a4c673b9ae</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 発狂#2</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c960ecd4d41a799bb3d017e7a7399a758ffb95c16938707fade2c8efb3ef63985e03b8c0c37082328a75e9fe4913933765e22338ea893bf8c9c3d3304c862615adc6</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 発狂#2</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c960ecd4d41a799bb3d017e7a7399a758ffb95c16938707fade2c8efb3ef63985e03b8c0c37082328a75e9fe4913933765e22338ea893bf8c9c3d3304c862615adc6</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 発狂#1</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c96023a8632f802303429f5aef6a1164f89b39c94af218616910f7bde6cc5a8ded022047b9816304ffd77e2d886f4c2970a11c7161bde9d2857530c581e06382bfb8</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 発狂#1</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c96023a8632f802303429f5aef6a1164f89b39c94af218616910f7bde6cc5a8ded022047b9816304ffd77e2d886f4c2970a11c7161bde9d2857530c581e06382bfb8</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 皆伝</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c9600fac7e29bccc44def373b924ea9b7a9cabda3ba062283fda60e2e3b2541dc41fbaebf6e0854e61741867c22fc9f6cd0bec512b5317a09926bcce02f760adb5b7</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 皆伝</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c9600fac7e29bccc44def373b924ea9b7a9cabda3ba062283fda60e2e3b2541dc41fbaebf6e0854e61741867c22fc9f6cd0bec512b5317a09926bcce02f760adb5b7</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 十段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c96064088b09d740b162901a19047e0d5995e0005f553b5ea8e0e53d0424f1b95b6fa54bc9f9ecb8e570fd3b849e28f7d2fbd67dbd1d8a5666d1122db490fcd0f428</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 十段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c96064088b09d740b162901a19047e0d5995e0005f553b5ea8e0e53d0424f1b95b6fa54bc9f9ecb8e570fd3b849e28f7d2fbd67dbd1d8a5666d1122db490fcd0f428</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 九段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c9603451600cf26211f9bb9960e99fe3eb4503f38a8f9d13cb82f8d307c4465c46e1a62e99d0aa7c05efc2b5bcc338c8686ba9f5798b64403f02c588de2545679f42</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 九段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c9603451600cf26211f9bb9960e99fe3eb4503f38a8f9d13cb82f8d307c4465c46e1a62e99d0aa7c05efc2b5bcc338c8686ba9f5798b64403f02c588de2545679f42</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 八段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c960c15b6f2389e770bec639331fda08f6daf9c5f4c11765b4f4f9e8c9022114ed9e2926047f08b572571a5a9b98c2fac258a55a32bab83c4d64d09f4352c9ee5bcf</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 八段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c960c15b6f2389e770bec639331fda08f6daf9c5f4c11765b4f4f9e8c9022114ed9e2926047f08b572571a5a9b98c2fac258a55a32bab83c4d64d09f4352c9ee5bcf</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 七段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c96092d971158ab1d1af22ef1d4f59888fa7726b4d387f3ff2ea4f82fb10c3859bf9ae9dc4862a51c1aa9cb633f10a39d44e1cb7613b87133b8f842eff1b1f4a957b</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 七段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c96092d971158ab1d1af22ef1d4f59888fa7726b4d387f3ff2ea4f82fb10c3859bf9ae9dc4862a51c1aa9cb633f10a39d44e1cb7613b87133b8f842eff1b1f4a957b</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 六段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c960578a23702ef6d7ba3b4d1ad0873ed2c35cbebcf4e404f62ee84bc59cf8f05bf8beabb5451cd3311d08569be92939d3efa14bf19e1ea91040cf727de649df99a0</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 六段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c960578a23702ef6d7ba3b4d1ad0873ed2c35cbebcf4e404f62ee84bc59cf8f05bf8beabb5451cd3311d08569be92939d3efa14bf19e1ea91040cf727de649df99a0</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 五段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c9608e986568a8104104da472b1bc2c0836a74d071587934b817a4c95f2c0f0a3d5b0ec72573625844e8598c7a6df37de5c09bdbe8a3e29ee232d167a4119ac9964f</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 五段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c9608e986568a8104104da472b1bc2c0836a74d071587934b817a4c95f2c0f0a3d5b0ec72573625844e8598c7a6df37de5c09bdbe8a3e29ee232d167a4119ac9964f</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 四段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c9608e5349140b15f8c6a39f2aa003bc928e08b87d9446e61722c6efcc4c9c0b2719b5b3d86ed768df6c4589e3382164a9071db12940ddd8eb3f20a583a2387cb7ee</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 四段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c9608e5349140b15f8c6a39f2aa003bc928e08b87d9446e61722c6efcc4c9c0b2719b5b3d86ed768df6c4589e3382164a9071db12940ddd8eb3f20a583a2387cb7ee</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 三段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c960b8ba718784cf45c2e497342839f540d4405df4227507daf6679daa04e7326c15a4ea39fceb696633fd4438fd997212d01f27c39f645b70169adef93bf9696e06</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 三段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c960b8ba718784cf45c2e497342839f540d4405df4227507daf6679daa04e7326c15a4ea39fceb696633fd4438fd997212d01f27c39f645b70169adef93bf9696e06</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 二段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c9607275c95d4f020478c2c8533168091ab28354976d6493edde5f821b90b163322585bfdbea885d5b7afb7b0d3f08c4ba0df71b619e0de3c45b005e9dea8a313809</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 二段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c9607275c95d4f020478c2c8533168091ab28354976d6493edde5f821b90b163322585bfdbea885d5b7afb7b0d3f08c4ba0df71b619e0de3c45b005e9dea8a313809</hash>
+    <type>2</type>
+  </course>
 
-	<course>
-		<title>BOF2010段位認定 初段</title>
-		<line>7</line>
-		<hash>0000000000200000000000000000c960f2a1308b292374db1ea88e637e3d6c315734e689de8e977d58c6fb0f91bcee70725aab302a2f0b0c8e570c6799fb3f4607f5920a6659d42a31c16d012f730b45</hash>
-		<type>2</type>
-	</course>
+  <course>
+    <title>BOF2010段位認定 初段</title>
+    <line>7</line>
+    <hash>0000000000200000000000000000c960f2a1308b292374db1ea88e637e3d6c315734e689de8e977d58c6fb0f91bcee70725aab302a2f0b0c8e570c6799fb3f4607f5920a6659d42a31c16d012f730b45</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

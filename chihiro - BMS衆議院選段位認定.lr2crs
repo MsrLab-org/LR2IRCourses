@@ -2,88 +2,88 @@
 <!--曲は上から順に登録されます。-->
 <courselist>
 
-    <course>
-        <title>BMS衆議院選段位認定　皆伝</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c2287f8e622fb47ab2213ba717c8c9ab47a268c1dac8a7de3c540e0c434255ad4b2a2db1d2c6e5e2e36eb7433888c8b7e8b4e2ce74143d6a4b2ab6cee13faa57bcd</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　皆伝</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c2287f8e622fb47ab2213ba717c8c9ab47a268c1dac8a7de3c540e0c434255ad4b2a2db1d2c6e5e2e36eb7433888c8b7e8b4e2ce74143d6a4b2ab6cee13faa57bcd</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　中伝</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c22bd525b78193c061bd887a18e0ad3c6ccf2a2e2642b4e0e2742c2e8c05b5c500d5b905d0c8b534a17311cb02315006cefee052e1d172c65635fb20f158e4a1082</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　中伝</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c22bd525b78193c061bd887a18e0ad3c6ccf2a2e2642b4e0e2742c2e8c05b5c500d5b905d0c8b534a17311cb02315006cefee052e1d172c65635fb20f158e4a1082</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　十段</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c22d40ee9bc5754ec06900d4bd0fbea84ba81ee4dd92f4122ad86da61ef6cf69fa0462a967b4fde62c3ab97cdf116e3835ec86939d03711c8361a9298133bf768ae</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　十段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c22d40ee9bc5754ec06900d4bd0fbea84ba81ee4dd92f4122ad86da61ef6cf69fa0462a967b4fde62c3ab97cdf116e3835ec86939d03711c8361a9298133bf768ae</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　九段</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c22d4bb28b4788a28000c24bd20fd2241683381481c8dc8fc605cd1bd111109bcadd6e64e122444899e2fc4916274c550cdd8728d19a8bb8bd0e9642c132f69b62e</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　九段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c22d4bb28b4788a28000c24bd20fd2241683381481c8dc8fc605cd1bd111109bcadd6e64e122444899e2fc4916274c550cdd8728d19a8bb8bd0e9642c132f69b62e</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　八段</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c22879c144fcedbe05b80233a55b854600858a35ea7c04cf2958ffce9d594670003189d677e87c276894d6cda1906bc5ec61d006915f1ecd17968d95b963728f78f</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　八段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c22879c144fcedbe05b80233a55b854600858a35ea7c04cf2958ffce9d594670003189d677e87c276894d6cda1906bc5ec61d006915f1ecd17968d95b963728f78f</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　七段</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c22b951e5cdccf99db037e62ca6f401e15749f8c4811d6acf680f8528d75105e4e8c13d191822821f1c11f148b611049d9020b6dd48535dfb3f6f797e299e8f72e8</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　七段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c22b951e5cdccf99db037e62ca6f401e15749f8c4811d6acf680f8528d75105e4e8c13d191822821f1c11f148b611049d9020b6dd48535dfb3f6f797e299e8f72e8</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　六段</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c2204c3db6ff8b45395d2db63376f3044c857d1b756a0607c9980ee230f190a454910b6e744215099ff8e2b6f1a3d3729ce3d688f9481232df625020932318521f5</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　六段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c2204c3db6ff8b45395d2db63376f3044c857d1b756a0607c9980ee230f190a454910b6e744215099ff8e2b6f1a3d3729ce3d688f9481232df625020932318521f5</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　五段</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c227c6c771b77d5b3c7b62fac461ff652384acf2867df7ae07ba34088fe7f090f3e66d9e4828fa52b48f317dc17558bd12b8fcc51e6293fbb3d2dcbcdb57d699f7e</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　五段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c227c6c771b77d5b3c7b62fac461ff652384acf2867df7ae07ba34088fe7f090f3e66d9e4828fa52b48f317dc17558bd12b8fcc51e6293fbb3d2dcbcdb57d699f7e</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　四段</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c221e1b6ec04373cc7add7bf262a71de5fea08a08303bbd5c6d2a17623a1603a97ee2a89b79be1fcb7eae318c2de072897c18595a45d4b2c3cfd900d8ae27c12bc7</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　四段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c221e1b6ec04373cc7add7bf262a71de5fea08a08303bbd5c6d2a17623a1603a97ee2a89b79be1fcb7eae318c2de072897c18595a45d4b2c3cfd900d8ae27c12bc7</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　三段</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c222cda18dd6c4a6e30129c23fd1b9989e3d9781fe697301973e530bebceddd99d1b2db879797ef011e02bcd9d02611dee28e51432af6e62ed4e2263496dc49e77c</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　三段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c222cda18dd6c4a6e30129c23fd1b9989e3d9781fe697301973e530bebceddd99d1b2db879797ef011e02bcd9d02611dee28e51432af6e62ed4e2263496dc49e77c</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　二段</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c2228d6454ac0b8ae92045f35bad2e92e8f4b134227cffe3202aa32ad269481d2210f1c4b7356d35d31ac132b643e4ee7d3bae0c9b36c814daff5a60fbff2d3460c</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　二段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c2228d6454ac0b8ae92045f35bad2e92e8f4b134227cffe3202aa32ad269481d2210f1c4b7356d35d31ac132b643e4ee7d3bae0c9b36c814daff5a60fbff2d3460c</hash>
+    <type>2</type>
+  </course>
 
-    <course>
-        <title>BMS衆議院選段位認定　初段</title>
-        <line>7</line>
-        <hash>00000000002000000000000000002c22cc76c9e6a9082bec08d44fb052fc7a7aa16f72088eb5772a7ef6e9f1578372162d05e28093c6d4649368df463020ee93deef179d8ca3169fff85155d33c4482c</hash>
-        <type>2</type>
-    </course>
+  <course>
+    <title>BMS衆議院選段位認定　初段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000002c22cc76c9e6a9082bec08d44fb052fc7a7aa16f72088eb5772a7ef6e9f1578372162d05e28093c6d4649368df463020ee93deef179d8ca3169fff85155d33c4482c</hash>
+    <type>2</type>
+  </course>
 
 </courselist>

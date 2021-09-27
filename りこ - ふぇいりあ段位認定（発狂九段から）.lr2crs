@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="shift_jis"?>
+<!--曲は上から順に登録されます。-->
+<courselist>
+
+  <course>
+    <title>ふぇいりあ段位認定　Gorilla</title>
+    <line>7</line>
+    <hash>00000000002000000000000000003b0a2ef13e2092c83543862c03babeaccc4bb0279420063b1f5bc8f16c36cf990f0f37ad4c1e0c6a1042dc4ffa5728068bed46a2c6c0f73f1520feac4228982eb17d</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>ふぇいりあ段位認定　発狂皆伝</title>
+    <line>7</line>
+    <hash>00000000002000000000000000003b0a68c58f701bf7317c934c9019299be170df692f0447ec63f7d578947fd26a3c46faa670f8f908ccc6abdee93f721285661200f95ae9a9b4c2b6915f76b7b1e597</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>ふぇいりあ段位認定　Overjoy</title>
+    <line>7</line>
+    <hash>00000000002000000000000000003b0a945186e72918774b15cff9a38fe7d8ec455e4c78d98be1409554b21bc58c51df1f9c8ae3fed23602520debe11a9e0d247b120f62df2da69ec06f2321d1969f67</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>ふぇいりあ段位認定　発狂十段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000003b0aba6965631ba463756ad2f1725d2f445b43501ad9870d5f58ed4f8bc8adc7e1da4709c903d17c408695c131d230c20dc5a2284b403d90fdf8c055dab688838079</hash>
+    <type>2</type>
+  </course>
+
+  <course>
+    <title>ふぇいりあ段位認定　発狂九段</title>
+    <line>7</line>
+    <hash>00000000002000000000000000003b0a68f7337ffb77de90919f6fa68a4f6eb55d68568a44301f45cd779f1a272a2285e86e5e6e9b5409e86cd40d6c8cb402f61e62d6f6394c0be0a87a8850f1f92c1a</hash>
+    <type>2</type>
+  </course>
+
+</courselist>
